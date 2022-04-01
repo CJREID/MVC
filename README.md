@@ -1,5 +1,5 @@
 # Melbourne Veterinary Collection (MVC)
-Scripts to run analysis on E. coli from the Melbourne Veterinary Collection associated with the draft manuscript "Canine extraintestinal pathogenic E. coli are highly similar to those in humans" analysing  by Elankumaran *et al*, 2022
+Scripts to run analysis on E. coli from the Melbourne Veterinary Collection associated with the draft manuscript "Canine and human extraintestinal pathogenic E. coli are highly similar" analysing  by Elankumaran *et al*, 2022
 
 ## Overview
 The following repository allows conscientious readers of the manuscript to reproduce all the data processing, statistics and figures presented in the paper.
