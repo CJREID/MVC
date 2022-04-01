@@ -1,0 +1,1447 @@
+Genus	year	Date submitted	Case_Reference	Case_number	Collection_(clean)	Plate	Remarks	Patient / Shed Number	Species type	Specimen	Info/Nota	Amp 25-d	Amc 30-d	CL 100-d	Eft 30-d	Enr 5-d	Te 30-d	SF 300-d	W 5-d	Cn10-d	Ery 5-d	Tic 75-d	Ak 30-d
+Escherichia	2007	7/2/07	CM2007-0155 Box 4 >> Tube 4	CM2007-0155	Box 04 Tube 4	Ec-799	not sent	236218	Canine	urinary	NA	S	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2007	3/4/07	CM2007-0339 Box 4 >> tube 18	CM2007-0339	Box 04 Tube 18	P1	not sent	1643	Canine	urinary	Non-swarming	S	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2006	12/12/06	CM2006-0704 Box 4 >> Tube 24	CM2006-0704	Box 04 Tube 24	Ec-800	not sent	234862	Equine	no info	wound swab	S	.	.	S	.	S	S	S	S	.	.	.
+Klebsiella	2007	19/1/07	CM2007-0082 Box 4 >> Tube 37	CM2007-0082	Box 04 Tube 37	K1	not sent	235825	Avian	musculo-skeletal	NA	.	.	.	.	.	R	R	R	.	R	.	.
+Escherichia	2007	19/3/07	CM2007-0302 Box 4 >> tube 45	CM2007-0302	Box 04 Tube 45	Ec-801	not sent	230569	Feline	reproductive	NA	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2007	2/3/07	CM2007-0232 Box 4 >> Tube 49	CM2007-0232	Box 04 Tube 49	Ec-802	not sent	106702	Feline	urinary	NA	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2007	8/3/07	CM2007-0257 Box 4 >> Tube 50	CM2007-0257	Box 04 Tube 50	Ec-803	not sent	236910	Canine	systemic or large cavities	peritoneal fluid	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2007	18/1/07	CM2007-0076 Box 4 >> Tube 51	CM2007-0076	Box 04 Tube 51	Ec-804	not sent	102321	Canine	cardiovascular	catheter	R	R	R	.	S	R	S	S	.	.	.	.
+Escherichia	2007	4/4/07	CM2007-0342 Box 4 >> Tube 54	CM2007-0342	Box 04 Tube 54	Ec-805	not sent	212701	Equine	systemic or large cavities	NA	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2007	7/3/07	CM2007-0250 Box 4 >> Tube 55	CM2007-0250	Box 04 Tube 55	Ec-806	not sent	236770	Equine	musculo-skeletal	NA	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2007	2/3/07	CM2007-0231 Box 4 >> Tube 56	CM2007-0231	Box 04 Tube 56	Ec-807	not sent	236539	Equine	skin and subcutis	wound swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2007	1/5/07	CM2007-0412 Box 5 >> Tube 1	CM2007-0412	Box 05 Tube 1	Ec-808	not sent	237438	Canine	musculo-skeletal	Surgical	R	R	R	.	S	S	S	S	.	.	.	.
+Klebsiella	2007	15/5/07	CM2007-0453 Box 5 >> Tube 2	CM2007-0453	Box 05 Tube 2	K2	not sent	no info	Avian	systemic or large cavities	Salmonella??? See tube 2.	.	.	.	.	.	S	S	S	.	R	.	.
+Escherichia	2007	31/10/07	CM2007-1031 Box 5 >> Tube 18	CM2007-1031	Box 05 Tube 18	Ec-809	not sent	241014	Canine	urinary	Urine (free catch) x1	R	R	R	.	R	R	R	R	.	.	.	.
+Escherichia	2008	13/2/08	CM2008-0113 Box 5 >> Tube 44	CM2008-0113	Box 05 Tube 44	Ec-810	not sent	243342	Feline	digestive	Abdo fluid x1	R	S	R	.	R	S	R	S	.	.	.	.
+Escherichia	2008	13/2/08	CM2008-0114 Box 5 >> Tube 45	CM2008-0114	Box 05 Tube 45	Ec-811	not sent	244067	Canine	cardiovascular	Jugular catheter x1	R	R	S	.	S	S	R	R	.	.	.	.
+Escherichia	2008	20/2/08	CM2008-0124 Box5 >> Tube 46	CM2008-0124	Box 05 Tube 46	Ec-812	not sent	231500	Canine	respiratory	Tracheal lavage (2ml received - very turbid so processed unpsun)	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2008	15/4/08	CM2008-0234 Box 5 >> Tube 55 (org1) & Tube 56 (org2)	CM2008-0234	Box 05 Tube 55 (org1) & Tube 56 (org2)	Ec-813	not sent	2	Avian	systemic or large cavities	"Shed 2 heart blood swabs x2, Shed 2 Liver swab x1."	.	.	.	.	.	.	R	R	.	R	.	.
+Escherichia	2007	8/10/07	CM2007-0918 Box 5 >> Tube 58	CM2007-0918	Box 05 Tube 58	Ec-814	not sent	133786	Feline	musculo-skeletal	Fluid (left elbow?) x1	R	R	R	.	S	R	R	R	.	.	.	.
+Escherichia	2008	14/3/08	CM2008-0162 Box 5 >> Tube 59	CM2008-0162	Box 05 Tube 59	Ec-815	not sent	243233	Canine	urinary	"urine, cloudy"	R	R	R	.	S	R	R	R	.	.	.	.
+Escherichia	2008	20/5/08	CM2008-0301 Box 5 >> Tube 61	CM2008-0301	Box 05 Tube 61	Ec-816	not sent	246774	Canine	respiratory	Mucopurulent nasal discharge swab x1	R	R	R	.	R	R	R	S	.	.	.	.
+Klebsiella	2009	12/6/09	CM2009-0475 Box6 >> T22	CM2009-0475	Box 06 Tube 22	K3	not sent	255417	Canine	digestive	diarrhoea-faecal spec.	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2009	15/6/09	CM2009-0480 Box6 T23	CM2009-0480	Box 06 Tube 23	K4	not sent	247309	Canine	digestive	"feacal swab
+
+not charged"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	14/12/09	"CM2009-0996 Box6 T75,  76"	CM2009-0996	"Box 06 Tube 75 , 76"	Ec-817	not sent	No info.	Avian	Other	"Saiful/Marc Research air sampler isolates Pos 3 isolate x1, Neg 2 isolate x1, 
+
+Neg 3 isolate x1, Neg 4 isolate x1,"	.	.	.	.	.	.	.	.	.	.	.	.
+Klebsiella	2010	2/2/10	CM2010-0079 Box7 Tube 21	CM2010-0079	Box 07 Tube 21	K5	not sent	244290	Canine	urinary	"Urine x1 (~1ml received, processed spun)"	R	S	S	.	R	S	R	R	.	.	.	.
+Proteus	2010	18/2/10	CM2010-0121 Box7 Tube 42	CM2010-0121	Box 07 Tube 42	P2	not sent	no info	Exotic/other	systemic or large cavities	Australian fur seal; Lymph nodes pooled x1 & Lung tissue x1	.	.	.	.	.	.	.	.	.	.	.	.
+Klebsiella	2010	19/7/10	CM2010-0318 Box 8 Tube 1	CM2010-0318	Box 08 Tube 1	K6	not sent	256224	Canine	urinary	"Urine, spun."	R	S	S	.	S	S	S	S	.	.	.	.
+Proteus	2010	4/8/10	CM2010-0360 Box 8 Tube 13	CM2010-0360	Box 08 Tube 13	P3	not sent	265332	Canine	urinary	Aspirate from renal pelvis	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2010	1/11/10	CM2010-0561 Box 8 Tube 79	CM2010-0561	Box 08 Tube 79	K7	not sent	267272	Canine	respiratory	Swab from ET Tube	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2011	17/2/11	CM2011-0088 Box 9 Tube 47	CM2011-0088	Box 09 Tube 47	K8	not sent	258364	Canine	urinary	Urine	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2011	28/2/11	CM2011-0111 Box 9 Tube 51	CM2011-0111	Box 09 Tube 51	K9	not sent	242358	Canine	urinary	Cystocentesis	R	S	S	.	S	S	S	S	.	.	.	.
+Klebsiella	2011	4/3/11	CM2011-0120 Box 9 Tube 53	CM2011-0120	Box 09 Tube 53	K10	not sent	237519	Canine	respiratory	ET Tube - purulent mucus	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2011	31/3/11	CM2011-0189 Box 9 Tube 69	CM2011-0189	Box 09 Tube 69	K11	not sent	W307-11	Exotic/other	systemic or large cavities	"Goat Project
+
+Lung from animal #1
+
+Liver and Lung from #3
+
+Liver and Lung from #4"	.	.	.	.	.	.	.	.	.	.	.	.
+Klebsiella	2011	30/3/11	CM2011-0187 Box 9 Tube 72	CM2011-0187	Box 09 Tube 72	K12	not sent	NA	Exotic/other	musculo-skeletal	"Goat Project
+
+Swab from carpus of goat 1
+
+Synovial chunk from stifle of goat 3"	R	.	.	S	S	R	R	R	S	.	R	.
+Klebsiella	2011	4/4/11	CM2011-0194 Box 9 Tube 73	CM2011-0194	Box 09 Tube 73	K13	not sent	271297	Exotic/other	cardiovascular	"Goat Project
+
+Pericardial effusion"	R	.	.	S	S	R	R	R	S	.	R	.
+Klebsiella	2011	6/4/11	CM2011-0202 Box 9 Tube 77	CM2011-0202	Box 09 Tube 77	K14	not sent	271136	Feline	systemic or large cavities	peritoneal fluid	R	R	R	.	S	S	R	S	.	.	.	.
+Klebsiella	2011	7/4/11	CM2011-0207 Box 9 Tube 80	CM2011-0207	Box 09 Tube 80	K15	not sent	87614	Canine	systemic or large cavities	"Urine, splenic mass, lymph node, anguinal LN"	R	S	S	.	S	S	S	S	.	.	.	.
+Klebsiella	2011	7/4/11	CM2011-0208 Box 9 Tube 81	CM2011-0208	Box 09 Tube 81	K16	not sent	w353-11	Ovine	systemic or large cavities	2 X lung and liver from 348-11	R	.	.	S	S	R	R	S	S	.	R	.
+Proteus	2011	2/5/11	CM2011-0245 Box 10 Tube 7	CM2011-0245	Box 10 Tube 7	P4	not sent	249180	Canine	urinary	Cystocentesis	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2011	23/5/11	CM2011-0292 Box 10 Tube 28	CM2011-0292	Box 10 Tube 28	K17	not sent	272200	Equine	skin and subcutis	Incisional discharge	R	.	.	R	S	R	R	R	R	.	R	.
+Klebsiella	2011	25/5/11	CM2011-0296 Box 10 Tube 31	CM2011-0296	Box 10 Tube 31	K18	not sent	267173	Avian	skin and subcutis	lesion near R axilla - swab	S	R	.	.	S	S	S	.	.	R	.	.
+Klebsiella	2011	26/5/11	CM2011-0300 Box 10 Tube 34	CM2011-0300	Box 10 Tube 34	K19	not sent	272393	Canine	skin and subcutis	Swab and sutures from infected linea alba closure	R	S	S	.	S	S	S	S	.	.	.	.
+Proteus	2011	16/6/11	CM2011-0334 Box 10 Tube 46	CM2011-0334	Box 10 Tube 46	P5	not sent	69805	Canine	ear	Swabs from L + R ear	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2011	5/7/11	CM2011-0389 Box 10 Tube 55	CM2011-0389	Box 10 Tube 55	K20	not sent	273147	Equine	skin and subcutis	Swab from incition site	R	.	.	S	S	S	R	R	R	.	R	.
+Proteus	2011	22/7/11	CM2011-0422 Box 10 Tube 63	CM2011-0422	Box 10 Tube 63	P6	not sent	273459	Canine	urinary	Catheter urine.	S	S	S	.	S	S	S	S	.	.	.	.
+Proteus	2011	24/8/11	CM2011-0496 Box 10 Tube 87	CM2011-0496	Box 10 Tube 87	P7	not sent	269115	Canine	urinary	Swab of urine.	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2011	25/8/11	CM2011-0498 Box 10 Tube 89	CM2011-0498	Box 10 Tube 89	P8	not sent	271818	Canine	urinary	Cystocentesis	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2011	16/9/11	CM2011-0551 Box 11 Tube 9	CM2011-0551	Box 11 Tube 9	K21	not sent	274851	Equine	respiratory	tracheal wash	R	.	.	S	S	S	S	S	S	.	R	.
+Proteus	2011	19/9/11	CM2011-0554 Box 11 Tube 10	CM2011-0554	Box 11 Tube 10	P9	not sent	274886	Canine	urinary	Cystocentesis	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2011	24/10/11	CM2011-0644 Box 11 Tube 36	CM2011-0644	Box 11 Tube 36	P10	not sent	275501	Canine	urinary	Urine	S	S	S	.	S	R	R	R	.	.	.	.
+Klebsiella	2011	3/11/11	CM2011-0676 Box 11 Tube 46	CM2011-0676	Box 11 Tube 46	K22	not sent	228713	Canine	urinary	Free catch urine	R	R	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2011	24/11/11	CM2011-0745 Box 11 Tube 68	CM2011-0745	Box 11 Tube 68	K23	not sent	276268	Canine	skin and subcutis	Swab from dog fight wound.	R	R	R	.	S	S	S	S	.	.	.	.
+Klebsiella	2011	28/11/11	CM2011-0752 Box 11 Tube 73	CM2011-0752	Box 11 Tube 73	K24	not sent	276586	Canine	respiratory	BAL x2	R	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2011	5/12/11	CM2011-0769 Box 11 Tube 78	CM2011-0769	Box 11 Tube 78	P11	not sent	208016	Canine	urinary	Cystocentesis	S	S	S	.	S	R	S	R	.	.	.	.
+Proteus	2011	5/12/11	CM2011-0775 Box 11 Tube 80	CM2011-0775	Box 11 Tube 80	P12	not sent	235341	Canine	urinary	Cystocentesis	S	S	S	.	S	R	S	R	.	.	.	.
+Klebsiella	2011	6/12/11	CM2011-0777 Box 11 Tube 81	CM2011-0777	Box 11 Tube 81	K25	not sent	276577	Equine	skin and subcutis	Swab from incitional infection	R	.	.	R	S	R	R	R	R	.	R	.
+Proteus	2012	2/2/12	CM2012-0067 Box 12 Tube 19	CM2012-0067	Box 12 Tube 19	P13	not sent	278064	Canine	urinary	Cystocentesis	S	S	S	.	S	R	R	R	.	.	.	.
+Proteus	2012	2/2/12	CM2012-0068 Box 12 Tube 20	CM2012-0068	Box 12 Tube 20	P14	not sent	273863	Canine	urinary	Free catch urine	R	R	R	.	S	R	R	S	.	.	.	.
+Escherichia	2012	6/2/12	CM2012-0078 Box 12 Tube 22	CM2012-0078	Box 12 Tube 22	Ec-818	not sent	278164	Ovine	digestive	Pooled Bile Illeal content and caecal content from 3 animals	S	.	.	S	S	S	S	S	S	.	S	.
+Klebsiella	2012	28/2/12	CM2012-0135 Box 12 Tube 34	CM2012-0135	Box 12 Tube 34	K26	not sent	275501	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2012	8/3/12	CM2012-0169 Box 12 Tube 37	CM2012-0169	Box 12 Tube 37	P15	not sent	271232	Canine	urinary	Urine and bladder wall	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2012	14/3/12	CM2012-0189 Box 12 Tube 43	CM2012-0189	Box 12 Tube 43	Ec-819	not sent	278980	Equine	systemic or large cavities	abdominal fluid	S	.	.	S	S	S	S	S	S	.	S	.
+Proteus	2012	30/3/12	CM2012-0234 Box 12 Tube 51	CM2012-0234	Box 12 Tube 51	P16	not sent	1643	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2012	11/4/12	CM2012-0257 Box 12 Tube 55	CM2012-0257	Box 12 Tube 55	P17	not sent	NA	Avian	systemic or large cavities	Yolk swabs birds A-D	.	.	.	.	.	.	.	.	.	.	.	.
+Proteus	2012	23/4/12	CM2012-0284 Box 12 Tube 58	CM2012-0284	Box 12 Tube 58	P18	not sent	279886	Canine	urinary	Urine	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2012	30/4/12	CM2012-0292 Box 12 Tube 62	CM2012-0292	Box 12 Tube 62	P19	not sent	257339	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	R	S	.	.	.	.
+Proteus	2012	2/8/12	CM2012-0455 Box 13 Tube 22	CM2012-0455	Box 13 Tube 22	P20	not sent	281714	Canine	urinary	Catheter urine	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2012	6/8/12	CM2012-0464 Box 13 Tube 23	CM2012-0464	Box 13 Tube 23	P21	not sent	224338	Canine	ear	ear swab	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2012	6/8/12	CM2012-0466 Box 13 Tube 26	CM2012-0466	Box 13 Tube 26	K27	not sent	224338	Canine	digestive	ET Tube	R	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2012	21/8/12	CM2012-0503 Box 13 Tube 33	CM2012-0503	Box 13 Tube 33	P22	not sent	282028	Canine	skin and subcutis	Mammary lesion	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2012	18/9/12	CM2012-0546 Box 13 Tube 64	CM2012-0546	Box 13 Tube 64	P23	not sent	203410	Canine	respiratory	ET tube swab and BAL	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2012	27/9/12	CM2012-0568 Box 13 Tube 69	CM2012-0568	Box 13 Tube 69	P24	not sent	282684	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2012	1/11/12	CM2012-0662 Box 13 Tube 74	CM2012-0662	Box 13 Tube 74	P25	not sent	283474	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2012	18/10/12	CM2012-0617 Box 13 Tube 77	CM2012-0617	Box 13 Tube 77	P26	not sent	260075	Canine	reproductive	Vaginal swab and cystocentesis..	S	S	S	.	R	R	S	S	.	.	.	.
+Proteus	2012	19/10/12	CM2012-0624 Box 13 Tube 78	CM2012-0624	Box 13 Tube 78	P27	not sent	283211	Feline	urinary	Urine	S	S	S	.	.	R	S	S	.	.	.	.
+Klebsiella	2012	8/11/12	CM2012-0686 Box 14 Tube 14	CM2012-0686	Box 14 Tube 14	K28	not sent	283553	Equine	systemic or large cavities	peritoneal fluid	R	.	.	S	S	S	R	R	R	.	R	.
+Klebsiella	2012	13/11/12	CM2012-0695 Box 14 Tube 19	CM2012-0695	Box 14 Tube 19	K29	not sent	221032	Canine	urinary	Urine	R	S	S	.	S	S	S	S	.	.	.	.
+Klebsiella	2012	19/11/12	CM2012-0714 Box 14 Tube 22	CM2012-0714	Box 14 Tube 22	K30	not sent	38808	Canine	urinary	Cystocentesis	R	R	R	.	R	R	R	R	.	R	R	S
+Klebsiella	2012	5/12/12	CM2012-0769 Box 14 Tube 32	CM2012-0769	Box 14 Tube 32	K31	not sent	283211	Feline	urinary	Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2013	11/1/13	CM2013-0023 Box 14 Tube 45	CM2013-0023	Box 14 Tube 45	K32	not sent	284225	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Klebsiella	2013	15/1/13	CM2013-0032 Box 14 Tube 47	CM2013-0032	Box 14 Tube 47	K33	not sent	285019	Canine	respiratory	BAL	R	S	S	.	S	S	S	S	.	.	.	.
+Proteus	2013	21/1/13	CM2013-0052 Box 14 Tube 50	CM2013-0052	Box 14 Tube 50	P28	not sent	285133	Feline	urinary	Cystocentesis.	S	S	S	.	.	R	S	S	.	.	.	.
+Proteus	2013	21/1/13	CM2013-0053 Box 14 Tube 51	CM2013-0053	Box 14 Tube 51	P29	not sent	269965	Canine	urinary	Urine	S	S	S	.	.	R	S	S	.	.	.	.
+Klebsiella	2013	29/1/13	CM2013-0072 Box 14 Tube 55	CM2013-0072	Box 14 Tube 55	K34	not sent	284588	Canine	respiratory	Swab of endotracheal tube.	S	R	S	.	S	S	R	S	.	.	S	.
+Proteus	2013	11/2/13	CM2013-0111 Box 14 Tube 63	CM2013-0111	Box 14 Tube 63	P30	not sent	264658	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2013	3/4/13	CM2013-0259 Box 15 Tube 7	CM2013-0259	Box 15 Tube 7	K35	not sent	286526	Equine	skin and subcutis	Swabs from incisional infection	R	S	.	R	S	R	R	R	R	.	R	S
+Klebsiella	2013	23/4/13	CM2013-0324 Box 15 Tube 18	CM2013-0324	Box 15 Tube 18	K36	not sent	386-13	Exotic/other	respiratory	Lung tissue	S	R	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2013	5/9/13	CM2013-0672 Box 15 Tube 80	CM2013-0672	Box 15 Tube 80	K37	not sent	289449	Equine	reproductive	"Fluid from uterus, post foaling"	R	.	.	R	S	R	R	R	R	.	R	S
+Klebsiella	2013	9/9/13	CM2013-0684 Box 16 Tube 1	CM2013-0684	Box 16 Tube 1	K38	not sent	284449	Equine	reproductive	Uterine swab	R	.	.	R	S	R	R	R	R	.	R	S
+Proteus	2013	29/11/13	CM2013-0913 Box 16 Tube 35	CM2013-0913	Box 16 Tube 35	P31	not sent	287462	Equine	musculo-skeletal	Granulation tissue	R	S	S	S	R	R	R	R	R	.	S	S
+Proteus	2014	24/1/14	CM2014-0061 Box 16 Tube 56	CM2014-0061	Box 16 Tube 56	P32	not sent	292304	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	R	.	.	.	.
+Proteus	2014	23/4/14	CM2014-0250 Box 16 Tube 78	CM2014-0250	Box 16 Tube 78	P33	not sent	293952	Canine	urinary	Urine	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2014	20/5/14	CM2014-0317 Box 17 Tube 10	CM2014-0317	Box 17 Tube 10	K39	not sent	294583	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	S	S	.	.	.	.
+Proteus	2014	20/5/14	CM2014-0319 Box 17 Tube 12	CM2014-0319	Box 17 Tube 12	P34	not sent	281810	Feline	urinary	Urine and catheter tip	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2014	27/5/14	CM2014-0338 Box 17 Tube 21	CM2014-0338	Box 17 Tube 21	P35	not sent	294702	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2014	4/7/14	CM2014-0441 Box 17 Tube 45	CM2014-0441	Box 17 Tube 45	K40	not sent	295371	Equine	musculo-skeletal	Joint fluid in culture bottle	R	.	.	S	S	S	R	R	S	.	R	.
+Proteus	2014	7/7/14	CM2014-0446 Box 17 Tube 48	CM2014-0446	Box 17 Tube 48	P36	not sent	295371	Equine	musculo-skeletal	Fibrin	S	.	.	S	S	S	S	R	S	.	S	.
+Klebsiella	2014	7/7/14	CM2014-0446 Box 17 Tube 49	CM2014-0446	Box 17 Tube 49	K41	not sent	295371	Equine	musculo-skeletal	Fibrin	R	.	.	S	S	S	S	S	S	.	R	.
+Proteus	2014	7/8/14	CM2014-0531 Box 17 Tube 60	CM2014-0531	Box 17 Tube 60	P37	not sent	277513	Canine	ear	L+ R ear swabs	S	S	S	.	S	R	S	S	S	.	S	S
+Proteus	2014	9/9/14	CM2014-0631 Box 18 Tube 6	CM2014-0631	Box 18 Tube 6	P38	not sent	287002	Canine	skin and subcutis	Anal gland swab	S	S	S	.	S	R	R	S	.	.	.	.
+Proteus	2014	6/10/14	CM2014-0709 Box 18 Tube 19	CM2014-0709	Box 18 Tube 19	P39	not sent	270392	Canine	skin and subcutis	Anal gland and swab	S	S	S	.	S	R	R	S	.	.	.	.
+Proteus	2014	30/10/14	CM2014-0794 Box 18 Tube 41	CM2014-0794	Box 18 Tube 41	P40	not sent	297426	Canine	ear	ear swab	S	S	S	.	S	R	S	S	S	.	.	.
+Proteus	2015	23/3/15	CM2015-0174 Box 19 Tube 45	CM2015-0174	Box 19 Tube 45	P41	not sent	299994	Canine	ear	Swab and bulla epithelium from R ear.	S	S	S	.	S	R	S	S	S	.	S	S
+Klebsiella	2015	19/5/15	CM2015-0362 Box 19 Tube 52	CM2015-0362	Box 19 Tube 52	K42	not sent	297925	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2015	1/6/15	CM2015-0399 Box 19 Tube 59	CM2015-0399	Box 19 Tube 59	P42	not sent	301037	Canine	urinary	Cystocentesis.	S	S	S	.	R	R	S	R	.	.	.	.
+Proteus	2015	17/6/15	CM2015-0460 Box 19 Tube 68	CM2015-0460	Box 19 Tube 68	P43	not sent	301037	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2015	19/6/15	CM2015-0472 Box 19 Tube 71	CM2015-0472	Box 19 Tube 71	P44	not sent	301126	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Proteus	2015	14/7/15	CM2015-0550 Box 19 Tube 79	CM2015-0550	Box 19 Tube 79	P45	not sent	301126	Canine	urinary	Urine	R	S	S	.	S	S	R	R	.	.	.	.
+Proteus	2015	31/7/15	CM2015-0620 Box 20 Tube 8	CM2015-0620	Box 20 Tube 8	P46	not sent	301029	Canine	urinary	Cystocentesis	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2015	25/8/15	CM2015-0724 Box 20 Tube 20	CM2015-0724	Box 20 Tube 20	P47	not sent	301037	Canine	urinary	Cystocentesis	R	S	S	.	S	R	R	R	.	.	.	.
+Proteus	2015	1/9/15	CM2015-0747 Box 20 Tube 24	CM2015-0747	Box 20 Tube 24	P48	not sent	48067	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	R	R	.	.	.	.
+Proteus	2015	10/12/15	CM2015-1125 Box 20 Tube 66	CM2015-1125	Box 20 Tube 66	P49	not sent	301037	Canine	urinary	Cystocentesis.	R	S	S	.	S	R	R	R	.	.	.	.
+Proteus	2015	15/12/15	CM2015-1144 Box 21 Tube 10	CM2015-1144	Box 21 Tube 10	P50	not sent	209793	Canine	urinary	Free catch urine	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2015	9/11/15	CM2015-0996 Box 21 Tube 11	CM2015-0996	Box 21 Tube 11	P51	not sent	304670	Equine	musculo-skeletal	Pedal bone sequestrum	S	.	.	S	S	R	S	S	S	.	S	S
+Klebsiella	2016	15/2/16	CM2016-0102 Box 21 Tube 45	CM2016-0102	Box 21 Tube 45	K43	not sent	289147	Feline	urinary	Renal aspirate and Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2016	23/2/16	CM2016-0130 Box 21 Tube 48	CM2016-0130	Box 21 Tube 48	K44	not sent	261578	Canine	respiratory	Blind BAL	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2016	1/3/16	CM2016-0159 Box 21 Tube 52	CM2016-0159	Box 21 Tube 52	K45	not sent	289147	Feline	urinary	Cystocentesis	R	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2016	7/3/16	CM2016-0178 Box 21 Tube 57	CM2016-0178	Box 21 Tube 57	P52	not sent	261359	Canine	skin and subcutis	Swab from mammary resection	S	S	S	.	S	S	S	S	.	.	.	.
+Klebsiella	2016	19/4/16	CM2016-0294 Box 21 Tube 67	CM2016-0294	Box 21 Tube 67	K46	not sent	308408	Canine	reproductive	Pyometra swab	R	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2016	27/4/16	CM2016-0323 Box 21 Tube 73	CM2016-0323	Box 21 Tube 73	P53	not sent	308587	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2016	5/5/16	CM2016-0352 Box 21 Tube 79	CM2016-0352	Box 21 Tube 79	K47	not sent	308333 / 447-16	Ovine	urinary	Urine and Kidney	R	S	S	.	R	R	R	R	.	.	.	.
+Klebsiella	2016	10/6/16	CM2016-0479 Box 22 Tube 17	CM2016-0479	Box 22 Tube 17	K48	not sent	309347	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	1/7/16	CM2016-0541 Box 22 Tube 24	CM2016-0541	Box 22 Tube 24	Ec-820	not sent	309838	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Proteus	2016	5/7/16	CM2016-0558 Box 22 Tube 28	CM2016-0558	Box 22 Tube 28	P54	not sent	293272	Canine	urinary	Urine	S	S	S	.	S	R	S	S	S	.	.	.
+Proteus	2016	23/8/16	CM2016-0741 Box 22 Tube 58	CM2016-0741	Box 22 Tube 58	P55	not sent	303771	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	R	R	.	.	.	.
+Proteus	2016	26/9/16	CM2016-0899 Box 23 Tube 5	CM2016-0899	Box 23 Tube 5	P56	not sent	255170	Canine	urinary	Urine	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2016	4/10/16	CM2016-0934 Box 23 Tube 9	CM2016-0934	Box 23 Tube 9	P57	not sent	260357	Canine	urinary	Free catch urine	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2016	23/11/16	CM2016-1068 Box 23 Tube 37	CM2016-1068	Box 23 Tube 37	K49	not sent	"1188, 1189, 1190, 1191-16"	Avian	systemic or large cavities	"1188-16
+
+A Peritoneum
+
+
+
+1189-16
+
+A Liver
+
+A Yolk
+
+B Liver
+
+C Caecum
+
+D Liver
+
+
+
+1190-16
+
+A Caecum
+
+A Yolk
+
+B Caecum
+
+B Yolk
+
+B Liver
+
+C Caecum
+
+C Liver
+
+E Yolk
+
+
+
+1191-16
+
+A Yolk
+
+B Yolk
+
+C Liver"	S	.	S	.	S	S	R	R	.	.	.	.
+Proteus	2016	30/11/16	CM2016-1088 Box 23 Tube 48	CM2016-1088	Box 23 Tube 48	P58	not sent	260357	Canine	urinary	Free catch urine	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2016	14/12/16	CM2016-1149 Box 23 Tube 68	CM2016-1149	Box 23 Tube 68	P59	not sent	312757	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2017	18/1/17	CM2017-0041 Box 23 Tube 79	CM2017-0041	Box 23 Tube 79	P60	not sent	308898	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2017	18/1/17	CM2017-0042 Box 23 Tube 81	CM2017-0042	Box 23 Tube 81	K50	not sent	Case 10	Other (see info)	Systemic	Swab	.	.	.	.	.	.	.	.	.	.	.	.
+Klebsiella	2017	20/1/17	CM2017-0051 Box 24 Tube 5	CM2017-0051	Box 24 Tube 5	K51	not sent	314393	Canine	respiratory	ET wash	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2017	25/1/17	CM2017-0060 Box 24 Tube 6	CM2017-0060	Box 24 Tube 6	K52	not sent	312516	Canine	urinary	Cystocentesis.	R	S	S	.	S	R	R	R	.	.	.	.
+Klebsiella	2017	31/1/17	CM2017-0082 Box 24 Tube 19	CM2017-0082	Box 24 Tube 19	K53	not sent	314652	Equine	musculo-skeletal	"Synovial fluid in culture bottle
+
+Joint tissue"	R	.	.	S	S	S	S	S	S	.	.	S
+Klebsiella	2017	16/2/17	CM2017-0163 Box 24 Tube 48	CM2017-0163	Box 24 Tube 48	K54	not sent	Case 30	Other (see info)	Systemic	Haemolymph swab	.	.	.	.	.	.	.	.	.	.	.	.
+Proteus	2017	2/3/17	CM2017-0212 Box 24 Tube 64	CM2017-0212	Box 24 Tube 64	P61	not sent	305485	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	R	R	.	.	.	.
+Klebsiella	2017	6/3/17	CM2017-0227 Box 24 Tube 65	CM2017-0227	Box 24 Tube 65	K55	not sent	315443	Feline	urinary	Cystocentesis.	R	R	R	S	R	S	S	S	R	.	.	S
+Proteus	2017	10/3/17	CM2017-0255 Box 24 Tube 75	CM2017-0255	Box 24 Tube 75	P62	not sent	308898	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2017	14/3/17	"CM2017-0266 Box 24 Tube 79, 80"	CM2017-0266	"Box 24 Tube 79 , 80"	K56	not sent	315443	Feline	urinary	Blood	R	R	S	.	R	S	R	S	R	.	.	S
+Proteus	2017	16/3/17	CM2017-0272 Box 25 Tube 1	CM2017-0272	Box 25 Tube 1	P63	not sent	269772	Canine	musculo-skeletal	Swab - left lateral tarsus	S	S	S	.	S	R	R	S	.	.	.	.
+Klebsiella	2017	21/3/17	CM2017-0285 Box 25 Tube 3	CM2017-0285	Box 25 Tube 3	K57	not sent	315443	Feline	urinary	Cystocentesis.	R	R	R	.	R	S	R	S	.	.	.	S
+Klebsiella	2017	4/3/17	CM2017-0223 Box 25 Tube 9	CM2017-0223	Box 25 Tube 9	K58	not sent	315262	Equine	musculo-skeletal	Synovial fluid in BCB	.	.	.	.	.	.	.	.	.	.	.	.
+Klebsiella	2017	6/3/17	CM2017-0226 Box 25 Tube 10	CM2017-0226	Box 25 Tube 10	K59	not sent	315262	Equine	musculo-skeletal	Tissue	.	.	.	.	.	.	.	.	.	.	.	.
+Klebsiella	2017	28/3/17	"CM2017-0307 Box 25 Tube 14, 15, 16"	CM2017-0307	"Box 25 Tube 14 , 15 , 16"	K60	not sent	Routine Swabs	Multiple Species - Hospital	Environmental	"Environmental swabs
+
+C1 Satellite keyboards
+
+C5 Day Procedures Keyboards
+
+C6 Day Procedures Telephones
+
+C10 Day Surgery door
+
+C12 Ward keyboards
+
+C16 Consult tables
+
+C20 Day Proceduress wash basin
+
+C23 Day Surgery Cupboards
+
+C26 Satellite Cupboards
+
+C30 D"	.	.	.	.	.	.	.	.	.	.	.	.
+Proteus	2017	28/4/17	CM2017-0406 Box 25 Tube 34	CM2017-0406	Box 25 Tube 34	P64	not sent	311548	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2017	2/5/17	CM2017-0418 Box 25 Tube 36	CM2017-0418	Box 25 Tube 36	P65	not sent	Case 56	Other (see info)	Systemic	Haemolymph	.	.	.	.	.	.	.	.	.	.	.	.
+Proteus	2017	5/5/17	CM2017-0436 Box 25 Tube 38	CM2017-0436	Box 25 Tube 38	P66	not sent	316811	Canine	urinary	Cystocentesis.	R	S	S	.	R	R	R	R	.	.	.	.
+Proteus	2017	5/5/17	CM2017-0438 Box 25 Tube 39	CM2017-0438	Box 25 Tube 39	P67	not sent	301351	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	R	R	.	.	.	.
+Proteus	2017	12/5/17	CM2017-0451 Box 25 Tube 41	CM2017-0451	Box 25 Tube 41	P68	not sent	290020	Canine	urinary	"urine, 5 ml, spin down"	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2017	16/6/17	CM2017-0544 Box 25 Tube 57	CM2017-0544	Box 25 Tube 57	K61	not sent	317583	Equine	respiratory	"Transtracheal wash
+
+Pleural fluid"	R	.	.	R	S	R	R	R	R	.	.	S
+Klebsiella	2017	16/6/17	CM2017-0545 Box 25 Tube 59	CM2017-0545	Box 25 Tube 59	K62	not sent	317585	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Klebsiella	2017	3/7/17	CM2017-0596 Box 25 Tube 77	CM2017-0596	Box 25 Tube 77	K63	not sent	255067	Ovine	skin and subcutis	Perioccular Swabs Left and Right	R	.	.	.	S	S	.	.	.	.	.	.
+Proteus	2017	7/7/17	CM2017-0625 Box 25 Tube 80	CM2017-0625	Box 25 Tube 80	P69	not sent	317964	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2017	31/8/17	CM2017-0829 Box 26 Tube 19	CM2017-0829	Box 26 Tube 19	P70	not sent	255170	Canine	urinary	Urine	S	S	S	.	S	R	S	S	.	.	.	.
+Proteus	2017	14/9/17	CM2017-0867 Box 26 Tube 27	CM2017-0867	Box 26 Tube 27	P71	not sent	318815	Canine	urinary	Free catch urine	S	S	S	.	S	R	R	S	.	.	.	.
+Proteus	2017	27/9/17	CM2017-0898 Box 26 Tube 38	CM2017-0898	Box 26 Tube 38	P72	not sent	255170	Canine	urinary	Urine - collection method not specified	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2017	13/11/17	CM2017-1056 Box 26 Tube 40	CM2017-1056	Box 26 Tube 40	K64	not sent	320936	Canine	urinary	Urine	R	S	S	.	S	S	S	S	.	.	.	.
+Proteus	2017	3/11/17	CM2017-1019 Box 26 Tube 67	CM2017-1019	Box 26 Tube 67	P73	not sent	319133	Canine	urinary	Urine	S	S	S	.	S	R	S	S	.	.	.	.
+Klebsiella	2017	10/11/17	CM2017-1049 Box 26 Tube 76	CM2017-1049	Box 26 Tube 76	K65	not sent	320924	Canine	Systemic	Peritoneal swab	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	19/6/08	CM2008-0357 E. coli box 1 >> Tube 4	CM2008-0357	E. coli Box 01 Tube 4	E1	Typical	235038	Canine	reproductive	Vulva swab x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	1/7/08	CM2008-0378 E. coli box 1 >> Tube 10	CM2008-0378	E. coli Box 01 Tube 10	E2	Typical	247554	Feline	urinary	"Urine (~10ml received, not spun as lots of bacteria seen in cytology examination)"	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2008	22/7/08	CM2008-0429 E. coli box 1>> Tube 25	CM2008-0429	E. coli Box 01 Tube 25	E3	Contaminated	247993	Canine	digestive	Bile fluid x1	R	R	S	.	R	R	R	R	.	.	.	.
+Escherichia	2008	23/7/08	CM2008-0431 E. coli box 1>> Tube 26	CM2008-0431	E. coli Box 01 Tube 26	E4	Typical	243233	Canine	urinary	"Turbid Urine x1 (~1ml received, processed unpsun)"	R	R	R	.	S	R	R	R	.	.	.	.
+Escherichia	2008	23/7/08	CM2008-0432 E. coli box 1>> Tube 27	CM2008-0432	E. coli Box 01 Tube 27	E5	Typical	246297	Canine	urinary	"Urine x1 (~40ml received, processed spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	15/8/08	CM2008-0476 E. coli box 1>> Tube 36	CM2008-0476	E. coli Box 01 Tube 36	E6	Typical	248473	Canine	digestive	Vomit fluid x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	22/8/08	CM2008-0487 E. coli box 1>> Tube 42	CM2008-0487	E. coli Box 01 Tube 42	E7	Typical	248597	Feline	digestive	"Lung tissue x1, Liver tissue x1, Jejunum (small intestine )  tissue x1, swab of L. renal pelvic exudate x1
+
+(Teaching case)"	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2008	26/8/08	CM2008-0495 E. coli box 1>> Tube 45	CM2008-0495	E. coli Box 01 Tube 45	E8	Typical	248690	Exotic/other	respiratory	ELAND Lung tissue x1	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2008	4/9/08	CM2008-0516 E. coli box 1>> Tube 52	CM2008-0516	E. coli Box 01 Tube 52	E9	Typical	213737	Canine	urinary	"Pyuria urine (2ml received, highly turbid not spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	10/9/08	CM2008-0533 E. coli box 1>> Tube 54	CM2008-0533	E. coli Box 01 Tube 54	E10	Typical	248967	Canine	digestive	Faeces x1	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2008	2/10/08	CM2008-0609 E. coli box 1>> Tube 60	CM2008-0609	E. coli Box 01 Tube 60	E11	Typical	249526	Feline	urinary	"Turbid urine x1` (~2ml received, processed unpsun as high turbidity observed)."	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	8/10/08	CM2008-0630 E. coli box 1>> Tube 67	CM2008-0630	E. coli Box 01 Tube 67	E12	Typical	249617	Equine	skin and subcutis	swab of suppurative umbilicar arteritis	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2008	16/10/08	CM2008-0654 E. coli box 1>> Tube 72	CM2008-0654	E. coli Box 01 Tube 72	E13	Typical	249838	Equine	systemic or large cavities	abdominal fluid	R	.	.	R	S	R	R	R	R	.	.	.
+Escherichia	2008	16/10/08	CM2008-0658 E. coli box 1>> Tube 73	CM2008-0658	E. coli Box 01 Tube 73	E14	Typical	W1022/08	Exotic/other	systemic or large cavities	Kangaroo Brain abcess and liver	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2008	20/10/08	CM2008-0664 E. coli box 1>> Tube 74	CM2008-0664	E. coli Box 01 Tube 74	E15	Typical	249834	Equine	cardiovascular	BCB	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2008	20/10/08	CM2008-0665 E. coli box 1>> Tube 75	CM2008-0665	E. coli Box 01 Tube 75	E16	Typical	204845	Canine	digestive	Faeces x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	23/10/08	CM2008-0674 E. coli box 1>> Tube 77	CM2008-0674	E. coli Box 01 Tube 77	E17	Typical	249999	Equine	cardiovascular	BCB	R	.	.	S	S	S	R	R	R	.	.	.
+Escherichia	2008	24/10/08	CM2008-0675 E. coli box 1>> Tube 78	CM2008-0675	E. coli Box 01 Tube 78	E18	Typical	249608	Canine	urinary	Urine x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	28/10/08	CM2008-0682 E. coli box 1>> Tube 80	CM2008-0682	E. coli Box 01 Tube 80	E19	Typical	233026	Feline	urinary	cloudy urine x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	30/10/08	CM2008-0686 E. coli box 1>> Tube 81	CM2008-0686	E. coli Box 01 Tube 81	E20	Typical	250084	Canine	digestive	swab Melena (vomiting)	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2008	1/12/08	CM2008-0767 E. coli box 2>> Tube 8	CM2008-0767	E. coli Box 02 Tube 8	E21	"Weak Lactose fermenter, Mucoid"	250658	Equine	musculo-skeletal	Leg? tissue samples (grouped as one) x1	R	.	.	S	R	R	R	R	R	.	.	.
+Escherichia	2008	3/12/08	CM2008-0772 E. coli box 2>> Tube 9	CM2008-0772	E. coli Box 02 Tube 9	E22	Typical	250969	Equine	digestive	"A Ð L. colon x1, B Ð S. colon x1, C Ð mesempheric lymph node x1, D Ð secum x1, E Ð Ileum x1, F Ð Ileocaecal lymph node x1."	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2008	16/12/08	CM2008-0794 E. coli box 2>> Tube 10	CM2008-0794	E. coli Box 02 Tube 10	E23	Mucoid	33351	Feline	urinary	Urine x1	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	5/1/09	CM2009-0006 E. coli box 2>> Tube 13	CM2009-0006	E. coli Box 02 Tube 13	E24	Typical	251531	Equine	reproductive	"Peritoneal fluid x1 (~1ml received, processed unspun)"	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2009	5/1/09	CM2009-0006 E. coli box 2>> Tube 14	CM2009-0006	E. coli Box 02 Tube 14	E25	Typical	251531	Equine	reproductive	"Peritoneal fluid x1 (~1ml received, processed unspun)"	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2009	7/1/09	CM2009-0017 E. coli box 2>> Tube 18	CM2009-0017	E. coli Box 02 Tube 18	E26	Typical	242668	Feline	digestive	"Bile swab x1, Bile fluid x1 (~2ml received, processed spun) and Cholelith stone x1"	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	13/1/09	CM2009-0031 E. coli box 2>> Tube 27	CM2009-0031	E. coli Box 02 Tube 27	E27	Typical	58201	Canine	urinary	Cysto urine x1	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2009	16/1/09	CM2009-0044 E. coli box 2>> Tube 31	CM2009-0044	E. coli Box 02 Tube 31	E28	Typical	239261	Feline	urinary	"Urine (<1ml received, processed unspun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	5/2/09	CM2009-0095 E. coli box 2>> Tube 37	CM2009-0095	E. coli Box 02 Tube 37	E29	Typical	244246	Canine	urinary	"Turbid cysto urine x1 (~2ml received, processed unspun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	16/2/09	CM2009-0123 E. coli box 2>> Tube 38	CM2009-0123	E. coli Box 02 Tube 38	E30	Non Lactose Fermenter	61900	Canine	Other	"Left ear swab x1
+
+Right ear swab x1
+
+Cysto urine x1 (~1mL received processed unspun)"	S	S	S	.	S	S	R	S	S	.	S	S
+Escherichia	2009	4/3/09	CM2009-0194 E. coli box 2>> Tube 40	CM2009-0194	E. coli Box 02 Tube 40	E31	Typical	252233	Canine	urinary	"Urine x1 (~1ml received, processed unspun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	5/3/09	CM2009-0201 E. coli box 2>> Tube 41	CM2009-0201	E. coli Box 02 Tube 41	E32	Typical	237523	Canine	urinary	Turbid urine x1  (not spun)	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	6/3/09	CM2009-0207 E. coli box 2>> Tube 42	CM2009-0207	E. coli Box 02 Tube 42	E33	Typical	250177	Canine	digestive	swab x1	R	R	R	.	R	R	R	R	.	.	.	.
+Escherichia	2009	25/3/09	CM2009-0272 E. coli box 2>> Tube 57	CM2009-0272	E. coli Box 02 Tube 57	E34	Typical	253558	Equine	skin and subcutis	Incisional swab x1	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2009	25/3/09	CM2009-0273 E. coli box 2>> Tube 58	CM2009-0273	E. coli Box 02 Tube 58	E35	Typical	237523	Canine	urinary	"Urine x1 (~1ml received, processed unspun)"	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2009	30/3/09	CM2009-0286 E. coli box 2>> Tube 60	CM2009-0286	E. coli Box 02 Tube 60	E36	Typical	253833	Equine	digestive	Pelvic flexure tissue x1 and Small intestine tissue x1 provided by Priscilla Hodge for enteric culture.	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	30/3/09	CM2009-0286 E. coli box 2>> Tube 61	CM2009-0286	E. coli Box 02 Tube 61	E37	Typical	253833	Equine	digestive	Pelvic flexure tissue x1 and Small intestine tissue x1 provided by Priscilla Hodge for enteric culture.	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	30/3/09	CM2009-0284 E. coli box 2>> Tube 63	CM2009-0284	E. coli Box 02 Tube 63	E38	Typical	253765	Equine	skin and subcutis	Discharging abdominal incisional swab x1	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2009	7/4/09	CM2009-0312 E. coli box 2>> Tube 64	CM2009-0312	E. coli Box 02 Tube 64	E39	Mucoid	253830	Equine	urinary	"R ureter urine x1(~2ml received, processed unspun)"	R	.	.	S	S	R	R	R	S	.	.	.
+Escherichia	2009	17/4/09	CM2009-0332 E. coli box 2>> Tube 65	CM2009-0332	E. coli Box 02 Tube 65	E40	Mucoid	253830	Equine	urinary	"Urine x1 (~10ml received, 5ml processed spun)"	R	.	.	S	S	R	R	R	S	.	.	.
+Escherichia	2009	18/4/09	CM2009-0338 E. coli box 2>> Tube 66	CM2009-0338	E. coli Box 02 Tube 66	E41	Typical	254350	Feline	urinary	Urine x1 (Lawn cultures setup by weekend staff)	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	21/4/09	CM2009-0342 E. coli box 2>> Tube 67	CM2009-0342	E. coli Box 02 Tube 67	E42	Typical	254339	Canine	systemic or large cavities	"Faeces x1, Urine x1"	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	23/4/09	CM2009-0350 E. coli box 2>> Tube 68	CM2009-0350	E. coli Box 02 Tube 68	E43	Typical	254366	Equine	digestive	Post op colic Incisional swab x1	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2009	24/4/09	CM2009-0358 E. coli box 2>> Tube 70	CM2009-0358	E. coli Box 02 Tube 70	E44	Weak Lactose fermenter	229908	Feline	urinary	"Urine x1 (~3ml received, but turbid so processed spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	24/4/09	CM2009-0359 E. coli box 2>> Tube 71	CM2009-0359	E. coli Box 02 Tube 71	E45	Typical	216446	Canine	urinary	"Urine x1 (~10ml received, processed unspun as turbidity observed)"	R	R	S	.	S	R	R	S	.	.	.	.
+Escherichia	2009	29/4/09	CM2009-0369 E. coli box 2>> Tube 72	CM2009-0369	E. coli Box 02 Tube 72	E46	Typical	254603	Ovine	digestive	Large intestine tissue x1	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	1/5/09	CM2009-0374 E. coli box 2>> Tube 73	CM2009-0374	E. coli Box 02 Tube 73	E47	Typical	240115	Canine	digestive	"Faecal x1
+
+C. diff as well"	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2009	5/5/09	CM2009-0386 E. coli box 2>> Tube 74	CM2009-0386	E. coli Box 02 Tube 74	E48	Typical	234028	Canine	reproductive	"Mammary gland haemolysed fluid x1 (<1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	19/5/09	CM2009-0418 E. coli box 2>> Tube 76	CM2009-0418	E. coli Box 02 Tube 76	E49	Typical	254778	Canine	urinary	"Haemolysed Urine x1 (~2ml received, processed un-spun as haemolysed."	R	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2009	20/5/09	CM2009-0425  E. coli box 2>> Tube 77	CM2009-0425	E. coli Box 02 Tube 77	E50	Typical	255043	Equine	digestive	Colon tissue x1	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	19/5/09	CM2009-0424  E. coli box 2>> Tube 78	CM2009-0424	E. coli Box 02 Tube 78	E51	Typical	no info	Canine	digestive	"PWNK1 DOG; Faecal swab x1, vaginal swab x1, uterus swab x1
+
+PWNK2 DOG; Faecal swab x1, vaginal swab x1, uterus swab x1
+
+PWNK 3 DOG; Faecal swab x1, vaginal swab x1, uterus swab x1, All specimens received from Natalie Krekeler. NOT TO BE CHARGED."	R	R	S	.	S	S	S	R	.	.	.	.
+Escherichia	2009	19/5/09	CM2009-0424  E. coli box 2>> Tube 79	CM2009-0424	E. coli Box 02 Tube 79	E52	Contaminated ?	no info	Canine	digestive	"PWNK1 DOG; Faecal swab x1, vaginal swab x1, uterus swab x1
+
+PWNK2 DOG; Faecal swab x1, vaginal swab x1, uterus swab x1
+
+PWNK 3 DOG; Faecal swab x1, vaginal swab x1, uterus swab x1, All specimens received from Natalie Krekeler. NOT TO BE CHARGED."	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	20/5/09	CM2009-0426  E. coli box 2>> Tube 80	CM2009-0426	E. coli Box 02 Tube 80	E53	Typical	254765	Canine	digestive	"Faecal swab x1
+
+C. diff project."	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	21/5/09	CM2009-0431  E. coli box 2>> Tube 81	CM2009-0431	E. coli Box 02 Tube 81	E54	Typical	24768	Canine	reproductive	"Testicular pus x1 (~1ml received, processed un-spun"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	23/6/09	CM2009-0510 E coli box 3 >>T01	CM2009-0510	E. coli Box 03 Tube 1	E55	Typical	no info	Canine	systemic or large cavities	"PWNK7 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2009	23/6/09	CM2009-0511 E coli box 3 >>T02	CM2009-0511	E. coli Box 03 Tube 2	E56	Typical	no info	Canine	systemic or large cavities	"PWNK10 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	26/6/09	CM2009-0512 E coli box 3 >>T03	CM2009-0512	E. coli Box 03 Tube 3	E57	Typical	no info	Canine	systemic or large cavities	"PWNK5 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	26/6/09	CM2009-0513 E coli box 3 >>T04	CM2009-0513	E. coli Box 03 Tube 4	E58	Typical	no info	Canine	systemic or large cavities	"PWNK8 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2009	26/6/09	CM2009-0513 E coli box 3 >>T05	CM2009-0513	E. coli Box 03 Tube 5	E59	Typical	no info	Canine	systemic or large cavities	"PWNK8 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	R	R	S	.	S	R	R	S	.	.	.	.
+Escherichia	2009	1/7/09	CM2009-0517 E coli box 3 >>T06	CM2009-0517	E. coli Box 03 Tube 6	E60	Typical	No info.	Canine	systemic or large cavities	"PWNK6 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	1/7/09	CM2009-0518 E coli box 3 >>T07	CM2009-0518	E. coli Box 03 Tube 7	E61	Typical	No info.	Canine	systemic or large cavities	"PWNK9 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	1/7/09	CM2009-0519 E coli box 3 >>T08	CM2009-0519	E. coli Box 03 Tube 8	E62	Typical	No info.	Canine	systemic or large cavities	"PWNK12 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	6/7/09	CM2009-0526 E coli box 3 >>T09	CM2009-0526	E. coli Box 03 Tube 9	E63	Typical	256015	Canine	reproductive	"Mammary glands;  FNA swab x1 &
+
+milk/purulent discharge fluid x1 (<1ml received, processed unspun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	8/7/09	CM2009-0528 E coli box 3 >>T11	CM2009-0528	E. coli Box 03 Tube 11	E64	Typical	243233	Canine	urinary	"Cysto urine x1 (~4ml received, processed spun)"	R	R	R	.	S	R	R	R	.	.	.	.
+Escherichia	2009	3/7/09	CM2009-0524 E coli box 3 >>T12	CM2009-0524	E. coli Box 03 Tube 12	E65	Typical	255977	Exotic/other	systemic or large cavities	"Dophin specimens: Pleural LN tissue x1, Liver tissue x1, spleen x1, Lung tissue x1, Peritoneum swab x1(two identical swabs received but treated as one), faeces x1 received from Padraig Duignan
+
+C. diff project as well for the faecal specimen."	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	13/7/09	CM2009-0537 E coli box 3 >>T13	CM2009-0537	E. coli Box 03 Tube 13	E66	Typical	256146	Canine	urinary	"Urine x1 (<1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	13/7/09	CM2009-0538 E coli box 3 >>T14	CM2009-0538	E. coli Box 03 Tube 14	E67	Typical	256146	Canine	musculo-skeletal	Prostate abscesses swab x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	14/7/09	CM2009-0541 E coli box 3 >>T15	CM2009-0541	E. coli Box 03 Tube 15	E68	Typical	256181	Equine	skin and subcutis	Open wound tissue x1	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2009	21/7/09	CM2009-0555 E coli box 3 >>T19	CM2009-0555	E. coli Box 03 Tube 19	E69	Typical	254859	Equine	respiratory	Sinus swab x1	R	.	.	S	S	R	R	R	S	.	.	.
+Escherichia	2009	22/7/09	CM2009-0558 E coli box 3 >>T20	CM2009-0558	E. coli Box 03 Tube 20	E70	Typical	256191	Equine	systemic or large cavities	"Peritoneal fluid x1 Peritoneal fluid x1 (~5ml received, processed spun)"	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2009	27/7/09	CM2009-0564 E coli box 3 >>T21	CM2009-0564	E. coli Box 03 Tube 21	E71	Typical	252050	Canine	mammary	"Expressed milk fluid x1 (<1ml received, processed un-spun)"	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2009	23/7/09	CM2009-0569 E coli box 3 >>T22	CM2009-0569	E. coli Box 03 Tube 22	E72	Typical	256328	Feline	urinary	"Urine x1 (~1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	30/7/09	CM2009-0574 E coli box 3 >>T25	CM2009-0574	E. coli Box 03 Tube 25	E73	Typical	255927	Canine	digestive	Faecal x1	S	S	S	.	S	S	S	R	.	.	.	.
+Escherichia	2009	14/8/09	CM2009-0617 E coli box 3 >>T29	CM2009-0617	E. coli Box 03 Tube 29	E74	Typical	256328	Feline	urinary	"Urine x1 (<1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	14/8/09	CM2009-0620 E coli box 3 >>T30	CM2009-0620	E. coli Box 03 Tube 30	E75	Non Lactose Fermenter	206507	Feline	urinary	"Frank haematuria urine x1 (<1ml received, processed un-spun)"	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2009	2/9/09	CM2009-0671 E coli box 3 >>T33	CM2009-0671	E. coli Box 03 Tube 33	E76	Typical	257440	Ovine	digestive	"Sheep Caecum  x1 & Colon x1
+
+received via Priscilla Hodge"	S	S	S	.	S	.	S	S	.	.	.	.
+Escherichia	2009	2/9/09	CM2009-0672 E coli box 3 >>T34	CM2009-0672	E. coli Box 03 Tube 34	E77	Typical	257441	Ovine	digestive	"Sheep Caecum  x1 & Colon x1
+
+received via Priscilla Hodge"	S	S	S	.	S	.	S	S	.	.	.	.
+Escherichia	2009	8/9/09	CM2009-0689 E coli box 3 >>T35	CM2009-0689	E. coli Box 03 Tube 35	E78	Typical	257522	Equine	systemic or large cavities	"Peritoneal fluid x1 (~1ml received, processed un-spun)"	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2009	18/9/09	CM2009-0736 E coli box 3 >>T40	CM2009-0736	E. coli Box 03 Tube 40	E79	Typical	257763	Canine	respiratory	"E.T tube swab x1, Tracheal Wash swab x1, Tracheal Wash fluid x1 (~1ml received, processed un-spun) and E.T tube fluid (~1ml received, processed un-spun)."	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	21/9/09	CM2009-0741 E coli box 3 >>T42	CM2009-0741	E. coli Box 03 Tube 42	E80	Typical	257522	Equine	systemic or large cavities	Retroperitoneal abscess swab x1	R	.	.	R	R	R	R	R	R	.	.	.
+Escherichia	2009	23/9/09	CM2009-0747 E coli box 3 >>T43	CM2009-0747	E. coli Box 03 Tube 43	E81	Typical	257881	Feline	urinary	"Urine x1 (~3ml received, processed spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	25/9/09	CM2009-0756 E coli box 3 >>T44	CM2009-0756	E. coli Box 03 Tube 44	E82	Typical	243233	Canine	urinary	"Urine x1 (~4ml received, processed spun)"	R	R	R	.	R	S	R	S	.	.	.	.
+Escherichia	2009	28/9/09	CM2009-0762 E coli box 3 >>T45	CM2009-0762	E. coli Box 03 Tube 45	E83	Typical	236085	Canine	ear	Right ear swab x1	S	S	S	.	S	S	S	S	S	.	S	S
+Escherichia	2009	28/9/09	CM2009-0763 E coli box 3 >>T46	CM2009-0763	E. coli Box 03 Tube 46	E84	Typical	257993	Equine	reproductive	Clitoral discharge swab x1	S	.	.	S	S	R	R	R	S	.	.	.
+Escherichia	2009	6/10/09	CM2009-0780 E coli box 3 >>T47	CM2009-0780	E. coli Box 03 Tube 47	E85	Typical	239972	Canine	urinary	"Urine x1 (~6ml received, 5ml processed spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	6/10/09	CM2009-0781 E coli box 3 >>T48	CM2009-0781	E. coli Box 03 Tube 48	E86	Typical	244507	Feline	digestive	"Faecal x1
+
+C. diff project as well!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	9/10/09	CM2009-0788 E coli box 3 >>T49	CM2009-0788	E. coli Box 03 Tube 49	E87	Typical	244824	Canine	digestive	"Faecal x1
+
+C. diff project as well!"	R	S	R	.	R	R	R	R	.	.	.	.
+Escherichia	2009	9/10/09	CM2009-0789 E coli box 3 >>T50	CM2009-0789	E. coli Box 03 Tube 50	E88	Typical	249773	Equine	digestive	"Pelvic flexure tissue x1,
+
+ileum tissue x1 & small colon tissue x1"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	14/10/09	CM2009-0799 E coli box 3 >>T59	CM2009-0799	E. coli Box 03 Tube 59	E89	Rough	258309	Canine	systemic or large cavities	"Pleural fluid x1 (~1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	16/10/09	CM2009-0806 E coli box 3 >>T60	CM2009-0806	E. coli Box 03 Tube 60	E90	Typical	258446	Exotic/other	systemic or large cavities	"# 9044 Goat  Lung tissue x1, Lymph node tissue x1, colon gut contents x1 received from P.Hodge"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	20/10/09	CM2009-0815 E coli box 3 >>T61	CM2009-0815	E. coli Box 03 Tube 61	E91	Typical	239972	Canine	urinary	"Urine x1 (~1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	22/10/09	CM2009-0825 E coli box 3 >>T62	CM2009-0825	E. coli Box 03 Tube 62	E92	Typical	no info	Exotic/other	mammary	Wallaby Mammary gland x1	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	29/10/09	CM2009-0845 E coli box 3 >>T64	CM2009-0845	E. coli Box 03 Tube 64	E93	Typical	258771	Canine	reproductive	Cervical tissue swab x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	29/10/09	CM2009-0847 E coli box 3 >>T65	CM2009-0847	E. coli Box 03 Tube 65	E94	Typical	215498	Canine	urinary	"Urine x1 (<1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	3/11/09	CM2009-0861 E coli box 3 >>T66	CM2009-0861	E. coli Box 03 Tube 66	E95	Typical	258902	Canine	urinary	"Urine x1 (~50ml received, 5ml processed spun)"	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2009	5/11/09	CM2009-0868 E coli box 3 >>T67	CM2009-0868	E. coli Box 03 Tube 67	E96	Typical	258493	Feline	urinary	"Urine x1 (~1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	6/11/09	CM2009-0873 E coli box 3 >>T68	CM2009-0873	E. coli Box 03 Tube 68	E97	Typical	243233	Canine	urinary	"Urine x1 (~1ml received, processed un-spun)"	R	R	R	.	R	R	R	S	S	R	.	.
+Escherichia	2009	6/11/09	CM2009-0873 E coli box 3 >>T69	CM2009-0873	E. coli Box 03 Tube 69	E98	Typical	243233	Canine	urinary	"Urine x1 (~1ml received, processed un-spun)"	R	R	R	.	R	R	R	R	R	R	R	.
+Escherichia	2009	6/11/09	CM2009-0875 E coli box 3 >>T70	CM2009-0875	E. coli Box 03 Tube 70	E99	Typical	258941	Canine	digestive	"Faecal swab x1
+
+Insufficient sample for proper culturing, small amount may impact on pathogen recovery, S. Haldane notified."	R	R	R	.	S	R	R	R	.	.	.	.
+Escherichia	2009	9/11/09	CM2009-0881 E coli box 3 >>T71	CM2009-0881	E. coli Box 03 Tube 71	E100	Typical	259016	Canine	urinary	"Urine x1 (~4ml received, processed spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	13/11/09	CM2009-0894 E coli box 3 >>T72	CM2009-0894	E. coli Box 03 Tube 72	E101	Typical	259029	Equine	systemic or large cavities	"Large colon tissue x1
+
+Scrotal skin tissue from gelding site x1"	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2009	24/11/09	CM2009-0919 E coli box 3 >>T73	CM2009-0919	E. coli Box 03 Tube 73	E102	Typical	228904	Canine	musculo-skeletal	Right elbow surgery site swab x1	R	S	R	.	R	R	R	R	.	.	.	.
+Escherichia	2009	26/11/09	CM2009-0926 E coli box 3 >>T74	CM2009-0926	E. coli Box 03 Tube 74	E103	Typical	257969	Canine	digestive	"Bile fluid x1 (<1ml received, processed un-spun)"	R	R	R	R	R	R	R	R	R	.	.	S
+Escherichia	2009	24/11/09	CM2009-0921 E coli box 3 >>T75	CM2009-0921	E. coli Box 03 Tube 75	E104	Typical	259430	Equine	systemic or large cavities	"Liver tissue, Lung tissue x1, ileum tissue x1 and colon tissue x1."	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	27/11/09	CM2009-0934 E coli box 3 >>T76	CM2009-0934	E. coli Box 03 Tube 76	E105	Typical	259540	Equine	systemic or large cavities	"Navel abscess swab x1 (aerobic & anaerobic only)
+
+Lung tissue x1 (aerobic only)
+
+Large intestine x1 (salmonella only)"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	27/11/09	CM2009-0936 E coli box 3 >>T77	CM2009-0936	E. coli Box 03 Tube 77	E106	Typical	259537	Equine	cardiovascular	Blood culture x1	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2009	27/11/09	CM2009-0938 E coli box 3 >>T78	CM2009-0938	E. coli Box 03 Tube 78	E107	Typical	259504	Canine	digestive	Enteric tract swab x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	30/11/09	CM2009-0943 E coli box 3 >>T79	CM2009-0943	E. coli Box 03 Tube 79	E108	Typical	259573	Canine	urinary	"Urine x1 (~1ml received, processed un-spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	30/11/09	CM2009-0946 E coli box 3 >>T80	CM2009-0946	E. coli Box 03 Tube 80	E109	Typical	259505	Canine	respiratory	ET swab x1	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2009	2/12/09	CM2009-0952 E coli box 3 >>T81	CM2009-0952	E. coli Box 03 Tube 81	E110	Typical	259619	Canine	respiratory	"BAL x1 (~10ml received, 5ml processed spun)"	R	R	R	R	R	R	R	R	.	.	.	.
+Escherichia	2009	3/12/09	CM2009-0956 E coli box 4 >>T09	CM2009-0956	E. coli Box 04 Tube 9	E111	Mucoid	No info.	Exotic/other	systemic or large cavities	"Seal: Faeces x1 (Salmonella & Campylobacter)
+
+Lung tissue x1 (routine Aerobic & Mycoplasma) 
+
+Lymph node tissue x1  (routine Aerobic & Mycoplasma)"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	3/12/09	CM2009-0957 E coli box 4 >>T10	CM2009-0957	E. coli Box 04 Tube 10	E112	Mucoid	259620	Equine	urinary	Urinary bladder abscessed tissue x1	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	3/12/09	CM2009-0957 E coli box 4 >>T11	CM2009-0957	E. coli Box 04 Tube 11	E113	Typical	259620	Equine	urinary	Urinary bladder abscessed tissue x1	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	3/12/09	CM2009-0958 E coli box 4 >>T12	CM2009-0958	E. coli Box 04 Tube 12	E114	Mucoid	259414	Equine	systemic or large cavities	"Peritoneal swab x 1 
+
+Kidney tissue x1"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	9/12/09	CM2009-0968 E coli box 4 >>T14	CM2009-0968	E. coli Box 04 Tube 14	E115	Typical	259841	Feline	urinary	"Turbid Urine x1 (~2ml received, processed un-spun as high turbidity observed)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	10/12/09	CM2009-0974 E coli box 4 >>T15	CM2009-0974	E. coli Box 04 Tube 15	E116	Typical	228904	Canine	skin and subcutis	Right elbow wound swab x1	R	S	R	.	R	R	R	R	.	.	.	.
+Escherichia	2009	16/12/09	CM2009-0985 E coli box 4 >>T16	CM2009-0985	E. coli Box 04 Tube 16	E117	Typical	249863	Canine	digestive	"Faeces x1
+
+C. diff project as well!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	17/12/09	CM2009-0992 E coli box 4 >>T17	CM2009-0992	E. coli Box 04 Tube 17	E118	Typical	250341	Canine	urinary	"Urine x1 (~7ml received, processed spun)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	4/1/10	CM2010-0004 E coli box 4 >>T20	CM2010-0004	E. coli Box 04 Tube 20	E119	Typical	260482	Canine	skin and subcutis	Scrotal abscess / mass tissue x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	5/1/10	CM2010-0011 E coli box 4 >>T21	CM2010-0011	E. coli Box 04 Tube 21	E120	Typical	260194	Equine	urinary	Incisional infection post colic surgery swab x1	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2010	18/1/10	CM2010-0032 E coli box 4 >>T23	CM2010-0032	E. coli Box 04 Tube 23	E121	Typical	239069	Canine	skin and subcutis	Mastitis swab x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	19/1/10	CM2010-0035 E coli box 4 >>T24	CM2010-0035	E. coli Box 04 Tube 24	E122	Typical	259986	Canine	digestive	"Faeces x1
+
+C. diff project as well!"	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2010	3/2/10	CM2010-0085 E coli box 4 >>T27	CM2010-0085	E. coli Box 04 Tube 27	E123	Typical	255578	Feline	digestive	"Faeces x1
+
+C. diff project as well!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	4/2/10	CM2010-0089 E coli box 4 >>T28	CM2010-0089	E. coli Box 04 Tube 28	E124	Typical	261265	Ovine	digestive	Ileum + colon pooled tissue x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	4/2/10	CM2010-0090 E coli box 4 >>T29	CM2010-0090	E. coli Box 04 Tube 29	E125	Non Lactose Fermenter	261266	Ovine	digestive	Ileum + colon pooled tissue x1	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	19/2/10	CM2010-0124 E coli box 4 >>T33	CM2010-0124	E. coli Box 04 Tube 33	E126	Typical	261507	Canine	digestive	"Faeces x1
+
+C. diff project as well!"	S	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2010	19/2/10	CM2010-0128 E coli box 4 >>T34	CM2010-0128	E. coli Box 04 Tube 34	E127	Typical	261074	Canine	respiratory	"Pleural fluid x1 (~2ml received, processed spun"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	23/2/10	CM2010-0131 E coli box 4 >>T36	CM2010-0131	E. coli Box 04 Tube 36	E128	Typical	261474	Equine	skin and subcutis	swab incision post colic	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2010	30/3/10	CM2010-0172 E. coli Box 4 Tube 37	CM2010-0172	E. coli Box 04 Tube 37	E129	Typical	258223	Feline	urinary	sample collected 29/3/10	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2010	28/5/10	CM2010-0244 E.coli Box 4 Tube 38	CM2010-0244	E. coli Box 04 Tube 38	E130	Non Lactose Fermenter	242358	Canine	digestive	"2 swabs diarrhoea (1 aero, 1 anaerobes)"	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2010	28/5/10	CM2010-0244 E. coli box 4 Tube 39	CM2010-0244	E. coli Box 04 Tube 39	E131	Non Lactose Fermenter	242358	Canine	digestive	"2 swabs diarrhoea (1 aero, 1 anaerobes)"	R	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2010	31/5/10	CM2010-0245 E coli box 4 tube  40	CM2010-0245	E. coli Box 04 Tube 40	E132	Typical	256630	Feline	digestive	Faecal	S	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2010	31/5/10	CM2010-0248 E coli Box 4 Tube 41	CM2010-0248	E. coli Box 04 Tube 41	E133	Typical	263971	Canine	digestive	faecal sample received	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2010	6/5/10	CM2010-0228 E coli Box 4 Tube 44	CM2010-0228	E. coli Box 04 Tube 44	E134	Typical	246943	Canine	urinary	Prostatic wash 2 swabs + 1 CMM	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	4/6/10	CM2010-0258 E coli Box 4 Tube 46	CM2010-0258	E. coli Box 04 Tube 46	E135	Non Lactose Fermenter	213629	Canine	lymphatic	"1 swab of pus, 1 lymph node, 1abdominal mass. Suspect Myco."	R	S	S	.	R	R	R	R	.	.	.	.
+Escherichia	2010	8/6/10	CM2010-0259 E coli Box 4 Tube 47	CM2010-0259	E. coli Box 04 Tube 47	E136	Typical	262726	Canine	digestive	Faecal Swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	15/6/10	CM2010-0268 E coli Box 4 Tube 50	CM2010-0268	E. coli Box 04 Tube 50	E137	Typical	249143	Canine	digestive	Faecal sample received. Attempt to rule out infectious causes of diarrhoea	S	S	R	.	S	S	S	S	.	.	.	.
+Escherichia	2010	16/6/10	CM2010-0270 E coli Box 4 Tube 51	CM2010-0270	E. coli Box 04 Tube 51	E138	Typical	262726	Canine	digestive	"3 faecal samples received, equal ammounts subsampled and pooled for analysis"	S	S	R	.	S	S	R	S	.	.	.	.
+Escherichia	2010	28/6/10	CM2010-0289 E coli Box 4 Tube 53	CM2010-0289	E. coli Box 04 Tube 53	E139	Typical	24300	Canine	skin and subcutis	Swab plated on 26/6 by WAEC	.	.	.	.	S	.	.	.	S	.	S	S
+Escherichia	2010	3/6/10	CM2010-0254 E coli Box 4 Tube 54	CM2010-0254	E. coli Box 04 Tube 54	E140	Typical	263880	Canine	digestive	faecal sample received	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	30/6/10	CM2010-0292 E coli Box 4 Tube 55	CM2010-0292	E. coli Box 04 Tube 55	E141	Typical	264627	Canine	digestive	Small intestine received. T18	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	14/7/10	CM2010-0311 E coli Box 4 Tube 59	CM2010-0311	E. coli Box 04 Tube 59	E142	Typical	264211	Canine	respiratory	Tracheal wash.	R	R	R	.	S	S	R	R	.	.	.	.
+Escherichia	2010	21/7/10	CM2010-0323 E coli Box 4 Tube 60	CM2010-0323	E. coli Box 04 Tube 60	E143	Typical	265010	Feline	digestive	"Pancreatic bile.
+
+Pus from pancreatic duct."	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2010	26/7/10	CM2010-0332 E coli Box 4 Tube 62	CM2010-0332	E. coli Box 04 Tube 62	E144	Typical	35966	Feline	urinary	"Cystocentesis Urine, spun"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2008	31/10/08	CM2008-0692 E. coli box 4 Tube 65	CM2008-0692	E. coli Box 04 Tube 65	E145	Typical	250177	Canine	digestive	Faeces x1	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2008	5/11/08	CM2008-0703 E. coli box 4 Tube 66	CM2008-0703	E. coli Box 04 Tube 66	E146	Typical	245303	Equine	Other	swab x1	R	.	.	R	S	R	R	R	R	.	.	.
+Escherichia	2009	26/5/09	CM2009-0440  E. coli box 4  Tube 67	CM2009-0440	E. coli Box 04 Tube 67	E147	Typical	255187	Canine	digestive	"Faecal swab X1
+
+C. diff project as well"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	28/5/09	CM2009-0448  E. coli box 4 Tube 68	CM2009-0448	E. coli Box 04 Tube 68	E148	Mucoid	254167	Canine	digestive	"Faecal x1
+
+E. coli investigation only!!
+
+CANINE STUDY ALSO"	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2009	9/6/09	CM2009-0468 E. coli Box 4 Tube 69	CM2009-0468	E. coli Box 04 Tube 69	E149	Typical	255469	Feline	urinary	Urine 0.2 ml	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	10/6/09	CM2009-0473 E. coli Box 4 Tube 70	CM2009-0473	E. coli Box 04 Tube 70	E150	"Weak Lactose fermenter, Mucoid"	255502	Feline	digestive	Small intestine	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	15/6/09	CM2009-0480 E. coli box 4 Tube 71	CM2009-0480	E. coli Box 04 Tube 71	E151	Typical	247309	Canine	digestive	"feacal swab
+
+not charged"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2009	17/6/09	CM2009-0488 E coli box 4 Tube 72	CM2009-0488	E. coli Box 04 Tube 72	E152	Typical	224921	Canine	urinary	Cyctocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	23/6/09	CM2009-0509 E coli box 4 Tube 73	CM2009-0509	E. coli Box 04 Tube 73	E153	Typical	no info	Canine	systemic or large cavities	"PWNK4 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2009	23/6/09	CM2009-0510 E coli box 4 Tube 74	CM2009-0510	E. coli Box 04 Tube 74	E154	Typical	no info	Canine	systemic or large cavities	"PWNK7 DOG; Faecal swab x1, bladder swab x1, uterus swab x1
+
+Not to be charged!"	S	S	S	.	S	R	S	R	.	.	.	.
+Escherichia	2010	5/8/10	CM2010-0362 E coli Box 5 Tube 1	CM2010-0362	E. coli Box 05 Tube 1	E155	Typical	W048-10	Exotic/other	systemic or large cavities	Peritoneal fluid swab and Pus from Liver abcess swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	5/8/10	CM2010-0362 E coli Box 5 Tube 2	CM2010-0362	E. coli Box 05 Tube 2	E156	Typical	W048-10	Exotic/other	systemic or large cavities	Peritoneal fluid swab and Pus from Liver abcess swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	17/8/10	CM2010-0384 E coli Box 5 Tube 4	CM2010-0384	E. coli Box 05 Tube 4	E157	Typical	265629	Exotic/other	digestive	Rabbit small intestine.	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	10/9/10	CM2010-0438 E coli Box 5 Tube 12	CM2010-0438	E. coli Box 05 Tube 12	E158	Typical	NA	Bovine	Other	Faecal swabs from calves and feeding milk	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	10/9/10	CM2010-0438 E coli Box 5 Tube 13	CM2010-0438	E. coli Box 05 Tube 13	E159	Typical	NA	Bovine	Other	Faecal swabs from calves and feeding milk	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	10/9/10	CM2010-0438 E coli Box 5 Tube 14	CM2010-0438	E. coli Box 05 Tube 14	E160	Typical	NA	Bovine	Other	Faecal swabs from calves and feeding milk	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	10/9/10	CM2010-0438 E coli Box 5 Tube 15	CM2010-0438	E. coli Box 05 Tube 15	E161	Typical	NA	Bovine	Other	Faecal swabs from calves and feeding milk	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	10/9/10	CM2010-0438 E coli Box 5 Tube 16	CM2010-0438	E. coli Box 05 Tube 16	E162	Typical	NA	Bovine	Other	Faecal swabs from calves and feeding milk	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	13/9/10	CM2010-0444 E coli Box 5 Tube 23	CM2010-0444	E. coli Box 05 Tube 23	E163	Typical	266132	Feline	digestive	Faecal	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	15/9/10	CM2010-0447 E coli Box 5 Tube 24	CM2010-0447	E. coli Box 05 Tube 24	E164	Typical	242258	Canine	digestive	Faecal	R	R	S	.	S	S	R	R	.	.	.	.
+Escherichia	2010	15/9/10	CM2010-0449 E coli Box 5 Tube 25	CM2010-0449	E. coli Box 05 Tube 25	E165	Typical	266171	Equine	systemic or large cavities	"Liver, Lung and Spleen."	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2010	17/9/10	CM2010-0459 E coli Box 5 Tube 26	CM2010-0459	E. coli Box 05 Tube 26	E166	Typical	266250	Canine	urinary	Cystocentesis urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	14/9/10	CM2010-0446 E coli Box 5 Tube 28	CM2010-0446	E. coli Box 05 Tube 28	E167	Non Lactose Fermenter	266215	Equine	respiratory	"Pleural fluid, Trachael mucus."	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2010	19/10/10	CM2010-0531 E coli Box 5 Tube 36	CM2010-0531	E. coli Box 05 Tube 36	E168	Typical	94390	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	25/10/10	CM2010-0542 E coli Box 5 Tube 37	CM2010-0542	E. coli Box 05 Tube 37	E169	Typical	264537	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	25/10/10	CM2010-0545 E coli Box 5 Tube 38	CM2010-0545	E. coli Box 05 Tube 38	E170	"Weak Lactose fermenter, Mucoid"	267137	Feline	systemic or large cavities	peritoneal fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	26/10/10	CM2010-0547 E coli Box 5 Tube 39	CM2010-0547	E. coli Box 05 Tube 39	E171	Typical	267164	Canine	digestive	Faecal Swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	28/10/10	CM2010-0550 E coli Box 5 Tube 40	CM2010-0550	E. coli Box 05 Tube 40	E172	Typical	267094	Equine	skin and subcutis	Swab from ventral midline incision	R	.	.	S	S	S	R	R	R	.	.	.
+Escherichia	2010	2/11/10	CM2010-0567 E coli Box 5 Tube 42	CM2010-0567	E. coli Box 05 Tube 42	E173	Typical	267315	Feline	urinary	hematuria	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	9/11/10	CM2010-0590 E coli Box 5 Tube 47	CM2010-0590	E. coli Box 05 Tube 47	E174	Typical	264537	Feline	urinary	Cystocentesis	R	R	S	S	S	R	S	S	.	.	.	.
+Escherichia	2010	10/11/10	CM2010-0597 E coli Box 5 Tube 48	CM2010-0597	E. coli Box 05 Tube 48	E175	Typical	267448	Canine	digestive	Faecal	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	12/11/10	CM2010-0606 E coli Box 5 Tube 49	CM2010-0606	E. coli Box 05 Tube 49	E176	Typical	267588	Canine	digestive	Faecal	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	17/11/10	CM2010-0618 E coli Box 5 Tube 50	CM2010-0618	E. coli Box 05 Tube 50	E177	Typical	267398	Equine	skin and subcutis	Swab from incision	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2010	17/11/10	CM2010-0618 E coli Box 5 Tube 51	CM2010-0618	E. coli Box 05 Tube 51	E178	Typical	267398	Equine	skin and subcutis	Swab from incision	R	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2010	17/11/10	CM2010-0619 E coli Box 5 Tube 52	CM2010-0619	E. coli Box 05 Tube 52	E179	Typical	267697	Equine	cardiovascular	Blood culture	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2010	8/12/10	CM2010-0660 E coli Box 5 Tube 54	CM2010-0660	E. coli Box 05 Tube 54	E180	Typical	268243	Canine	respiratory	"BAL, spun."	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	9/12/10	CM2010-0662 E coli Box 5 Tube 55	CM2010-0662	E. coli Box 05 Tube 55	E181	Non Lactose Fermenter	33351	Feline	urinary	Cystocentesis	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	13/12/10	CM2010-0668 E coli Box 5 Tube 57	CM2010-0668	E. coli Box 05 Tube 57	E182	Typical	268123	Canine	digestive	Liver and Bile	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2010	20/12/10	CM2010-0682 E coli Box 5 Tube 62	CM2010-0682	E. coli Box 05 Tube 62	E183	Typical	244416	Canine	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	17/1/11	CM2011-0031 E coli Box 6 Tube 1	CM2011-0031	E. coli Box 06 Tube 1	E184	Typical	241215	Canine	digestive	Faecal	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	27/1/11	CM2011-0055 E coli Box 6 Tube 2	CM2011-0055	E. coli Box 06 Tube 2	E185	Contaminated	269629	Equine	musculo-skeletal	Synovial fluid in BCB	S	.	.	S	S	R	S	S	S	.	S	.
+Escherichia	2011	10/2/11	CM2011-0079 E coli Box 6 Tube 5	CM2011-0079	E. coli Box 06 Tube 5	E186	Typical	269972	Canine	respiratory	Discharge from ET tube.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	23/2/11	CM2011-0103 E coli Box 6 Tube 6	CM2011-0103	E. coli Box 06 Tube 6	E187	Typical	270296	Feline	urinary	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	9/3/11	CM2011-0128 E coli Box 6 Tube 9	CM2011-0128	E. coli Box 06 Tube 9	E188	Non Lactose Fermenter	270519	Equine	skin and subcutis	Incisional discharge	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2011	11/3/11	CM2011-0133 E coli Box 6 Tube 10	CM2011-0133	E. coli Box 06 Tube 10	E189	Typical	270701	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	14/3/11	CM2011-0138 E coli Box 6 Tube 11	CM2011-0138	E. coli Box 06 Tube 11	E190	Typical	270716	Ovine	digestive	Digestive tract of 2 goats	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2011	15/3/11	CM2011-0148 E coli Box 6 Tube 12	CM2011-0148	E. coli Box 06 Tube 12	E191	Typical	270496	Equine	skin and subcutis	Scrotum swabs.	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2011	21/3/11	CM2011-0164 E coli Box 6 Tube 13	CM2011-0164	E. coli Box 06 Tube 13	E192	Typical	270909	Feline	digestive	Faecal swab and faeces	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	22/3/11	CM2011-0165 E coli Box 6 Tube 14	CM2011-0165	E. coli Box 06 Tube 14	E193	Typical	261071	Feline	urinary	Cystocentesis	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	28/3/11	CM2011-0176 E coli Box 6 Tube 15	CM2011-0176	E. coli Box 06 Tube 15	E194	Non Lactose Fermenter	241503	Equine	musculo-skeletal	Fibrin from tendon sheath - abscess	R	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2011	28/3/11	CM2011-0177 E coli Box 6 Tube 16	CM2011-0177	E. coli Box 06 Tube 16	E195	Typical	270999	Equine	skin and subcutis	Swab from incision - discharge	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2011	29/3/11	CM2011-0182 E coli Box 6 Tube 19	CM2011-0182	E. coli Box 06 Tube 19	E196	Typical	270326	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	28/3/11	CM2011-0178 E coli Box 6 Tube 20	CM2011-0178	E. coli Box 06 Tube 20	E197	Typical	NA	Bovine	Other	"Bovine3 vaccine expt, Mar 11"	R	.	.	R	S	R	R	R	S	.	.	.
+Escherichia	2011	6/4/11	CM2011-0197 E coli Box 6 Tube 21	CM2011-0197	E. coli Box 06 Tube 21	E198	Typical	270830	Canine	nervous	Brain swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	6/4/11	CM2011-0199 E coli Box 6 Tube 22	CM2011-0199	E. coli Box 06 Tube 22	E199	Typical	206506	Canine	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	6/4/11	CM2011-0202 E coli Box 6 Tube 23	CM2011-0202	E. coli Box 06 Tube 23	E200	Typical	271136	Feline	systemic or large cavities	peritoneal fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	7/4/11	CM2011-0207 E coli Box 6 Tube 24	CM2011-0207	E. coli Box 06 Tube 24	E201	Non Lactose Fermenter	87614	Canine	systemic or large cavities	"Urine, splenic mass, lymph node, anguinal LN"	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	11/4/11	CM2011-0211 E coli Box 6 Tube 25	CM2011-0211	E. coli Box 06 Tube 25	E202	Typical	235800	Canine	systemic or large cavities	Swab of abdominal fluid	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	11/4/11	CM2011-0212 E coli Box 6 Tube 26	CM2011-0212	E. coli Box 06 Tube 26	E203	Typical	240296	Feline	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	11/4/11	CM2011-0213 E coli Box 6 Tube 27	CM2011-0213	E. coli Box 06 Tube 27	E204	Typical	206514	Canine	urinary	"Urine catheter tip and swab
+
+Peritoneal fluid sediment"	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	13/4/11	CM2011-0217 E coli Box 6 Tube 28	CM2011-0217	E. coli Box 06 Tube 28	E205	Typical	206514	Canine	urinary	Dissected Bladder	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	27/4/11	CM2011-0235 E coli Box 6 Tube 31	CM2011-0235	E. coli Box 06 Tube 31	E206	Typical	271808	Canine	urinary	cystocenthesis and urethral cathether urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	5/5/11	CM2011-0252 E coli Box 6 Tube 34	CM2011-0252	E. coli Box 06 Tube 34	E207	Typical	271986	Canine	respiratory	"BAL, spun."	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2011	12/5/11	CM2011-0261 E coli Box 6 Tube 35	CM2011-0261	E. coli Box 06 Tube 35	E208	Typical	271241	Canine	skin and subcutis	Swab from necrotic area post craniotomy	R	R	R	.	S	S	R	S	.	.	.	.
+Escherichia	2011	16/5/11	CM2011-0272 E coli Box 6 Tube 36	CM2011-0272	E. coli Box 06 Tube 36	E209	Typical	272194	Canine	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	17/5/11	CM2011-0276 E coli Box 6 Tube 37	CM2011-0276	E. coli Box 06 Tube 37	E210	Typical	272154	Canine	skin and subcutis	Tissue from ventral thorax	R	R	R	.	S	R	R	S	.	.	R	S
+Escherichia	2011	19/5/11	CM2011-0282 E coli Box 6 Tube 38	CM2011-0282	E. coli Box 06 Tube 38	E211	Typical	215498	Canine	systemic or large cavities	abdominal fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	20/5/11	CM2011-0288 E coli Box 6 Tube 39	CM2011-0288	E. coli Box 06 Tube 39	E212	Typical	272154	Canine	cardiovascular	2 x Blood culture bottles at different times	R	R	R	.	S	R	R	S	.	.	.	.
+Escherichia	2011	26/5/11	CM2011-0298 E coli Box 6 Tube 40	CM2011-0298	E. coli Box 06 Tube 40	E213	Typical	272358	Feline	ear	Aspirates from L and R middle ear	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2011	16/6/11	CM2011-0334 E coli Box 6 Tube 49	CM2011-0334	E. coli Box 06 Tube 49	E214	Typical	69805	Canine	ear	Swabs from L + R ear	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	17/6/11	CM2011-0337 E coli Box 6 Tube 50	CM2011-0337	E. coli Box 06 Tube 50	E215	Typical	272827	Canine	respiratory	Tracheal/bronhcial lavage - sediment	R	R	S	.	S	R	R	S	.	.	.	.
+Escherichia	2011	28/6/11	CM2011-0363 E coli Box 6 Tube 53	CM2011-0363	E. coli Box 06 Tube 53	E216	Typical	W595-11	Ovine	systemic or large cavities	"Intestine and contents, and lung."	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2011	8/7/11	CM2011-0396 E coli Box 6 Tube 56	CM2011-0396	E. coli Box 06 Tube 56	E217	Typical	NA	Canine	musculo-skeletal	Exudate from sinus of F/R paw.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2011	11/7/11	CM2011-0398 E coli Box 6 Tube 57	CM2011-0398	E. coli Box 06 Tube 57	E218	Typical	273269	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	11/7/11	CM2011-0400 E coli Box 6 Tube 58	CM2011-0400	E. coli Box 06 Tube 58	E219	Typical	263964	Canine	digestive	Faecal.	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	11/7/11	CM2011-0401 E coli Box 6 Tube 59	CM2011-0401	E. coli Box 06 Tube 59	E220	Typical	273293	Equine	skin and subcutis	Swab from discharging incision	S	.	.	S	S	S	R	R	S	.	S	.
+Escherichia	2011	12/7/11	CM2011-0404 E coli Box 6 Tube 60	CM2011-0404	E. coli Box 06 Tube 60	E221	Typical	240296	Feline	urinary	Catherter urine.	S	S	S	.	.	S	S	S	.	.	.	.
+Escherichia	2011	15/7/11	CM2011-0413 E coli Box 6 Tube 62	CM2011-0413	E. coli Box 06 Tube 62	E222	Typical	273409	Canine	urinary	Prostatic wash.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	4/1/11	CM2011-0001 E coli Box 6 Tube 64	CM2011-0001	E. coli Box 06 Tube 64	E223	Typical	to come	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	10/1/11	CM2011-0020 E coli Box 6 Tube 66	CM2011-0020	E. coli Box 06 Tube 66	E224	Typical	125842	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	18/7/11	CM2011-0416 E coli Box 6 Tube 71	CM2011-0416	E. coli Box 06 Tube 71	E225	Typical	273451	Canine	urinary	Prostatic wash and urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	25/7/11	CM2011-0426 E coli Box 6 Tube 72	CM2011-0426	E. coli Box 06 Tube 72	E226	Typical	273551	Feline	urinary	Cystocentesis	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	11/8/11	CM2011-0466 E coli Box 6 Tube 73	CM2011-0466	E. coli Box 06 Tube 73	E227	Typical	205235	Canine	skin and subcutis	Swabs from necrotic seroma	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2011	19/8/11	CM2011-0484 E coli Box 6 Tube 75	CM2011-0484	E. coli Box 06 Tube 75	E228	Typical	274187	Caprine	reproductive	Placenta	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2011	19/8/11	CM2011-0485 E coli Box 6 Tube 79	CM2011-0485	E. coli Box 06 Tube 79	E229	Typical	130692	Feline	skin and subcutis	Abscess from feeding tube site	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	23/8/11	CM2011-0492 E coli Box 6 Tube 80	CM2011-0492	E. coli Box 06 Tube 80	E230	Typical	274190	Equine	musculo-skeletal	Joint fluid in BCB	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2011	5/9/11	CM2011-0519 E coli Box 6 Tube 81	CM2011-0519	E. coli Box 06 Tube 81	E231	Typical	272359	Feline	digestive	Faecal	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	9/9/11	CM2011-0531 E coli Box 6 Tube 82	CM2011-0531	E. coli Box 06 Tube 82	E232	Typical	269054	Feline	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	13/9/11	CM2011-0542 E coli Box 6 Tube 83	CM2011-0542	E. coli Box 06 Tube 83	E233	Typical	267971	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	16/9/11	CM2011-0549 E coli Box 6 Tube 84	CM2011-0549	E. coli Box 06 Tube 84	E234	Typical	78458	Canine	digestive	Swab of purulent exudate from anal gland.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	27/9/11	CM2011-0572 E coli Box 6 Tube 85	CM2011-0572	E. coli Box 06 Tube 85	E235	Typical	275127	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	28/9/11	CM2011-0575 E coli Box 6 Tube 86	CM2011-0575	E. coli Box 06 Tube 86	E236	Typical	275149	Feline	urinary	Cystocentesis.	S	S	S	.	S	.	S	S	.	.	.	.
+Escherichia	2011	28/9/11	CM2011-0576 E coli Box 6 Tube 87	CM2011-0576	E. coli Box 06 Tube 87	E237	Typical	274915	Equine	skin and subcutis	Swab from incision post c-section.	R	.	.	S	S	R	R	R	R	.	R	.
+Escherichia	2011	3/10/11	CM2011-0585 E coli Box 6 Tube 88	CM2011-0585	E. coli Box 06 Tube 88	E238	Typical	275249	Equine	cardiovascular	Blood culture	R	.	.	S	S	R	S	S	S	.	R	.
+Escherichia	2011	10/10/11	CM2011-0603 E coli Box 6 Tube 89	CM2011-0603	E. coli Box 06 Tube 89	E239	Typical	222758	Canine	urinary	Free catch urine.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	13/10/11	CM2011-0614 E coli Box 7 Tube 1	CM2011-0614	E. coli Box 07 Tube 1	E240	Contaminated ?	275406	Feline	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	14/10/11	CM2011-0621 E coli Box 7 Tube 2	CM2011-0621	E. coli Box 07 Tube 2	E241	Typical	275149	Feline	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	17/10/11	CM2011-0624 E coli Box 7 Tube 3	CM2011-0624	E. coli Box 07 Tube 3	E242	Typical	275568	Equine	cardiovascular	Blood culture	S	.	.	S	S	S	R	R	S	.	S	.
+Escherichia	2011	17/10/11	CM2011-0625 E coli Box 7 Tube 4	CM2011-0625	E. coli Box 07 Tube 4	E243	Typical	275577	Canine	systemic or large cavities	Peritoneal fluid - swab.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	24/10/11	CM2011-0641 E coli Box 7 Tube 8	CM2011-0641	E. coli Box 07 Tube 8	E244	Typical	275724	Equine	cardiovascular	Blood culture	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2011	24/10/11	CM2011-0650 E coli Box 7 Tube 9	CM2011-0650	E. coli Box 07 Tube 9	E245	Typical	275783	Equine	cardiovascular	Blood culture	R	.	.	S	S	R	R	R	S	.	R	.
+Escherichia	2011	25/10/11	CM2011-0651 E coli Box 7 Tube 10	CM2011-0651	E. coli Box 07 Tube 10	E246	Typical	269054	Feline	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	26/10/11	CM2011-0654 E coli Box 7 Tube 11	CM2011-0654	E. coli Box 07 Tube 11	E247	Typical	252477	Feline	urinary	Saline bladder flush.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	26/10/11	CM2011-0656 E coli Box 7 Tube 12	CM2011-0656	E. coli Box 07 Tube 12	E248	Typical	275819	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	28/10/11	CM2011-0660 E coli Box 7 Tube 13	CM2011-0660	E. coli Box 07 Tube 13	E249	Typical	275709	Canine	skin and subcutis	Trach tube swab	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2011	31/10/11	CM2011-0667 E coli Box 7 Tube 14	CM2011-0667	E. coli Box 07 Tube 14	E250	Typical	275835	Equine	musculo-skeletal	Synovial fluid in BCB	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2011	1/11/11	CM2011-0671 E coli Box 7 Tube 15	CM2011-0671	E. coli Box 07 Tube 15	E251	Typical	275971	Canine	skin and subcutis	Swab of L axilla wound	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2011	1/11/11	CM2011-0671 E coli Box 7 Tube 16	CM2011-0671	E. coli Box 07 Tube 16	E252	Typical	275971	Canine	skin and subcutis	Swab of L axilla wound	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	2/11/11	CM2011-0674 E coli Box 7 Tube 17	CM2011-0674	E. coli Box 07 Tube 17	E253	Typical	275884	Canine	respiratory	Pleural fluid.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	7/11/11	CM2011-0689 E coli Box 7 Tube 18	CM2011-0689	E. coli Box 07 Tube 18	E254	Typical	275058	Canine	systemic or large cavities	peritoneal fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	14/11/11	CM2011-0716 E coli Box 7 Tube 22	CM2011-0716	E. coli Box 07 Tube 22	E255	Non Lactose Fermenter	275058	Canine	digestive	Septic messenteric abscess - pus and swab (AnO2)	R	R	R	.	R	S	R	S	.	R	R	S
+Escherichia	2011	14/11/11	CM2011-0717 E coli Box 7 Tube 23	CM2011-0717	E. coli Box 07 Tube 23	E256	Typical	276295	Canine	digestive	Faeces	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	5/12/11	CM2011-0774 E coli Box 7 Tube 27	CM2011-0774	E. coli Box 07 Tube 27	E257	Typical	276733	Canine	systemic or large cavities	"Peritoneal flid, peritoneal membrane and Bile"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	5/12/11	CM2011-0776 E coli Box 7 Tube 28	CM2011-0776	E. coli Box 07 Tube 28	E258	Typical	276696	Equine	musculo-skeletal	Bone	S	.	.	S	S	S	R	R	S	.	S	.
+Escherichia	2011	7/12/11	CM2011-0784 E coli Box 7 Tube 29	CM2011-0784	E. coli Box 07 Tube 29	E259	Typical	276709	Feline	urinary	Cystocentesis	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2011	8/12/11	CM2011-0792 E coli Box 7 Tube 31	CM2011-0792	E. coli Box 07 Tube 31	E260	Typical	268578	Equine	systemic or large cavities	Peritoneal fluid.	S	.	.	S	S	S	R	S	S	.	S	.
+Escherichia	2011	13/12/11	CM2011-0804 E coli Box 7 Tube 32	CM2011-0804	E. coli Box 07 Tube 32	E261	Typical	276900	Equine	reproductive	Swab from infected sinus tract post castration	R	.	.	S	S	S	R	R	S	.	R	.
+Escherichia	2011	14/12/11	CM2011-0809 E coli Box 7 Tube 33	CM2011-0809	E. coli Box 07 Tube 33	E262	Typical	275430	Canine	ear	Swab from bulla	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2011	19/12/11	CM2011-0819 E coli Box 7 Tube 34	CM2011-0819	E. coli Box 07 Tube 34	E263	Typical	222758	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2011	19/12/11	CM2011-0821 E coli Box 7 Tube 35	CM2011-0821	E. coli Box 07 Tube 35	E264	Typical	277034	Ovine	systemic or large cavities	"Bile and Small intestine from 2 lambs pooled for each site
+
+Lung from lamb 2"	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2012	9/1/12	CM2012-0003 E coli Box 7 Tube 36	CM2012-0003	E. coli Box 07 Tube 36	E265	Typical	277406	Equine	skin and subcutis	Swab from incisional infectrion	R	.	.	S	R	R	R	R	R	.	R	.
+Escherichia	2012	11/1/12	CM2012-0015 E coli Box 7 Tube 37	CM2012-0015	E. coli Box 07 Tube 37	E266	Typical	227872	Canine	urinary	Prostatic Wash	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	12/1/12	CM2012-0016 E coli Box 7 Tube 38	CM2012-0016	E. coli Box 07 Tube 38	E267	Typical	226969	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	23/1/12	CM2012-0047 E coli Box 7 Tube 41	CM2012-0047	E. coli Box 07 Tube 41	E268	Typical	w67-12	Equine	systemic or large cavities	Lung and stomach conntents from foal	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2012	7/2/12	CM2012-0080 E coli Box 7 Tube 44	CM2012-0080	E. coli Box 07 Tube 44	E269	Typical	278168	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	8/2/12	CM2012-0087 E coli Box 7 Tube 45	CM2012-0087	E. coli Box 07 Tube 45	E270	Typical	71109	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	15/2/12	CM2012-0105 E coli Box 7 Tube 46	CM2012-0105	E. coli Box 07 Tube 46	E271	Typical	278318	Equine	musculo-skeletal	Bone and tendon	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2012	15/2/12	CM2012-0110 E coli Box 7 Tube 47	CM2012-0110	E. coli Box 07 Tube 47	E272	Typical	278316	Canine	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	22/2/12	CM2012-0125 E coli Box 7 Tube 49	CM2012-0125	E. coli Box 07 Tube 49	E273	Typical	126768	Feline	urinary	Cystocentesis.	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2012	6/3/12	CM2012-0161 E coli Box 7 Tube 54	CM2012-0161	E. coli Box 07 Tube 54	E274	Typical	90843	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	12/3/12	CM2012-0177 E coli Box 7 Tube 56	CM2012-0177	E. coli Box 07 Tube 56	E275	Typical	278925	Canine	systemic or large cavities	Urine and abdominal fluid.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	12/3/12	CM2012-0178 E coli Box 7 Tube 57	CM2012-0178	E. coli Box 07 Tube 57	E276	Typical	278925	Canine	systemic or large cavities	Peritoneal fluid (Swab and aspirated fluid) and Liver biopsy. Pleural fluid for gram stain and culture if req.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	16/3/12	CM2012-0187 E coli Box 7 Tube 58	CM2012-0187	E. coli Box 07 Tube 58	E277	Typical	278932	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	23/3/12	CM2012-0219 E coli Box 7 Tube 61	CM2012-0219	E. coli Box 07 Tube 61	E278	Typical	78584	Canine	urinary	Cystocentesis.	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	23/3/12	CM2012-0222 E coli Box 7 Tube 62	CM2012-0222	E. coli Box 07 Tube 62	E279	Typical	279193	Canine	skin and subcutis	Abscess on jaw - pus	R	R	S	.	S	S	R	R	.	.	.	.
+Escherichia	2012	27/3/12	CM2012-0223 E coli Box 7 Tube 63	CM2012-0223	E. coli Box 07 Tube 63	E280	Typical	278336	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	27/3/12	CM2012-0227 E coli Box 7 Tube 64	CM2012-0227	E. coli Box 07 Tube 64	E281	Typical	279302	Equine	musculo-skeletal	Bone/Tissue	S	.	.	S	R	R	R	R	S	.	S	.
+Escherichia	2012	5/4/12	CM2012-0244 E coli Box 7 Tube 66	CM2012-0244	E. coli Box 07 Tube 66	E282	Typical	279528	Canine	respiratory	"Tracheal wash x 2. Wash 1 clear, wash 2 blood tainted."	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	13/4/12	CM2012-0262 E coli Box 7 Tube 68	CM2012-0262	E. coli Box 07 Tube 68	E283	Contaminated ?	279647	Equine	skin and subcutis	Swab from incisional infection.	S	.	.	S	S	S	R	R	S	.	S	.
+Escherichia	2012	19/4/12	CM2012-0276 E coli Box 7 Tube 69	CM2012-0276	E. coli Box 07 Tube 69	E284	Typical	261359	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	20/4/12	CM2012-0281 E coli Box 7 Tube 70	CM2012-0281	E. coli Box 07 Tube 70	E285	Non Lactose Fermenter	240404	Canine	digestive	Faeces and gel swab of faeces	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	23/4/12	CM2012-0286 E coli Box 7 Tube 71	CM2012-0286	E. coli Box 07 Tube 71	E286	Typical	256813	Canine	urinary	Urine	R	R	S	.	S	S	R	R	.	.	.	.
+Escherichia	2012	18/5/12	CM2012-0347 E coli Box 7 Tube 74	CM2012-0347	E. coli Box 07 Tube 74	E287	Typical	280330	Canine	respiratory	BAL	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	2/7/12	CM2012-0389 E coli Box 7 Tube 79	CM2012-0389	E. coli Box 07 Tube 79	E288	Typical	98962	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	16/7/12	CM2012-0416 E coli Box 7 Tube 80	CM2012-0416	E. coli Box 07 Tube 80	E289	Typical	260741	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	18/7/12	CM2012-0420 E coli Box 7 Tube 81	CM2012-0420	E. coli Box 07 Tube 81	E290	Typical	281485	Equine	systemic or large cavities	Peritoneal fluid.	S	.	.	S	S	R	R	R	S	.	S	.
+Escherichia	2012	23/7/12	CM2012-0434 E coli Box 8 Tube 1	CM2012-0434	E. coli Box 08 Tube 1	E291	Typical	273762	Canine	respiratory	BAL	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	27/7/12	CM2012-0444 E coli Box 8 Tube 2	CM2012-0444	E. coli Box 08 Tube 2	E292	Mucoid	245265	Canine	systemic or large cavities	Liver and Peritoneal swab.	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2012	27/7/12	CM2012-0445 E coli Box 8 Tube 3	CM2012-0445	E. coli Box 08 Tube 3	E293	Typical	281535	Canine	ear	Swab from L tympanic bulla	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	27/7/12	CM2012-0445 E coli Box 8 Tube 4	CM2012-0445	E. coli Box 08 Tube 4	E294	Typical	281535	Canine	ear	Swab from L tympanic bulla	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	1/8/12	CM2012-0449 E coli Box 8 Tube 5	CM2012-0449	E. coli Box 08 Tube 5	E295	Non Lactose Fermenter	281723	Canine	respiratory	Lung tissue	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2012	2/8/12	CM2012-0455 E coli Box 8 Tube 6	CM2012-0455	E. coli Box 08 Tube 6	E296	Typical	281714	Canine	urinary	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	6/8/12	CM2012-0462 E coli Box 8 Tube 7	CM2012-0462	E. coli Box 08 Tube 7	E297	Typical	13079	Canine	musculo-skeletal	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	6/8/12	CM2012-0467 E coli Box 8 Tube 8	CM2012-0467	E. coli Box 08 Tube 8	E298	Typical	222758	Canine	urinary	"Prostatic Wash x 2 Pooled, 5mL spun."	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	15/8/12	CM2012-0494 E coli Box 8 Tube 12	CM2012-0494	E. coli Box 08 Tube 12	E299	Typical	281926	Canine	digestive	Faeces	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	17/8/12	CM2012-0497 E coli Box 8 Tube 13	CM2012-0497	E. coli Box 08 Tube 13	E300	Typical	256674	Canine	skin and subcutis	Subcutaneous fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	17/8/12	CM2012-0497 E coli Box 8 Tube 14	CM2012-0497	E. coli Box 08 Tube 14	E301	Typical	256674	Canine	skin and subcutis	Subcutaneous fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	5/9/12	CM2012-0531 E coli Box 8 Tube 15	CM2012-0531	E. coli Box 08 Tube 15	E302	Typical	282389	Canine	digestive	Bile	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	5/9/12	CM2012-0531 E coli Box 8 Tube 16	CM2012-0531	E. coli Box 08 Tube 16	E303	Mucoid	282389	Canine	digestive	Bile	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	6/9/12	CM2012-0532 E coli Box 8 Tube 17	CM2012-0532	E. coli Box 08 Tube 17	E304	Typical	260363	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	10/9/12	CM2012-0539 E coli Box 8 Tube 18	CM2012-0539	E. coli Box 08 Tube 18	E305	Typical	274798	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	18/9/12	CM2012-0546 E coli Box 8 Tube 19	CM2012-0546	E. coli Box 08 Tube 19	E306	Non Lactose Fermenter	203410	Canine	respiratory	ET tube swab and BAL	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	18/9/12	CM2012-0546 E coli Box 8 Tube 20	CM2012-0546	E. coli Box 08 Tube 20	E307	Typical	203410	Canine	respiratory	ET tube swab and BAL	S	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2012	20/9/12	CM2012-0552 E coli Box 8 Tube 21	CM2012-0552	E. coli Box 08 Tube 21	E308	Typical	282688	Canine	mammary	Swab and slides from mammary gland	S	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2012	1/10/12	CM2012-0577 E coli Box 8 Tube 22	CM2012-0577	E. coli Box 08 Tube 22	E309	Typical	250760	Canine	urinary	Free catch urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	8/10/12	CM2012-0587 E coli Box 8 Tube 23	CM2012-0587	E. coli Box 08 Tube 23	E310	Typical	282966	Equine	cardiovascular	Blood culture	S	.	.	S	S	S	R	S	S	.	S	S
+Escherichia	2012	8/10/12	CM2012-0587 E coli Box 8 Tube 24	CM2012-0587	E. coli Box 08 Tube 24	E311	NOT FOUND	282966	Equine	cardiovascular	Blood culture	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2012	31/10/12	CM2012-0659 E coli Box 8 Tube 24	CM2012-0659	E. coli Box 08 Tube 24	E312	Typical	283436	Canine	systemic or large cavities	Abdominal fluid swab	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	8/10/12	CM2012-0588 E coli Box 8 Tube 25	CM2012-0588	E. coli Box 08 Tube 25	E313	Typical	260734	Canine	systemic or large cavities	Peritoeal fluid.	R	R	R	.	S	S	R	S	.	.	.	.
+Escherichia	2012	15/10/12	CM2012-0601 E coli Box 8 Tube 26	CM2012-0601	E. coli Box 08 Tube 26	E314	Typical	283076	Caprine	systemic or large cavities	Lung and Intestine swab	S	.	.	S	S	S	S	S	S	.	.	.
+Escherichia	2012	18/10/12	CM2012-0617 E coli Box 8 Tube 27	CM2012-0617	E. coli Box 08 Tube 27	E315	Typical	260075	Canine	reproductive	Vaginal swab and cystocentesis..	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	22/10/12	CM2012-0633 E coli Box 8 Tube 28	CM2012-0633	E. coli Box 08 Tube 28	E316	Typical	65049	Canine	urinary	Swab from prostatic abscess	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	23/10/12	CM2012-0636 E coli Box 8 Tube 29	CM2012-0636	E. coli Box 08 Tube 29	E317	Typical	283162	Canine	reproductive	Uterine swab snd uterine wall tissue	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2012	26/10/12	CM2012-0649 E coli Box 8 Tube 30	CM2012-0649	E. coli Box 08 Tube 30	E318	Typical	283093	Equine	skin and subcutis	Incisional infection	R	.	.	S	S	R	R	R	R	.	R	.
+Escherichia	2012	1/11/12	CM2012-0664 E coli Box 8 Tube 31	CM2012-0664	E. coli Box 08 Tube 31	E319	Typical	283204	Feline	systemic or large cavities	Abdominal swab and peritoneal fluid.	R	R	S	.	S	R	S	S	S	R	.	S
+Escherichia	2012	2/11/12	CM2012-0666 E coli Box 8 Tube 32	CM2012-0666	E. coli Box 08 Tube 32	E320	Typical	283204	Feline	systemic or large cavities	Abdominal swab and peritoneal fluid	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2012	12/11/12	CM2012-0691 E coli Box 8 Tube 33	CM2012-0691	E. coli Box 08 Tube 33	E321	Typical	281933	Canine	ear	L+R Ear swabs	S	S	S	.	S	R	S	S	S	.	S	S
+Escherichia	2012	12/11/12	CM2012-0693 E coli Box 8 Tube 34	CM2012-0693	E. coli Box 08 Tube 34	E322	Typical	283736	Equine	cardiovascular	Blood culture	S	.	.	S	S	R	R	R	S	.	S	.
+Escherichia	2012	19/11/12	CM2012-0718 E coli Box 8 Tube 35	CM2012-0718	E. coli Box 08 Tube 35	E323	Typical	283513	Equine	skin and subcutis	Incisional swab	S	.	.	S	S	S	R	S	S	.	S	.
+Escherichia	2012	12/12/12	CM2012-0785 E coli Box 8 Tube 38	CM2012-0785	E. coli Box 08 Tube 38	E324	Typical	263473	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2012	14/12/12	CM2012-0791 E coli Box 8 Tube 39	CM2012-0791	E. coli Box 08 Tube 39	E325	Typical	271532	Canine	cardiovascular	"Peritoneal fluid, messenteric LN abscess aspirate"	R	R	R	R	S	R	R	S	S	.	R	.
+Escherichia	2013	4/1/13	CM2013-0001 E coli Box 8 Tube 41	CM2013-0001	E. coli Box 08 Tube 41	E326	Typical	284821	Equine	cardiovascular	Blood culture	S	.	.	S	S	S	R	S	S	.	S	.
+Escherichia	2013	14/1/13	CM2013-0030 E coli Box 8 Tube 43	CM2013-0030	E. coli Box 08 Tube 43	E327	Typical	281328	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	25/1/13	CM2013-0062 E coli Box 8 Tube 44	CM2013-0062	E. coli Box 08 Tube 44	E328	Non Lactose Fermenter	263153	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	25/1/13	CM2013-0063 E coli Box 8 Tube 45	CM2013-0063	E. coli Box 08 Tube 45	E329	Typical	260657	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	25/1/13	CM2013-0064 E coli Box 8 Tube 46	CM2013-0064	E. coli Box 08 Tube 46	E330	Typical	285250	Canine	digestive	Bile	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	31/1/13	CM2013-0082 E coli Box 8 Tube 47	CM2013-0082	E. coli Box 08 Tube 47	E331	Typical	285414	Canine	skin and subcutis	Retromandibular abscess swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	4/2/13	CM2013-0085 E coli Box 8 Tube 48	CM2013-0085	E. coli Box 08 Tube 48	E332	Typical	285111	Equine	skin and subcutis	Abscess fluid	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2013	5/2/13	CM2013-0089 E coli Box 8 Tube 49	CM2013-0089	E. coli Box 08 Tube 49	E333	Typical	274798	Feline	urinary	Cystocentesis.	R	R	S	S	S	S	S	S	S	.	R	S
+Escherichia	2013	6/2/13	CM2013-0099 E coli Box 8 Tube 50	CM2013-0099	E. coli Box 08 Tube 50	E334	Typical	NA	Exotic/other	Other	"ETEC Strains
+
+Toxin gene references"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2013	6/2/13	CM2013-0099 E coli Box 8 Tube 51	CM2013-0099	E. coli Box 08 Tube 51	E335	Typical	NA	Exotic/other	Other	"ETEC Strains
+
+Toxin gene references"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2013	6/2/13	CM2013-0099 E coli Box 8 Tube 52	CM2013-0099	E. coli Box 08 Tube 52	E336	Typical	NA	Exotic/other	Other	"ETEC Strains
+
+Toxin gene references"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2013	6/2/13	CM2013-0099 E coli Box 8 Tube 53	CM2013-0099	E. coli Box 08 Tube 53	E337	Typical	NA	Exotic/other	Other	"ETEC Strains
+
+Toxin gene references"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2013	6/2/13	CM2013-0099 E coli Box 8 Tube 54	CM2013-0099	E. coli Box 08 Tube 54	E338	Typical	NA	Exotic/other	Other	"ETEC Strains
+
+Toxin gene references"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2013	7/2/13	CM2013-0101 E coli Box 8 Tube 55	CM2013-0101	E. coli Box 08 Tube 55	E339	Typical	284708	Canine	urinary	Cystocentesis.	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2013	12/2/13	CM2013-0116 E coli Box 8 Tube 56	CM2013-0116	E. coli Box 08 Tube 56	E340	Typical	283444	Canine	urinary	Vulvar fold swab	R	S	S	.	S	S	R	R	S	.	R	S
+Escherichia	2013	4/3/13	CM2013-0171 E coli Box 8 Tube 57	CM2013-0171	E. coli Box 08 Tube 57	E341	Typical	285845	Equine	skin and subcutis	Swab from discharging incision	R	.	.	S	R	R	R	R	R	.	R	.
+Escherichia	2013	18/2/13	CM2013-0136 E coli Box 8 Tube 58	CM2013-0136	E. coli Box 08 Tube 58	E342	Contaminated ?	285063	Feline	urinary	0.5 ml urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	22/2/13	CM2013-0145 E coli Box 8 Tube 59	CM2013-0145	E. coli Box 08 Tube 59	E343	Typical	260657	Canine	urinary	"Urine, sediment"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	24/2/13	CM2013-0148 E coli Box 8 Tube 60	CM2013-0148	E. coli Box 08 Tube 60	E344	Typical	77752	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	7/3/13	CM2013-0188 E coli Box 8 Tube 63	CM2013-0188	E. coli Box 08 Tube 63	E345	Typical	265294	Feline	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	13/3/13	CM2013-0198 E coli Box 8 Tube 65	CM2013-0198	E. coli Box 08 Tube 65	E346	Typical	286146	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	13/3/13	CM2013-0199 E coli Box 8 Tube 66	CM2013-0199	E. coli Box 08 Tube 66	E347	Typical	276218	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	14/3/13	CM2013-0202 E coli Box 8 Tube 67	CM2013-0202	E. coli Box 08 Tube 67	E348	Typical	286236	Feline	urinary	Urine	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2013	15/3/13	CM2013-0205 E coli Box 8 Tube 68	CM2013-0205	E. coli Box 08 Tube 68	E349	Typical	260657	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	15/3/13	CM2013-0206 E coli Box 8 Tube 69	CM2013-0206	E. coli Box 08 Tube 69	E350	Typical	273111	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	18/3/13	CM2013-0212 E coli Box 8 Tube 70	CM2013-0212	E. coli Box 08 Tube 70	E351	Typical	286374	Exotic/other	respiratory	Lung	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	22/3/13	CM2013-0222 E coli Box 8 Tube 71	CM2013-0222	E. coli Box 08 Tube 71	E352	Typical	284708	Canine	urinary	Cystocentesis.	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	22/3/13	CM2013-0225 E coli Box 8 Tube 72	CM2013-0225	E. coli Box 08 Tube 72	E353	Typical	286310	Equine	reproductive	Prepuce swab	.	R	S	S	S	S	S	S	S	.	R	.
+Escherichia	2013	25/3/13	CM2013-0237 E coli Box 8 Tube 73	CM2013-0237	E. coli Box 08 Tube 73	E354	Typical	286401	Equine	skin and subcutis	Incisional swab	R	S	S	S	R	R	R	R	R	.	R	S
+Escherichia	2013	3/4/13	CM2013-0261 E coli Box 8 Tube 75	CM2013-0261	E. coli Box 08 Tube 75	E355	Typical	286686	Bovine	musculo-skeletal	Swab and tissue from knee.	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2013	4/4/13	CM2013-0269 E coli Box 8 Tube 76	CM2013-0269	E. coli Box 08 Tube 76	E356	Typical	260657	Canine	urinary	Free catch urine	R	R	R	.	R	S	S	S	S	.	R	S
+Escherichia	2013	12/4/13	CM2013-0302 E coli Box 8 Tube 78	CM2013-0302	E. coli Box 08 Tube 78	E357	Typical	227815	Feline	urinary	Urine	R	R	S	.	S	R	R	S	.	.	.	.
+Escherichia	2013	26/4/13	CM2013-0330 E coli Box 8 Tube 79	CM2013-0330	E. coli Box 08 Tube 79	E358	Typical	273111	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	26/4/13	CM2013-0335 E coli Box 8 Tube 80	CM2013-0335	E. coli Box 08 Tube 80	E359	Typical	260657	Canine	urinary	Free catch urine.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	6/5/13	CM2013-0358 E coli Box 8 Tube 81	CM2013-0358	E. coli Box 08 Tube 81	E360	Typical	287223	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	7/5/13	CM2013-0363 E coli Box 9 Tube 1	CM2013-0363	E. coli Box 09 Tube 1	E361	Typical	276845	Equine	systemic or large cavities	Peritoneal fluid swab	R	R	.	S	R	R	R	R	R	.	R	S
+Escherichia	2013	10/5/13	CM2013-0372 E coli Box 9 Tube 3	CM2013-0372	E. coli Box 09 Tube 3	E362	Typical	137221	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	20/5/13	CM2013-0397 E coli Box 9 Tube 4	CM2013-0397	E. coli Box 09 Tube 4	E363	Typical	227815	Feline	urinary	Urine	R	R	S	.	S	R	R	S	.	.	.	.
+Escherichia	2013	20/5/13	CM2013-0398 E coli Box 9 Tube 5	CM2013-0398	E. coli Box 09 Tube 5	E364	Typical	268123	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2013	20/5/13	CM2013-0399 E coli Box 9 Tube 6	CM2013-0399	E. coli Box 09 Tube 6	E365	Typical	243147	Canine	urinary	Urine	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2013	27/5/13	CM2013-0421 E coli Box 9 Tube 9	CM2013-0421	E. coli Box 09 Tube 9	E366	Typical	287703	Canine	ear	Swabs from L + R ear	S	S	S	.	S	S	S	S	S	.	S	S
+Escherichia	2013	31/5/13	CM2013-0436 E coli Box 9 Tube 11	CM2013-0436	E. coli Box 09 Tube 11	E367	Typical	139064	Canine	urinary	Cystocentesis.	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	5/6/13	CM2013-0451 E coli Box 9 Tube 12	CM2013-0451	E. coli Box 09 Tube 12	E368	Typical	226454	Canine	digestive	Faeces - highly mucoid/purulent.	R	R	S	.	R	R	S	R	.	.	.	.
+Escherichia	2013	11/6/13	CM2013-0459 E coli Box 9 Tube 13	CM2013-0459	E. coli Box 09 Tube 13	E369	Typical	NA	Canine	urinary	E. coli from referring lab for storage. Suspect ESBL	R	S	R	.	S	S	R	R	.	.	.	.
+Escherichia	2013	24/6/13	CM2013-0497 E coli Box 9 Tube 18	CM2013-0497	E. coli Box 09 Tube 18	E370	Non Lactose Fermenter	263153	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	20/6/13	CM2013-0492 E coli Box 9 Tube 19	CM2013-0492	E. coli Box 09 Tube 19	E371	Typical	227815	Feline	urinary	Urine	R	R	S	.	S	R	R	S	.	.	.	.
+Escherichia	2013	1/7/13	CM2013-0504 E coli Box 9 Tube 20	CM2013-0504	E. coli Box 09 Tube 20	E372	Typical	288192	Equine	skin and subcutis	Swab from incision	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2013	1/7/13	CM2013-0505 E coli Box 9 Tube 21	CM2013-0505	E. coli Box 09 Tube 21	E373	Typical	288282	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	11/7/13	CM2013-0536 E coli Box 9 Tube 22	CM2013-0536	E. coli Box 09 Tube 22	E374	Typical	288500	Canine	urinary	Cystocentesis.	R	R	S	.	S	S	R	R	.	.	.	.
+Escherichia	2013	15/7/13	CM2013-0547 E coli Box 9 Tube 23	CM2013-0547	E. coli Box 09 Tube 23	E375	Typical	288537	Equine	systemic or large cavities	Peritoneal fluid in culture bottle	R	.	.	S	S	R	R	R	R	.	.	.
+Escherichia	2013	19/7/13	CM2013-0568 E coli Box 9 Tube 26	CM2013-0568	E. coli Box 09 Tube 26	E376	Non Lactose Fermenter	286933	Canine	urinary	Urine	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	22/7/13	CM2013-0578 E coli Box 9 Tube 27	CM2013-0578	E. coli Box 09 Tube 27	E377	Typical	713-13	Bovine	ocular	Exudate from anterior eye chamber.	R	R	S	.	S	R	S	R	.	.	.	.
+Escherichia	2013	23/7/13	CM2013-0582 E coli Box 9 Tube 28	CM2013-0582	E. coli Box 09 Tube 28	E378	Typical	288379	Canine	skin and subcutis	wound swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	25/7/13	CM2013-0587 E coli Box 9 Tube 29	CM2013-0587	E. coli Box 09 Tube 29	E379	Typical	265294	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	25/7/13	CM2013-0590 E coli Box 9 Tube 32	CM2013-0590	E. coli Box 09 Tube 32	E380	Typical	288500	Canine	urinary	Urine	R	S	S	.	S	S	R	R	.	.	.	.
+Escherichia	2013	29/7/13	CM2013-0598 E coli Box 9 Tube 33	CM2013-0598	E. coli Box 09 Tube 33	E381	Typical	270532	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	29/7/13	CM2013-0599 E coli Box 9 Tube 34	CM2013-0599	E. coli Box 09 Tube 34	E382	Typical	270532	Canine	systemic or large cavities	Retroperitoneal fluid	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	30/7/13	CM2013-0601 E coli Box 9 Tube 35	CM2013-0601	E. coli Box 09 Tube 35	E383	Typical	288644	Feline	digestive	Bile	R	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2013	7/8/13	CM2013-0630 E coli Box 9 Tube 38	CM2013-0630	E. coli Box 09 Tube 38	E384	Typical	NA	Exotic/other	digestive	Reference Strains	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2013	2/9/13	CM2013-0662 E coli Box 9 Tube 39	CM2013-0662	E. coli Box 09 Tube 39	E385	Typical	289455	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	2/9/13	CM2013-0663 E coli Box 9 Tube 40	CM2013-0663	E. coli Box 09 Tube 40	E386	Typical	289467	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	9/9/13	CM2013-0683 E coli Box 9 Tube 41	CM2013-0683	E. coli Box 09 Tube 41	E387	Typical	289600	Canine	digestive	Faeces	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	11/9/13	CM2013-0694 E coli Box 9 Tube 42	CM2013-0694	E. coli Box 09 Tube 42	E388	Typical	215352	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	11/9/13	CM2013-0695 E coli Box 9 Tube 43	CM2013-0695	E. coli Box 09 Tube 43	E389	Typical	26778	Feline	urinary	Cystocentesis.	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2013	11/9/13	CM2013-0697 E coli Box 9 Tube 44	CM2013-0697	E. coli Box 09 Tube 44	E390	Typical	288831	Canine	urinary	Free catch urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	16/9/13	CM2013-0705 E coli Box 9 Tube 45	CM2013-0705	E. coli Box 09 Tube 45	E391	Typical	275484	Canine	respiratory	"Ventilator filter - Purulent mucus
+
+BAL"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	16/9/13	CM2013-0707 E coli Box 9 Tube 46	CM2013-0707	E. coli Box 09 Tube 46	E392	Typical	48067	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	24/9/13	CM2013-0723 E coli Box 9 Tube 48	CM2013-0723	E. coli Box 09 Tube 48	E393	Typical	202567	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	28/9/13	CM2013-0728 E coli Box 9 Tube 49	CM2013-0728	E. coli Box 09 Tube 49	E394	Typical	289955	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	7/10/13	CM2013-0741 E coli Box 9 Tube 50	CM2013-0741	E. coli Box 09 Tube 50	E395	Typical	290076	Equine	reproductive	Umbilicus tissue	R	S	S	S	R	R	R	R	R	.	R	S
+Escherichia	2013	13/10/13	CM2013-0761 E coli Box 9 Tube 51	CM2013-0761	E. coli Box 09 Tube 51	E396	Typical	287462	Equine	musculo-skeletal	RH fetlock joint fluid	S	.	.	S	S	S	S	S	S	.	S	S
+Escherichia	2013	13/10/13	CM2013-0761 E coli Box 9 Tube 52	CM2013-0761	E. coli Box 09 Tube 52	E397	"Non Lactose Fermenter, contaminated"	287462	Equine	musculo-skeletal	RH fetlock joint fluid	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2013	13/10/13	CM2013-0761 E coli Box 9 Tube 53	CM2013-0761	E. coli Box 09 Tube 53	E398	Typical	287462	Equine	musculo-skeletal	RH fetlock joint fluid	R	.	.	S	S	R	R	R	S	.	R	.
+Escherichia	2013	21/10/13	CM2013-0788 E coli Box 9 Tube 56	CM2013-0788	E. coli Box 09 Tube 56	E399	Typical	249125	Feline	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	28/10/13	CM2013-0811 E coli Box 9 Tube 60	CM2013-0811	E. coli Box 09 Tube 60	E400	Typical	290055	Feline	urinary	Cystocentesis.	R	S	R	.	S	R	S	R	.	.	.	.
+Escherichia	2013	4/11/13	CM2013-0827 E coli Box 9 Tube 61	CM2013-0827	E. coli Box 09 Tube 61	E401	Typical	290510	Canine	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	5/11/13	CM2013-0831 E coli Box 9 Tube 63	CM2013-0831	E. coli Box 09 Tube 63	E402	Non Lactose Fermenter	290515	Feline	urinary	Cystocentesis.	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	6/11/13	CM2013-0836 E coli Box 9 Tube 64	CM2013-0836	E. coli Box 09 Tube 64	E403	Typical	290654	Equine	digestive	Messenteric abscess Charged to vote 00010571	S	.	.	S	S	S	S	S	S	.	S	.
+Escherichia	2013	8/11/13	CM2013-0843 E coli Box 9 Tube 65	CM2013-0843	E. coli Box 09 Tube 65	E404	Typical	282157	Canine	musculo-skeletal	Nasal biopsy and pooled frontal sinus biopsy	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2013	12/11/13	CM2013-0858 E coli Box 9 Tube 67	CM2013-0858	E. coli Box 09 Tube 67	E405	Typical	215631	Canine	reproductive	Uterine swab	R	S	R	.	R	R	R	S	S	.	.	.
+Escherichia	2013	15/11/13	CM2013-0869 E coli Box 9 Tube 69	CM2013-0869	E. coli Box 09 Tube 69	E406	Typical	249125	Feline	urinary	Free catch urine	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2013	18/11/13	CM2013-0880 E coli Box 9 Tube 70	CM2013-0880	E. coli Box 09 Tube 70	E407	Typical	290894	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	20/11/13	CM2013-0889 E coli Box 9 Tube 71	CM2013-0889	E. coli Box 09 Tube 71	E408	Mucoid	212205	Canine	urinary	Cystocentesis.	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2013	21/11/13	CM2013-0890 E coli Box 9 Tube 72	CM2013-0890	E. coli Box 09 Tube 72	E409	Typical	208585	Equine	reproductive	Uterine swab	R	R	S	S	S	R	R	R	R	.	R	S
+Escherichia	2013	22/11/13	CM2013-0895 E coli Box 9 Tube 73	CM2013-0895	E. coli Box 09 Tube 73	E410	Typical	254988	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	26/11/13	CM2013-0904 E coli Box 9 Tube 74	CM2013-0904	E. coli Box 09 Tube 74	E411	Typical	276218	Canine	urinary	Cystocentesis.	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	26/11/13	CM2013-0906 E coli Box 9 Tube 75	CM2013-0906	E. coli Box 09 Tube 75	E412	Typical	276218	Canine	systemic or large cavities	"Abdominal fluid, Uterine wall and contents swab and left renal pelvis aspirate"	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	26/11/13	CM2013-0906 E coli Box 9 Tube 76	CM2013-0906	E. coli Box 09 Tube 76	E413	Typical	276218	Canine	systemic or large cavities	"Abdominal fluid, Uterine wall and contents swab and left renal pelvis aspirate"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2013	28/11/13	CM2013-0912 E coli Box 9 Tube 77	CM2013-0912	E. coli Box 09 Tube 77	E414	Typical	242203	Canine	digestive	Faeces	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	12/12/13	CM2013-0944 E coli Box 9 Tube 79	CM2013-0944	E. coli Box 09 Tube 79	E415	Typical	286174	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	20/12/13	CM2013-0951 E coli Box 9 Tube 80	CM2013-0951	E. coli Box 09 Tube 80	E416	Typical	290510	Canine	urinary	Cystocentesis	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2013	20/12/13	CM2013-0952 E coli Box 9 Tube 81	CM2013-0952	E. coli Box 09 Tube 81	E417	Typical	65049	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	6/1/14	CM2014-0001 E coli Box 10 Tube 1	CM2014-0001	E. coli Box 10 Tube 1	E418	Typical	272742	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	7/1/14	CM2014-0007 E coli Box 10 Tube 2	CM2014-0007	E. coli Box 10 Tube 2	E419	Typical	291816	Equine	skin and subcutis	Swab	S	.	.	S	S	S	S	S	S	.	S	S
+Escherichia	2014	7/1/14	CM2014-0011 E coli Box 10 Tube 3	CM2014-0011	E. coli Box 10 Tube 3	E420	Typical	291756	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	8/1/14	CM2014-0019 E coli Box 10 Tube 4	CM2014-0019	E. coli Box 10 Tube 4	E421	Typical	256813	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	16/1/14	CM2014-0044 E coli Box 10 Tube 5	CM2014-0044	E. coli Box 10 Tube 5	E422	Typical	292119	Canine	respiratory	Swab from ET tube.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	16/1/14	CM2014-0046 E coli Box 10 Tube 6	CM2014-0046	E. coli Box 10 Tube 6	E423	NOT FOUND	292156	Canine	urinary	Cystocentesis.	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2014	16/1/14	CM2014-0048 E coli Box 10 Tube 6	CM2014-0048	E. coli Box 10 Tube 6	E424	Typical	292156	Canine	urinary	Prostate aspirate	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	29/1/14	CM2014-0067 E coli Box 10 Tube 11	CM2014-0067	E. coli Box 10 Tube 11	E425	Typical	292283	Equine	skin and subcutis	Incisional discharge	R	.	.	S	R	R	R	R	R	.	R	S
+Escherichia	2014	7/2/14	CM2014-0099 E coli Box 10 Tube 12	CM2014-0099	E. coli Box 10 Tube 12	E426	Typical	292598	Canine	urinary	Catheter urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2014	11/2/14	CM2014-0109 E coli Box 10 Tube 13	CM2014-0109	E. coli Box 10 Tube 13	E427	Typical	207961	Canine	urinary	Catheter urine.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	8/4/14	CM2014-0213 E coli Box 10 Tube 14	CM2014-0213	E. coli Box 10 Tube 14	E428	Typical	293872	Canine	systemic or large cavities	"Peritoneal fluid
+
+Intestine and organs"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	21/3/14	CM2014-0158 E coli Box 10 Tube 15	CM2014-0158	E. coli Box 10 Tube 15	E429	Typical	274798	Feline	urinary	Cystocentesis	R	R	R	.	R	R	R	R	S	.	.	S
+Escherichia	2014	24/3/14	CM2014-0160 E coli Box 10 Tube 16	CM2014-0160	E. coli Box 10 Tube 16	E430	Typical	293568	Feline	urinary	Cystocentesis.	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	25/3/14	CM2014-0165 E coli Box 10 Tube 17	CM2014-0165	E. coli Box 10 Tube 17	E431	Typical	293592	Canine	urinary	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	28/3/14	CM2014-0181 E coli Box 10 Tube 19	CM2014-0181	E. coli Box 10 Tube 19	E432	Typical	274798	Feline	urinary	Cystocentesis.	R	R	R	.	R	R	R	R	S	.	.	S
+Escherichia	2014	3/4/14	CM2014-0197 E coli Box 10 Tube 20	CM2014-0197	E. coli Box 10 Tube 20	E433	not sent	274798	Feline	urinary	Cystocentesis.	R	R	R	.	R	R	R	R	S	.	.	S
+Escherichia	2014	14/4/14	CM2014-0225 E coli Box 10 Tube 21	CM2014-0225	E. coli Box 10 Tube 21	E434	not sent	286174	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	14/4/14	CM2014-0228 E coli Box 10 Tube 22	CM2014-0228	E. coli Box 10 Tube 22	E435	not sent	293970	Canine	digestive	Faeces	R	R	R	.	S	R	S	.	.	.	.	.
+Escherichia	2014	23/4/14	CM2014-0249 E coli Box 10 Tube 23	CM2014-0249	E. coli Box 10 Tube 23	E436	not sent	293994	Equine	skin and subcutis	Incisional infection swab	R	.	.	R	S	R	R	R	R	.	R	S
+Escherichia	2014	6/5/14	CM2014-0288 E coli Box 10 Tube 24	CM2014-0288	E. coli Box 10 Tube 24	E437	not sent	249529	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	7/5/14	CM2014-0289 E coli Box 10 Tube 25	CM2014-0289	E. coli Box 10 Tube 25	E438	not sent	269064	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	8/5/14	CM2014-0294 E coli Box 10 Tube 27	CM2014-0294	E. coli Box 10 Tube 27	E439	not sent	286174	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	8/4/14	CM2014-0212 E coli Box 10 Tube 28	CM2014-0212	E. coli Box 10 Tube 28	E440	not sent	293453	Feline	systemic or large cavities	Liver and gall bladder/bile swabs	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	12/5/14	CM2014-0297 E coli Box 10 Tube 30	CM2014-0297	E. coli Box 10 Tube 30	E441	not sent	294489	Canine	systemic or large cavities	Abdominal fluid and swab of abdominal fluid	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	15/5/14	CM2014-0314 E coli Box 10 Tube 31	CM2014-0314	E. coli Box 10 Tube 31	E442	not sent	89370	Feline	urinary	Cystocentesis.	S	.	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	20/5/14	CM2014-0319 E coli Box 10 Tube 32	CM2014-0319	E. coli Box 10 Tube 32	E443	not sent	281810	Feline	urinary	Urine and catheter tip	R	S	S	.	S	S	R	R	.	.	.	.
+Escherichia	2014	20/5/14	CM2014-0322 E coli Box 10 Tube 33	CM2014-0322	E. coli Box 10 Tube 33	E444	not sent	294644	Equine	musculo-skeletal	Fibrin and tendon from punctured navicular bursa	S	.	.	S	S	S	S	S	S	.	S	S
+Escherichia	2014	21/5/14	CM2014-0324 E coli Box 10 Tube 34	CM2014-0324	E. coli Box 10 Tube 34	E445	not sent	286174	Canine	urinary	Cystocentesis.	R	S	S	.	R	R	R	R	.	.	.	.
+Escherichia	2014	23/5/14	CM2014-0333 E coli Box 10 Tube 35	CM2014-0333	E. coli Box 10 Tube 35	E446	not sent	287107	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	30/5/14	CM2014-0350 E coli Box 10 Tube 36	CM2014-0350	E. coli Box 10 Tube 36	E447	not sent	207961	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2013	20/5/13	CM2013-0401 E coli Box 10 Tube 39	CM2013-0401	E. coli Box 10 Tube 39	E448	not sent	287619	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	4/6/14	CM2014-0365 E coli Box 10 Tube 40	CM2014-0365	E. coli Box 10 Tube 40	E449	not sent	294867	Canine	systemic or large cavities	Abdominal fluid and gall bladder	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	6/6/14	CM2014-0374 E coli Box 10 Tube 42	CM2014-0374	E. coli Box 10 Tube 42	E450	not sent	288525	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	16/6/14	CM2014-0390 E coli Box 10 Tube 44	CM2014-0390	E. coli Box 10 Tube 44	E451	not sent	295030	Feline	urinary	Cystocentesis.	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	23/6/14	CM2014-0405 E coli Box 10 Tube 45	CM2014-0405	E. coli Box 10 Tube 45	E452	not sent	284042	Canine	urinary	Free catch urine.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	23/6/14	CM2014-0408 E coli Box 10 Tube 46	CM2014-0408	E. coli Box 10 Tube 46	E453	not sent	244390	Equine	systemic or large cavities	Aspirate from abdominal mass	S	.	.	S	S	S	S	S	S	.	S	S
+Escherichia	2014	1/7/14	CM2014-0437 E coli Box 10 Tube 47	CM2014-0437	E. coli Box 10 Tube 47	E454	not sent	269064	Canine	urinary	Free catch urine	S	S	S	.	R	S	S	S	.	.	.	.
+Escherichia	2014	4/7/14	CM2014-0441 E coli Box 10 Tube 48	CM2014-0441	E. coli Box 10 Tube 48	E455	not sent	295371	Equine	musculo-skeletal	Joint fluid in culture bottle	S	.	.	S	S	S	R	R	S	.	S	.
+Escherichia	2014	10/7/14	CM2014-0458 E coli Box 10 Tube 49	CM2014-0458	E. coli Box 10 Tube 49	E456	not sent	294743	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2014	11/7/14	CM2014-0466 E coli Box 10 Tube 50	CM2014-0466	E. coli Box 10 Tube 50	E457	not sent	295535	Equine	urinary	Urine	R	S	.	R	R	R	R	R	R	.	R	S
+Escherichia	2014	14/7/14	CM2014-0467 E coli Box 10 Tube 51	CM2014-0467	E. coli Box 10 Tube 51	E458	not sent	295578	Canine	respiratory	Swab from ET tube.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	15/7/14	CM2014-0470 E coli Box 10 Tube 52	CM2014-0470	E. coli Box 10 Tube 52	E459	not sent	290894	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	17/7/14	CM2014-0478 E coli Box 10 Tube 53	CM2014-0478	E. coli Box 10 Tube 53	E460	not sent	295280	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2014	31/7/14	CM2014-0516 E coli Box 10 Tube 57	CM2014-0516	E. coli Box 10 Tube 57	E461	not sent	281119	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	6/8/14	CM2014-0524 E coli Box 10 Tube 58	CM2014-0524	E. coli Box 10 Tube 58	E462	not sent	266638	Feline	urinary	Urine	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	11/8/14	CM2014-0536 E coli Box 10 Tube 60	CM2014-0536	E. coli Box 10 Tube 60	E463	not sent	285254	Canine	urinary	Cystocentesis.	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2014	12/8/14	CM2014-0541 E coli Box 10 Tube 61	CM2014-0541	E. coli Box 10 Tube 61	E464	not sent	739-14	Bovine	mammary	"Mammary gland and Liver
+
+Charge to T25"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	26/8/14	CM2014-0580 E coli Box 10 Tube 62	CM2014-0580	E. coli Box 10 Tube 62	E465	not sent	292390	Canine	urinary	Urine	R	R	S	.	R	R	R	R	R	.	R	S
+Escherichia	2014	28/8/14	CM2014-0592 E coli Box 10 Tube 64	CM2014-0592	E. coli Box 10 Tube 64	E466	not sent	292390	Canine	urinary	Cystocentesis.	R	R	S	.	R	R	R	R	.	.	R	.
+Escherichia	2014	4/9/14	CM2014-0620 E coli Box 10 Tube 65	CM2014-0620	E. coli Box 10 Tube 65	E467	not sent	261717	Feline	urinary	Urine	S	S	S	.	.	S	S	S	.	.	.	.
+Escherichia	2014	8/9/14	CM2014-0626 E coli Box 10 Tube 66	CM2014-0626	E. coli Box 10 Tube 66	E468	not sent	288731	Canine	musculo-skeletal	swab from wound	R	R	S	.	S	S	S	R	S	.	R	S
+Escherichia	2014	15/9/14	CM2014-0644 E coli Box 10 Tube 67	CM2014-0644	E. coli Box 10 Tube 67	E469	not sent	288731	Canine	skin and subcutis	Swabs from tail wound	R	R	S	.	S	S	S	R	S	.	R	S
+Escherichia	2014	6/10/14	CM2014-0713 E coli Box 10 Tube 69	CM2014-0713	E. coli Box 10 Tube 69	E470	not sent	261717	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	9/10/14	CM2014-0731 E coli Box 10 Tube 70	CM2014-0731	E. coli Box 10 Tube 70	E471	not sent	254988	Canine	urinary	Urine.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	20/10/14	CM2014-0754 E coli Box 10 Tube 72	CM2014-0754	E. coli Box 10 Tube 72	E472	not sent	297341	Equine	systemic or large cavities	peritoneal fluid	S	.	.	S	S	S	S	S	S	.	S	S
+Escherichia	2014	22/10/14	CM2014-0761 E coli Box 10 Tube 73	CM2014-0761	E. coli Box 10 Tube 73	E473	not sent	274170	Feline	urinary	Cysto.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	25/9/14	CM2014-0679 E coli Box 10 Tube 75	CM2014-0679	E. coli Box 10 Tube 75	E474	not sent	232371	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	25/9/14	CM2014-0682 E coli Box 10 Tube 78	CM2014-0682	E. coli Box 10 Tube 78	E475	not sent	286174	Canine	urinary	"urine, spin down, pellet"	R	S	S	.	R	S	R	R	.	.	.	.
+Escherichia	2014	26/9/14	CM2014-0686 E coli Box 10 Tube 79	CM2014-0686	E. coli Box 10 Tube 79	E476	not sent	292390	Canine	urinary	Cystocentesis.	R	R	S	.	R	R	R	R	.	.	.	.
+Escherichia	2014	26/9/14	CM2014-0687 E coli Box 10 Tube 80	CM2014-0687	E. coli Box 10 Tube 80	E477	not sent	296898	Equine	cardiovascular	Blood culture	S	.	.	S	S	R	S	R	S	.	S	S
+Escherichia	2014	23/10/14	CM2014-0767 E coli Box 11 Tube 1	CM2014-0767	E. coli Box 11 Tube 1	E478	not sent	296866	Canine	skin and subcutis	Swab from pressure abscess	R	R	R	.	R	R	R	R	R	R	R	S
+Escherichia	2014	24/10/14	CM2014-0769 E coli Box 11 Tube 2	CM2014-0769	E. coli Box 11 Tube 2	E479	not sent	NA	Canine	skin and subcutis	Purulent material/Necrosis in LHL	R	R	R	.	R	R	R	R	.	.	.	.
+Escherichia	2014	28/10/14	CM2014-0783 E coli Box 11 Tube 3	CM2014-0783	E. coli Box 11 Tube 3	E480	not sent	297474	Canine	urinary	Prostate swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	4/11/14	CM2014-0802 E coli Box 11 Tube 7	CM2014-0802	E. coli Box 11 Tube 7	E481	not sent	241434	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	4/11/14	CM2014-0803 E coli Box 11 Tube 8	CM2014-0803	E. coli Box 11 Tube 8	E482	not sent	286174	Canine	urinary	Urine	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2014	4/11/14	CM2014-0805 E coli Box 11 Tube 9	CM2014-0805	E. coli Box 11 Tube 9	E483	not sent	297185	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	6/11/14	CM2014-0811 E coli Box 11 Tube 11	CM2014-0811	E. coli Box 11 Tube 11	E484	not sent	254988	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	11/11/14	CM2014-0821 E coli Box 11 Tube 12	CM2014-0821	E. coli Box 11 Tube 12	E485	not sent	270249	Feline	urinary	"Abdominal fluid 5mL  - sediment.
+
+Abdominal swab from surgery
+
+Bladder wall"	S	S	S	.	S	S	S	S	.	.	S	.
+Escherichia	2014	19/11/14	CM2014-0849 E coli Box 11 Tube 16	CM2014-0849	E. coli Box 11 Tube 16	E486	not sent	293272	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	20/11/14	CM2014-0856 E coli Box 11 Tube 17	CM2014-0856	E. coli Box 11 Tube 17	E487	not sent	296750	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	24/11/14	CM2014-0867 E coli Box 11 Tube 20	CM2014-0867	E. coli Box 11 Tube 20	E488	not sent	297982	Equine	systemic or large cavities	"Peritoneal fluid, 5mL sediment."	R	.	.	S	S	S	S	S	S	.	R	.
+Escherichia	2014	24/11/14	CM2014-0868 E coli Box 11 Tube 21	CM2014-0868	E. coli Box 11 Tube 21	E489	not sent	297999	Feline	urinary	Urine and swba of kidney pus	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	26/11/14	CM2014-0879 E coli Box 11 Tube 21	CM2014-0879	E. coli Box 11 Tube 21	E490	not sent	269020	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	2/12/14	CM2014-0892 E coli Box 11 Tube 23	CM2014-0892	E. coli Box 11 Tube 23	E491	not sent	290290	Canine	urinary	Urine and prostate abscess	R	R	S	.	R	R	R	R	S	.	R	S
+Escherichia	2014	3/12/14	CM2014-0894 E coli Box 11 Tube 24	CM2014-0894	E. coli Box 11 Tube 24	E492	not sent	292390	Canine	urinary	Urine	R	.	S	.	R	R	R	R	.	.	.	.
+Escherichia	2014	5/12/14	CM2014-0906 E coli Box 11 Tube 25	CM2014-0906	E. coli Box 11 Tube 25	E493	not sent	298207	Exotic/other	cardiovascular	Blood culture - Alpacca	S	S	S	.	S	S	S	S	.	.	S	S
+Escherichia	2014	5/12/14	CM2014-0907 E coli Box 11 Tube 26	CM2014-0907	E. coli Box 11 Tube 26	E494	not sent	210755	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	9/12/14	CM2014-0915 E coli Box 11 Tube 27	CM2014-0915	E. coli Box 11 Tube 27	E495	not sent	290290	Canine	urinary	Cystocentesis.	R	R	S	.	R	R	R	R	.	.	.	.
+Escherichia	2014	12/12/14	CM2014-0929 E coli Box 11 Tube 28	CM2014-0929	E. coli Box 11 Tube 28	E496	not sent	252486	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2014	16/12/14	CM2014-0934 E coli Box 11 Tube 30	CM2014-0934	E. coli Box 11 Tube 30	E497	not sent	298377	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	3/2/15	CM2015-0042 E coli Box 11 Tube 34	CM2015-0042	E. coli Box 11 Tube 34	E498	not sent	252486	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2015	10/2/15	CM2015-0056 E coli Box 11 Tube 36	CM2015-0056	E. coli Box 11 Tube 36	E499	not sent	299432	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	11/2/15	CM2015-0064 E coli Box 11 Tube 37	CM2015-0064	E. coli Box 11 Tube 37	E500	not sent	285063	Feline	urinary	Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	24/2/15	CM2015-0093 E coli Box 11 Tube 41	CM2015-0093	E. coli Box 11 Tube 41	E501	not sent	261359	Canine	urinary	Urine	R	R	R	.	S	S	R	S	.	.	.	.
+Escherichia	2015	3/3/15	CM2015-0116 E coli Box 11 Tube 42	CM2015-0116	E. coli Box 11 Tube 42	E502	not sent	299891	Canine	urinary	Cystocentesis.	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	12/3/15	CM2015-0136 E coli Box 11 Tube 44	CM2015-0136	E. coli Box 11 Tube 44	E503	not sent	300122	Equine	musculo-skeletal	Joint fluid in culture bottle.	S	.	.	S	S	S	S	S	S	.	S	S
+Escherichia	2015	13/3/15	CM2015-0143 E coli Box 11 Tube 45	CM2015-0143	E. coli Box 11 Tube 45	E504	not sent	245600	Feline	urinary	Urine	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	20/3/15	CM2015-0170 E coli Box 11 Tube 50	CM2015-0170	E. coli Box 11 Tube 50	E505	not sent	285063	Feline	urinary	Urine	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	23/3/15	CM2015-0172 E coli Box 11 Tube 51	CM2015-0172	E. coli Box 11 Tube 51	E506	not sent	293272	Canine	urinary	Urine	R	R	S	.	R	R	R	R	.	.	R	S
+Escherichia	2015	31/3/15	CM2015-0212 E coli Box 11 Tube 56	CM2015-0212	E. coli Box 11 Tube 56	E507	not sent	299432	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	31/3/15	CM2015-0213 E coli Box 11 Tube 57	CM2015-0213	E. coli Box 11 Tube 57	E508	not sent	293272	Canine	urinary	Urine	R	R	S	.	R	R	R	R	S	.	.	S
+Escherichia	2015	9/4/15	CM2015-0235 E coli Box 11 Tube 58	CM2015-0235	E. coli Box 11 Tube 58	E509	not sent	289672	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	9/4/15	CM2015-0235 E coli Box 11 Tube 59	CM2015-0235	E. coli Box 11 Tube 59	E510	not sent	289672	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	13/4/15	CM2015-0250 E coli Box 11 Tube 61	CM2015-0250	E. coli Box 11 Tube 61	E511	not sent	300566	Equine	systemic or large cavities	peritoneal fluid	R	.	.	S	S	R	S	S	S	.	R	.
+Escherichia	2015	22/6/15	CM2015-0470 E coli Box 11 Tube 61	CM2015-0470	E. coli Box 11 Tube 61	E512	not sent	301885	Feline	systemic or large cavities	Swabs from L +R retroperitoneal cavity	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	8/5/15	CM2015-0333 E coli Box 11 Tube 62	CM2015-0333	E. coli Box 11 Tube 62	E513	not sent	301153	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	13/5/15	CM2015-0348 E coli Box 11 Tube 63	CM2015-0348	E. coli Box 11 Tube 63	E514	not sent	no info	Canine	musculo-skeletal	"Right elbow - tissue/abscess
+
+Synovium R shoulder
+
+Lumbosacral region - swab"	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2015	19/5/15	CM2015-0363 E coli Box 11 Tube 64	CM2015-0363	E. coli Box 11 Tube 64	E515	not sent	297925	Canine	skin and subcutis	Anal gland swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	2/6/15	CM2015-0409 E coli Box 11 Tube 69	CM2015-0409	E. coli Box 11 Tube 69	E516	not sent	261717	Feline	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	10/6/15	CM2015-0430 E coli Box 11 Tube 70	CM2015-0430	E. coli Box 11 Tube 70	E517	not sent	285063	Feline	urinary	Urine	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	9/6/15	CM2015-0432 E coli Box 11 Tube 71	CM2015-0432	E. coli Box 11 Tube 71	E518	not sent	208518	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	14/6/15	CM2015-0449 E coli Box 11 Tube 72	CM2015-0449	E. coli Box 11 Tube 72	E519	not sent	130560	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	15/6/15	CM2015-0450 E coli Box 11 Tube 73	CM2015-0450	E. coli Box 11 Tube 73	E520	not sent	301156	Canine	systemic or large cavities	Swabs of uterine stub and abdomen post flush and omentum tissue	R	R	R	.	S	S	S	S	S	.	R	S
+Escherichia	2015	23/6/15	CM2015-0490 E coli Box 11 Tube 74	CM2015-0490	E. coli Box 11 Tube 74	E521	not sent	208518	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	24/6/15	CM2015-0493 E coli Box 11 Tube 75	CM2015-0493	E. coli Box 11 Tube 75	E522	not sent	261249	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	25/6/15	CM2015-0494 E coli Box 11 Tube 76	CM2015-0494	E. coli Box 11 Tube 76	E523	not sent	21624	Canine	reproductive	Recat and Vaginal swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2015	25/6/15	CM2015-0494 E coli Box 11 Tube 77	CM2015-0494	E. coli Box 11 Tube 77	E524	not sent	21624	Canine	reproductive	Recat alnd Vaginal swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2015	29/6/15	CM2015-0508 E coli Box 11 Tube 78	CM2015-0508	E. coli Box 11 Tube 78	E525	not sent	299432	Canine	urinary	"Urine, approx 2 mL, peletted by centrifugation"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	1/7/15	CM2015-0522 E coli Box 11 Tube 79	CM2015-0522	E. coli Box 11 Tube 79	E526	not sent	273436	Canine	urinary	"urine, to be charge to teaching account (see Daniel for info)"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	8/7/15	CM2015-0536 E coli Box 11 Tube 80	CM2015-0536	E. coli Box 11 Tube 80	E527	not sent	33348	Feline	urinary	Cystocentesis.	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	14/7/15	CM2015-0557 E coli Box 12 Tube 1	CM2015-0557	E. coli Box 12 Tube 1	E528	not sent	302269	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	16/7/15	CM2015-0562 E coli Box 12 Tube 3	CM2015-0562	E. coli Box 12 Tube 3	E529	not sent	302287	Feline	systemic or large cavities	Abdominal fluid swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	23/7/15	CM2015-0588 E coli Box 12 Tube 5	CM2015-0588	E. coli Box 12 Tube 5	E530	not sent	293136	Canine	urinary	Cystocentesis.	R	R	S	.	R	R	R	R	R	.	R	.
+Escherichia	2015	28/7/15	CM2015-0597 E coli Box 12 Tube 6	CM2015-0597	E. coli Box 12 Tube 6	E531	not sent	302370	Canine	ear	Ear swabs L + R	S	S	S	.	S	S	S	S	S	.	.	S
+Escherichia	2015	14/8/15	CM2015-0664 E coli Box 12 Tube 19	CM2015-0664	E. coli Box 12 Tube 19	E532	not sent	293272	Canine	urinary	Cystocentesis.	R	R	S	.	R	R	R	R	.	.	.	.
+Escherichia	2015	14/8/15	CM2015-0665 E coli Box 12 Tube 20	CM2015-0665	E. coli Box 12 Tube 20	E533	not sent	208518	Feline	urinary	"urine cysto, bloody"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	19/8/15	CM2015-0680 E coli Box 12 Tube 21	CM2015-0680	E. coli Box 12 Tube 21	E534	not sent	261249	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	24/8/15	CM2015-0709 E coli Box 12 Tube 22	CM2015-0709	E. coli Box 12 Tube 22	E535	not sent	302993	Canine	skin and subcutis	Salivary abscess swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	25/8/15	CM2015-0722 E coli Box 12 Tube 23	CM2015-0722	E. coli Box 12 Tube 23	E536	not sent	293136	Canine	urinary	Urine	R	S	S	.	R	R	R	R	.	.	.	.
+Escherichia	2015	26/8/15	CM2015-0729 E coli Box 12 Tube 24	CM2015-0729	E. coli Box 12 Tube 24	E537	not sent	201808	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	27/8/15	CM2015-0735 E coli Box 12 Tube 25	CM2015-0735	E. coli Box 12 Tube 25	E538	not sent	303019	Canine	respiratory	ET tube swab	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2015	27/8/15	CM2015-0740 E coli Box 12 Tube 27	CM2015-0740	E. coli Box 12 Tube 27	E539	not sent	202845	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	27/8/15	CM2015-0741 E coli Box 12 Tube 28	CM2015-0741	E. coli Box 12 Tube 28	E540	not sent	237171	Feline	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	2/9/15	CM2015-0760 E coli Box 12 Tube 29	CM2015-0760	E. coli Box 12 Tube 29	E541	not sent	296868	Canine	urinary	Cystocentesis.	S	S	S	.	R	S	R	S	.	.	.	.
+Escherichia	2015	7/9/15	CM2015-0772 E coli Box 12 Tube 30	CM2015-0772	E. coli Box 12 Tube 30	E542	not sent	302925	Canine	skin and subcutis	wound swab	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	4/9/15	CM2015-0773 E coli Box 12 Tube 31	CM2015-0773	E. coli Box 12 Tube 31	E543	not sent	140471	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	9/9/15	CM2015-0779 E coli Box 12 Tube 32	CM2015-0779	E. coli Box 12 Tube 32	E544	not sent	303297	Feline	respiratory	Pleural fluid.	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2015	9/9/15	CM2015-0785 E coli Box 12 Tube 33	CM2015-0785	E. coli Box 12 Tube 33	E545	not sent	261249	Canine	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	11/9/15	CM2015-0788 E coli Box 12 Tube 34	CM2015-0788	E. coli Box 12 Tube 34	E546	not sent	303389	Equine	reproductive	"Placenta, Stomach contents, Liver, lung."	S	.	.	S	S	S	R	S	S	.	S	S
+Escherichia	2015	11/9/15	CM2015-0791 E coli Box 12 Tube 35	CM2015-0791	E. coli Box 12 Tube 35	E547	not sent	201808	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	11/9/15	CM2015-0796 E coli Box 12 Tube 36	CM2015-0796	E. coli Box 12 Tube 36	E548	not sent	303044	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	16/9/15	CM2015-0809 E coli Box 12 Tube 38	CM2015-0809	E. coli Box 12 Tube 38	E549	not sent	290061	Canine	reproductive	Pyometra swab	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	23/9/15	CM2015-0838 E coli Box 12 Tube 39	CM2015-0838	E. coli Box 12 Tube 39	E550	not sent	303628	Canine	urinary	"Cystocentesis, sediment"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	23/9/15	CM2015-0838 E coli Box 12 Tube 40	CM2015-0838	E. coli Box 12 Tube 40	E551	not sent	303628	Canine	urinary	"Cystocentesis, sediment"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	25/9/15	CM2015-0844 E coli Box 12 Tube 41	CM2015-0844	E. coli Box 12 Tube 41	E552	not sent	302369	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	30/9/15	CM2015-0866 E coli Box 12 Tube 42	CM2015-0866	E. coli Box 12 Tube 42	E553	not sent	261249	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	5/10/15	CM2015-0877 E coli Box 12 Tube 43	CM2015-0877	E. coli Box 12 Tube 43	E554	not sent	303899	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	15/10/15	CM2015-0916 E coli Box 12 Tube 44	CM2015-0916	E. coli Box 12 Tube 44	E555	not sent	303501	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2015	15/12/15	CM2015-1139 E coli Box 12 Tube 46	CM2015-1139	E. coli Box 12 Tube 46	E556	not sent	305517	Canine	mammary	Mastitis swab	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2015	10/12/15	CM2015-1124 E coli Box 12 Tube 47	CM2015-1124	E. coli Box 12 Tube 47	E557	not sent	305401	Canine	respiratory	Endotracheal wash	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	9/12/15	CM2015-1117 E coli Box 12 Tube 48	CM2015-1117	E. coli Box 12 Tube 48	E558	not sent	305386	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	7/12/15	CM2015-1107 E coli Box 12 Tube 49	CM2015-1107	E. coli Box 12 Tube 49	E559	not sent	303501	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	7/12/15	CM2015-1101 E coli Box 12 Tube 50	CM2015-1101	E. coli Box 12 Tube 50	E560	not sent	300214	Canine	respiratory	BAL and Pooled L+R BAL	R	R	R	.	S	S	S	R	S	.	.	.
+Escherichia	2015	3/12/15	CM2015-1094 E coli Box 12 Tube 51	CM2015-1094	E. coli Box 12 Tube 51	E561	not sent	305209	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	3/12/15	CM2015-1094 E coli Box 12 Tube 52	CM2015-1094	E. coli Box 12 Tube 52	E562	not sent	305209	Canine	urinary	Cystocentesis.	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2015	27/11/15	CM2015-1067 E coli Box 12 Tube 53	CM2015-1067	E. coli Box 12 Tube 53	E563	not sent	276313 path # 1001-15	Canine	systemic or large cavities	Liver - abscessed	R	S	S	.	S	R	S	R	.	.	.	.
+Escherichia	2015	23/11/15	CM2015-1044 E coli Box 12 Tube 54	CM2015-1044	E. coli Box 12 Tube 54	E564	not sent	988-15	Canine	systemic or large cavities	Liver and Lung	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	23/11/15	CM2015-1044 E coli Box 12 Tube 55	CM2015-1044	E. coli Box 12 Tube 55	E565	not sent	988-15	Canine	systemic or large cavities	Liver and Lung	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	19/11/15	CM2015-1040 E coli Box 12 Tube 56	CM2015-1040	E. coli Box 12 Tube 56	E566	not sent	304858	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	17/11/15	CM2015-1034 E coli Box 12 Tube 57	CM2015-1034	E. coli Box 12 Tube 57	E567	not sent	304881	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	16/11/15	CM2015-1024 E coli Box 12 Tube 58	CM2015-1024	E. coli Box 12 Tube 58	E568	not sent	304833	Canine	respiratory	Lung	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2015	13/11/15	CM2015-1019 E coli Box 12 Tube 59	CM2015-1019	E. coli Box 12 Tube 59	E569	not sent	282952	Feline	urinary	Urine	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2015	11/11/15	CM2015-1005 E coli Box 12 Tube 60	CM2015-1005	E. coli Box 12 Tube 60	E570	not sent	284525	Canine	respiratory	BAL	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2015	9/11/15	CM2015-0997 E coli Box 12 Tube 61	CM2015-0997	E. coli Box 12 Tube 61	E571	not sent	284525	Canine	respiratory	"BAL L Caudal swab and fluid Pooled
+
+R Cranial fluid x 2 pooled"	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2015	6/11/15	CM2015-0985 E coli Box 12 Tube 62	CM2015-0985	E. coli Box 12 Tube 62	E572	not sent	231903	Canine	urinary	"peritoneal fluid, bladder wall, calculi"	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2015	6/11/15	CM2015-0983 E coli Box 12 Tube 63	CM2015-0983	E. coli Box 12 Tube 63	E573	not sent	297917	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	5/11/15	CM2015-0975 E coli Box 12 Tube 64	CM2015-0975	E. coli Box 12 Tube 64	E574	not sent	304491	Equine	musculo-skeletal	Synovial fluid in BCB	R	.	.	R	R	R	R	R	R	.	R	S
+Escherichia	2015	4/11/15	CM2015-0968 E coli Box 12 Tube 65	CM2015-0968	E. coli Box 12 Tube 65	E575	not sent	295596	Feline	urinary	urine; report to Mel	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	30/10/15	CM2015-0955 E coli Box 12 Tube 66	CM2015-0955	E. coli Box 12 Tube 66	E576	not sent	293136	Canine	urinary	Urine	R	R	S	.	.	R	R	R	.	.	.	.
+Escherichia	2015	3/11/15	CM2015-0964 E coli Box 12 Tube 67	CM2015-0964	E. coli Box 12 Tube 67	E577	not sent	304489	Canine	respiratory	nasal discharge swab	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2015	3/11/15	CM2015-0964 E coli Box 12 Tube 68	CM2015-0964	E. coli Box 12 Tube 68	E578	not sent	304489	Canine	respiratory	nasal discharge swab	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	3/11/15	CM2015-0964 E coli Box 12 Tube 69	CM2015-0964	E. coli Box 12 Tube 69	E579	not sent	304489	Canine	respiratory	nasal discharge swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2015	3/11/15	CM2015-0964 E coli Box 12 Tube 70	CM2015-0964	E. coli Box 12 Tube 70	E580	not sent	304489	Canine	respiratory	nasal discharge swab	S	S	S	.	R	R	S	S	.	.	.	.
+Escherichia	2015	21/10/15	CM2015-0933 E coli Box 12 Tube 71	CM2015-0933	E. coli Box 12 Tube 71	E581	not sent	304231	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	16/12/15	CM2015-1152 E coli Box 12 Tube 71	CM2015-1152	E. coli Box 12 Tube 71	E582	not sent	290525	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2015	18/12/15	CM2015-1159 E coli Box 12 Tube 72	CM2015-1159	E. coli Box 12 Tube 72	E583	not sent	45315	Canine	urinary	Free catch urine	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	19/1/16	CM2016-0007 E coli Box 12 Tube 73	CM2016-0007	E. coli Box 12 Tube 73	E584	not sent	252486	Canine	urinary	Cystocentesis and renal pelvis aspirate	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	19/1/16	CM2016-0008 E coli Box 12 Tube 74	CM2016-0008	E. coli Box 12 Tube 74	E585	not sent	288525	Canine	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	19/1/16	CM2016-0008 E coli Box 12 Tube 75	CM2016-0008	E. coli Box 12 Tube 75	E586	not sent	288525	Canine	urinary	Cystocentesis	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2016	21/1/16	CM2016-0016 E coli Box 12 Tube 76	CM2016-0016	E. coli Box 12 Tube 76	E587	not sent	293272	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2016	21/1/16	CM2016-0018 E coli Box 12 Tube 77	CM2016-0018	E. coli Box 12 Tube 77	E588	not sent	306142	Equine	skin and subcutis	Incision swab	R	.	.	S	S	R	R	R	.	.	.	.
+Escherichia	2016	22/1/16	CM2016-0023 E coli Box 12 Tube 78	CM2016-0023	E. coli Box 12 Tube 78	E589	not sent	78584	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	2/2/16	CM2016-0061 E coli Box 12 Tube 79	CM2016-0061	E. coli Box 12 Tube 79	E590	not sent	261359	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	15/2/16	CM2016-0101 E coli Box 12 Tube 80	CM2016-0101	E. coli Box 12 Tube 80	E591	not sent	228677	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	17/2/16	CM2016-0111 E coli Box 12 Tube 81	CM2016-0111	E. coli Box 12 Tube 81	E592	not sent	265053	Canine	urinary	Free catch urine	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	18/2/16	CM2016-0120 E coli Box 13 Tube 1	CM2016-0120	E. coli Box 13 Tube 1	E593	not sent	226425	Canine	digestive	Bile	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	26/2/16	CM2016-0140 E coli Box 13 Tube 2	CM2016-0140	E. coli Box 13 Tube 2	E594	not sent	291629	Canine	skin and subcutis	"Swabs from : Perianal wound, L Inguinal wound, Shoulder/neck"	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	26/2/16	CM2016-0140 E coli Box 13 Tube 3	CM2016-0140	E. coli Box 13 Tube 3	E595	not sent	291629	Canine	skin and subcutis	"Swabs from : Perianal wound, L Inguinal wound, Shoulder/neck"	R	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2016	29/2/16	CM2016-0149 E coli Box 13 Tube 4	CM2016-0149	E. coli Box 13 Tube 4	E596	not sent	293272	Canine	urinary	Cystocentesis	R	R	S	.	R	R	R	R	.	.	.	.
+Escherichia	2016	7/3/16	CM2016-0174 E coli Box 13 Tube 5	CM2016-0174	E. coli Box 13 Tube 5	E597	not sent	255641	Canine	urinary	Free catch urine.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	7/3/16	CM2016-0178 E coli Box 13 Tube 6	CM2016-0178	E. coli Box 13 Tube 6	E598	not sent	261359	Canine	skin and subcutis	Swab from mammary resection	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	10/3/16	CM2016-0193 E coli Box 13 Tube 7	CM2016-0193	E. coli Box 13 Tube 7	E599	not sent	307498	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	11/3/16	CM2016-0201 E coli Box 13 Tube 8	CM2016-0201	E. coli Box 13 Tube 8	E600	not sent	248178	Canine	urinary	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	16/3/16	CM2016-0208 E coli Box 13 Tube 9	CM2016-0208	E. coli Box 13 Tube 9	E601	not sent	252486	Canine	urinary	Urine	R	S	S	.	R	S	R	S	.	.	.	.
+Escherichia	2016	21/3/16	CM2016-0222 E coli Box 13 Tube 10	CM2016-0222	E. coli Box 13 Tube 10	E602	not sent	307763	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	21/3/16	CM2016-0223 E coli Box 13 Tube 11	CM2016-0223	E. coli Box 13 Tube 11	E603	not sent	221751	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	7/4/16	CM2016-0244 E coli Box 13 Tube 12	CM2016-0244	E. coli Box 13 Tube 12	E604	not sent	308110	Avian	respiratory	Sinus aspirate from Electus parrot	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	7/4/16	CM2016-0244 E coli Box 13 Tube 13	CM2016-0244	E. coli Box 13 Tube 13	E605	not sent	308110	Avian	respiratory	Sinus aspirate from Electus parrot	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	19/4/16	CM2016-0291 E coli Box 13 Tube 14	CM2016-0291	E. coli Box 13 Tube 14	E606	not sent	240296	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	19/4/16	CM2016-0293 E coli Box 13 Tube 15	CM2016-0293	E. coli Box 13 Tube 15	E607	not sent	279511	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	27/4/16	CM2016-0325 E coli Box 13 Tube 16	CM2016-0325	E. coli Box 13 Tube 16	E608	not sent	308572	Canine	urinary	Catheter urine.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	28/4/16	CM2016-0328 E coli Box 13 Tube 17	CM2016-0328	E. coli Box 13 Tube 17	E609	not sent	231476	Feline	skin and subcutis	Perineal and Inguinal wound swabs post flush.	R	R	R	.	S	S	R	S	.	.	.	.
+Escherichia	2016	2/5/16	CM2016-0339 E coli Box 13 Tube 18	CM2016-0339	E. coli Box 13 Tube 18	E610	not sent	255486	Canine	systemic or large cavities	abdominal fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	5/5/16	CM2016-0352 E coli Box 13 Tube 19	CM2016-0352	E. coli Box 13 Tube 19	E611	not sent	308333 / 447-16	Ovine	urinary	Urine and Kidney	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2016	9/5/16	CM2016-0358 E coli Box 13 Tube 20	CM2016-0358	E. coli Box 13 Tube 20	E612	not sent	222682	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	16/5/16	CM2016-0383 E coli Box 13 Tube 21	CM2016-0383	E. coli Box 13 Tube 21	E613	not sent	308950	Canine	urinary	"Cystocentesis urine, Mucosa and crushed urolith."	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	17/5/16	CM2016-0390 E coli Box 13 Tube 22	CM2016-0390	E. coli Box 13 Tube 22	E614	not sent	277526	Canine	digestive	Bile  swabs	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	23/5/16	CM2016-0420 E coli Box 13 Tube 23	CM2016-0420	E. coli Box 13 Tube 23	E615	not sent	NA	Avian	systemic or large cavities	10 Chicks	S	.	.	.	.	S	S	S	.	.	.	.
+Escherichia	2016	26/5/16	CM2016-0425 E coli Box 13 Tube 24	CM2016-0425	E. coli Box 13 Tube 24	E616	not sent	309193	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	27/5/16	CM2016-0436 E coli Box 13 Tube 25	CM2016-0436	E. coli Box 13 Tube 25	E617	not sent	254461	Canine	digestive	Faeces	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	27/5/16	CM2016-0438 E coli Box 13 Tube 26	CM2016-0438	E. coli Box 13 Tube 26	E618	not sent	278421	Canine	urinary	Cystocentesis.	R	R	S	.	S	S	R	R	.	.	.	.
+Escherichia	2016	14/6/16	CM2016-0487 E coli Box 13 Tube 27	CM2016-0487	E. coli Box 13 Tube 27	E619	not sent	308572	Canine	urinary	Cystocentesis.	S	S	S	.	R	S	R	S	.	.	.	.
+Escherichia	2016	20/6/16	CM2016-0503 E coli Box 13 Tube 28	CM2016-0503	E. coli Box 13 Tube 28	E620	not sent	309647	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	27/6/16	CM2016-0520 E coli Box 13 Tube 29	CM2016-0520	E. coli Box 13 Tube 29	E621	not sent	309762	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	28/6/16	CM2016-0524 E coli Box 13 Tube 30	CM2016-0524	E. coli Box 13 Tube 30	E622	not sent	307731	Canine	systemic or large cavities	Cystocentesis and Cystic mass aspirate	R	R	R	.	R	R	R	R	R	.	.	S
+Escherichia	2016	4/7/16	CM2016-0549 E coli Box 13 Tube 31	CM2016-0549	E. coli Box 13 Tube 31	E623	not sent	309317	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	R	R	.	.	.	.
+Escherichia	2016	4/7/16	CM2016-0552 E coli Box 13 Tube 32	CM2016-0552	E. coli Box 13 Tube 32	E624	not sent	309840	Canine	respiratory	Blind BAL	R	S	R	.	R	R	R	R	R	.	.	S
+Escherichia	2016	5/7/16	CM2016-0554 E coli Box 13 Tube 33	CM2016-0554	E. coli Box 13 Tube 33	E625	not sent	307731	Canine	urinary	Urine	R	R	R	.	R	R	R	R	R	.	.	S
+Escherichia	2016	6/7/16	CM2016-0561 E coli Box 13 Tube 34	CM2016-0561	E. coli Box 13 Tube 34	E626	not sent	271011	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	11/7/16	CM2016-0578 E coli Box 13 Tube 35	CM2016-0578	E. coli Box 13 Tube 35	E627	not sent	300283	Feline	digestive	Bile and Liver biopsy	R	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	11/7/16	CM2016-0584 E coli Box 13 Tube 36	CM2016-0584	E. coli Box 13 Tube 36	E628	not sent	308388	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	12/7/16	CM2016-0588 E coli Box 13 Tube 37	CM2016-0588	E. coli Box 13 Tube 37	E629	not sent	260357	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	22/7/16	CM2016-0630 E coli Box 13 Tube 38	CM2016-0630	E. coli Box 13 Tube 38	E630	not sent	252486	Canine	urinary	"Urine cysto, +blood"	.	S	S	.	R	S	S	S	.	.	.	.
+Escherichia	2016	25/7/16	CM2016-0633 E coli Box 13 Tube 39	CM2016-0633	E. coli Box 13 Tube 39	E631	not sent	308338	Canine	urinary	cysto	R	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2016	1/8/16	CM2016-0653 E coli Box 13 Tube 40	CM2016-0653	E. coli Box 13 Tube 40	E632	not sent	276390	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	29/7/16	CM2016-0654 E coli Box 13 Tube 41	CM2016-0654	E. coli Box 13 Tube 41	E633	not sent	307731	Canine	urinary	Urine	R	R	R	.	R	R	S	S	S	.	.	.
+Escherichia	2016	3/8/16	CM2016-0676 E coli Box 13 Tube 42	CM2016-0676	E. coli Box 13 Tube 42	E634	not sent	304430	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	5/8/16	CM2016-0691 E coli Box 13 Tube 43	CM2016-0691	E. coli Box 13 Tube 43	E635	not sent	308572	Canine	urinary	Cystocentesis	S	S	S	.	R	S	S	S	.	.	.	.
+Escherichia	2016	8/8/16	CM2016-0695 E coli Box 13 Tube 44	CM2016-0695	E. coli Box 13 Tube 44	E636	not sent	310543	Feline	urinary	Cystocentesis.	R	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2016	9/8/16	CM2016-0700 E coli Box 13 Tube 45	CM2016-0700	E. coli Box 13 Tube 45	E637	not sent	268655	Feline	skin and subcutis	Perineal tissue and swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	10/8/16	CM2016-0707 E coli Box 13 Tube 46	CM2016-0707	E. coli Box 13 Tube 46	E638	not sent	310601	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	9/8/16	CM2016-0701 E coli Box 13 Tube 47	CM2016-0701	E. coli Box 13 Tube 47	E639	not sent	Sheep (Green ewe #3)	Ovine	skin and subcutis	Tissue/Abscess from neck and pus	R	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2016	12/8/16	CM2016-0709 E coli Box 13 Tube 48	CM2016-0709	E. coli Box 13 Tube 48	E640	not sent	293272	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2016	22/8/16	CM2016-0740 E coli Box 13 Tube 49	CM2016-0740	E. coli Box 13 Tube 49	E641	not sent	303338	Canine	urinary	Cystocentesis.	R	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2016	24/8/16	CM2016-0745 E coli Box 13 Tube 50	CM2016-0745	E. coli Box 13 Tube 50	E642	not sent	293272	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2016	24/8/16	CM2016-0747 E coli Box 13 Tube 51	CM2016-0747	E. coli Box 13 Tube 51	E643	not sent	246509	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	26/8/16	CM2016-0763 E coli Box 13 Tube 52	CM2016-0763	E. coli Box 13 Tube 52	E644	not sent	310705	Canine	digestive	Bile	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	29/8/16	CM2016-0769 E coli Box 13 Tube 53	CM2016-0769	E. coli Box 13 Tube 53	E645	not sent	310901	Equine	digestive	Stomach content	R	R	R	.	S	R	R	R	.	.	.	.
+Escherichia	2016	30/8/16	CM2016-0772 E coli Box 13 Tube 54	CM2016-0772	E. coli Box 13 Tube 54	E646	not sent	276390	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	7/9/16	CM2016-0806 E coli Box 13 Tube 55	CM2016-0806	E. coli Box 13 Tube 55	E647	not sent	310994	Canine	ear	Ear swab - post op	S	S	S	.	S	S	S	S	S	.	.	S
+Escherichia	2016	8/9/16	CM2016-0824 E coli Box 13 Tube 56	CM2016-0824	E. coli Box 13 Tube 56	E648	not sent	121505	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	7/9/16	CM2016-0827 E coli Box 13 Tube 57	CM2016-0827	E. coli Box 13 Tube 57	E649	not sent	293272	Canine	urinary	Cystocentesis.	R	R	S	.	R	R	R	R	.	.	.	R
+Escherichia	2016	4/10/16	CM2016-0914 E coli Box 13 Tube 58	CM2016-0914	E. coli Box 13 Tube 58	E650	not sent	1013-16	Avian	respiratory	Lung swab	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2016	28/9/16	CM2016-0917 E coli Box 13 Tube 59	CM2016-0917	E. coli Box 13 Tube 59	E651	not sent	308572	Canine	urinary	Cystocentesis.	S	S	S	.	R	S	S	S	.	.	.	.
+Escherichia	2016	3/10/16	CM2016-0931 E coli Box 13 Tube 60	CM2016-0931	E. coli Box 13 Tube 60	E652	not sent	308338	Canine	urinary	Cystocentesis.	R	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2016	13/9/16	CM2016-0845 E coli Box 13 Tube 61	CM2016-0845	E. coli Box 13 Tube 61	E653	not sent	TR1	Ovine	nervous	Bran abscess swabs x 2 pooled.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	4/10/16	CM2016-0934 E coli Box 13 Tube 62	CM2016-0934	E. coli Box 13 Tube 62	E654	not sent	260357	Canine	urinary	Free catch urine	S	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2016	3/10/16	CM2016-0929 E coli Box 13 Tube 63	CM2016-0929	E. coli Box 13 Tube 63	E655	not sent	311741	Canine	systemic or large cavities	peritoneal fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	10/10/16	CM2016-0955 E coli Box 13 Tube 63	CM2016-0955	E. coli Box 13 Tube 63	E656	not sent	209462	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	13/10/16	CM2016-0968 E coli Box 13 Tube 64	CM2016-0968	E. coli Box 13 Tube 64	E657	not sent	311998	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	14/10/16	CM2016-0973 E coli Box 13 Tube 65	CM2016-0973	E. coli Box 13 Tube 65	E658	not sent	238368	Feline	urinary	Cystocentesis.	R	R	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	14/10/16	CM2016-0975 E coli Box 13 Tube 66	CM2016-0975	E. coli Box 13 Tube 66	E659	not sent	311590	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2016	14/10/16	CM2016-0977 E coli Box 13 Tube 67	CM2016-0977	E. coli Box 13 Tube 67	E660	not sent	308388	Canine	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	19/10/16	CM2016-0995 E coli Box 13 Tube 68	CM2016-0995	E. coli Box 13 Tube 68	E661	not sent	265667	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	28/10/16	CM2016-1019 E. coli Box 13 Tubes 69 -70 -71	CM2016-1019	E. coli Box 13 Tube 69 -70 -71	E662	not sent	ALL FARM	Avian	systemic or large cavities	"1-8 Yolk sacs unborn chicks;
+
+9, 11, 13, 15 and 17: Livers, birds A, B, C, D and E;
+
+10 Left Hock, bird A;
+
+12, 14 and 16 Right Hocks, birds B, C and D."	S	.	.	.	.	R	R	S	.	R	.	.
+Escherichia	2016	28/10/16	CM2016-1020 E. coli Box 13 Tubes 72 -73 -74	CM2016-1020	E. coli Box 13 Tube 72 -73 -74	E663	not sent	Shed 1	Avian	systemic or large cavities	"18, 19, 20 Livers
+
+21 heart"	S	.	.	.	.	R	S	S	.	R	.	.
+Escherichia	2016	8/11/16	CM2016-1028 E. coli Box 13 Tube 75	CM2016-1028	E. coli Box 13 Tube 75	E664	not sent	276329	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	8/11/16	CM2016-1029 E. coli Box 13 Tube 76	CM2016-1029	E. coli Box 13 Tube 76	E665	not sent	288525	Canine	urinary	Cystocentesis	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	15/11/16	CM2016-1047 E. coli Box 13 Tube 77	CM2016-1047	E. coli Box 13 Tube 77	E666	not sent	1161-16	Canine	urinary	"Penis swab
+
+Kidney"	R	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2016	16/11/16	CM2016-1050 E. coli Box 13 Tube 78	CM2016-1050	E. coli Box 13 Tube 78	E667	not sent	312744	Canine	reproductive	Pyometra swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	16/11/16	CM2016-1053 E. coli Box 13 Tube 79	CM2016-1053	E. coli Box 13 Tube 79	E668	not sent	312723	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	16/11/16	"CM2016-1054 E. coli Box 13 Tube 80, 81"	CM2016-1054	"E. coli Box 13 Tube 80 , 81"	E669	not sent	"1167-16, 1168-16, 1169-16, 1170-16"	Avian	systemic or large cavities	"1167-16 
+
+A Liver
+
+B Liver
+
+C Yolk
+
+
+
+1168-16
+
+D Liver
+
+D Yolk
+
+
+
+1169-16
+
+B Liver
+
+C Liver
+
+
+
+1170-16
+
+A Liver
+
+B Liver
+
+C Liver"	R	.	.	.	.	R	R	R	.	.	.	.
+Escherichia	2016	23/11/16	CM2016-1068 E. coli Box 14 Tube 1	CM2016-1068	E. coli Box 14 Tube 1	E670	not sent	"1188, 1189, 1190, 1191-16"	Avian	systemic or large cavities	"1188-16
+
+A Peritoneum
+
+
+
+1189-16
+
+A Liver
+
+A Yolk
+
+B Liver
+
+C Caecum
+
+D Liver
+
+
+
+1190-16
+
+A Caecum
+
+A Yolk
+
+B Caecum
+
+B Yolk
+
+B Liver
+
+C Caecum
+
+C Liver
+
+E Yolk
+
+
+
+1191-16
+
+A Yolk
+
+B Yolk
+
+C Liver"	S	.	S	.	S	S	S	S	.	.	.	.
+Escherichia	2016	23/11/16	CM2016-1068 E. coli Box 14 Tube 2	CM2016-1068	E. coli Box 14 Tube 2	E671	not sent	"1188, 1189, 1190, 1191-16"	Avian	systemic or large cavities	"1188-16
+
+A Peritoneum
+
+
+
+1189-16
+
+A Liver
+
+A Yolk
+
+B Liver
+
+C Caecum
+
+D Liver
+
+
+
+1190-16
+
+A Caecum
+
+A Yolk
+
+B Caecum
+
+B Yolk
+
+B Liver
+
+C Caecum
+
+C Liver
+
+E Yolk
+
+
+
+1191-16
+
+A Yolk
+
+B Yolk
+
+C Liver"	S	.	S	.	S	R	R	R	.	.	.	.
+Escherichia	2016	23/11/16	CM2016-1068 E. coli Box 14 Tube 3	CM2016-1068	E. coli Box 14 Tube 3	E672	not sent	"1188, 1189, 1190, 1191-16"	Avian	systemic or large cavities	"1188-16
+
+A Peritoneum
+
+
+
+1189-16
+
+A Liver
+
+A Yolk
+
+B Liver
+
+C Caecum
+
+D Liver
+
+
+
+1190-16
+
+A Caecum
+
+A Yolk
+
+B Caecum
+
+B Yolk
+
+B Liver
+
+C Caecum
+
+C Liver
+
+E Yolk
+
+
+
+1191-16
+
+A Yolk
+
+B Yolk
+
+C Liver"	S	.	S	.	S	R	R	S	.	.	.	.
+Escherichia	2016	23/11/16	CM2016-1068 E. coli Box 14 Tube 4	CM2016-1068	E. coli Box 14 Tube 4	E673	not sent	"1188, 1189, 1190, 1191-16"	Avian	systemic or large cavities	"1188-16
+
+A Peritoneum
+
+
+
+1189-16
+
+A Liver
+
+A Yolk
+
+B Liver
+
+C Caecum
+
+D Liver
+
+
+
+1190-16
+
+A Caecum
+
+A Yolk
+
+B Caecum
+
+B Yolk
+
+B Liver
+
+C Caecum
+
+C Liver
+
+E Yolk
+
+
+
+1191-16
+
+A Yolk
+
+B Yolk
+
+C Liver"	R	.	R	.	S	R	R	R	.	.	.	.
+Escherichia	2016	12/12/16	CM2016-1134 E. coli Box 14 Tube 5	CM2016-1134	E. coli Box 14 Tube 5	E674	not sent	308338	Canine	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2016	14/12/16	CM2016-1146 E. coli Box 14 Tube 6	CM2016-1146	E. coli Box 14 Tube 6	E675	not sent	313248	Canine	digestive	Bile/Liver/Gall bladder pooled	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2017	12/1/17	CM2017-0023 E. coli Box 14 Tube 7	CM2017-0023	E. coli Box 14 Tube 7	E676	not sent	292704	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	16/1/17	CM2017-0027 E. coli Box 14 Tube 8	CM2017-0027	E. coli Box 14 Tube 8	E677	not sent	314249	Canine	Systemic	Abdominal fluid swab	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	16/1/17	CM2017-0030 E. coli Box 14 Tube 9	CM2017-0030	E. coli Box 14 Tube 9	E678	not sent	286174	Canine	urinary	Cystocentesis.	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2017	17/1/17	CM2017-0032 E. coli Box 14 Tube 10	CM2017-0032	E. coli Box 14 Tube 10	E679	not sent	261249	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	18/1/17	"CM2017-0039 E. coli Box 14 Tube 11, 12, 13, 14"	CM2017-0039	"E. coli Box 14 Tube 11 , 12 , 13 , 14"	E680	not sent	W37-17	Avian	Systemic	"Bird A
+
+Liver
+
+Left Hock
+
+Bird B
+
+R Knee
+
+L Femoral head
+
+Bird C
+
+R Knee
+
+R Femoral head
+
+Bird D
+
+R Knee
+
+L Femoral head"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	19/1/17	CM2017-0045 E. coli Box 14 Tube 15	CM2017-0045	E. coli Box 14 Tube 15	E681	not sent	314366	Canine	skin and subcutis	Dog fight swab	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	31/1/17	CM2017-0083 E. coli Box 14 Tube 16	CM2017-0083	E. coli Box 14 Tube 16	E682	not sent	314595	Canine	cardiovascular	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	31/1/17	CM2017-0088 E. coli Box 14 Tube 17	CM2017-0088	E. coli Box 14 Tube 17	E683	not sent	300144	Feline	urinary	Cystocentesis	R	R	R	.	S	S	R	R	.	.	.	.
+Escherichia	2017	1/2/17	CM2017-0094 E. coli Box 14 Tube 18	CM2017-0094	E. coli Box 14 Tube 18	E684	not sent	247255	Canine	Systemic	peritoneal fluid	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	3/2/17	CM2017-0097 E. coli Box 14 Tube 19	CM2017-0097	E. coli Box 14 Tube 19	E685	not sent	85-17	Avian	Systemic	liver	S	.	.	.	.	S	R	S	.	.	.	.
+Escherichia	2017	2/2/17	CM2017-0099 E. coli Box 14 Tube 20	CM2017-0099	E. coli Box 14 Tube 20	E686	not sent	286174	Canine	urinary	Urine	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2017	3/2/17	CM2017-0100 E. coli Box 14 Tube 21	CM2017-0100	E. coli Box 14 Tube 21	E687	not sent	295055	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	3/2/17	CM2017-0106 E. coli Box 14 Tube 22	CM2017-0106	E. coli Box 14 Tube 22	E688	not sent	104/105-17	Avian	Systemic	"104-17 Cloacal swabs x 6
+
+105-17 Heart swab"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	6/2/17	CM2017-0117 E. coli Box 14 Tube 23	CM2017-0117	E. coli Box 14 Tube 23	E689	not sent	Specimens 1 and 2	Avian	digestive	Intestine and content	R	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2017	8/2/17	CM2017-0127 E. coli Box 14 Tube 24	CM2017-0127	E. coli Box 14 Tube 24	E690	not sent	314854	Canine	urinary	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	10/2/17	CM2017-0135 E. coli Box 14 Tube 25	CM2017-0135	E. coli Box 14 Tube 25	E691	not sent	Case 29	Other (see info)	Systemic	Haemolymph swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	16/2/17	CM2017-0156 E. coli Box 14 Tube 26	CM2017-0156	E. coli Box 14 Tube 26	E692	not sent	315068	Canine	urinary	"Cystocentesis.
+
+Prostatic wash"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	16/2/17	CM2017-0164 E. coli Box 14 Tube 27	CM2017-0164	E. coli Box 14 Tube 27	E693	not sent	296885	Canine	urinary	Free catch urine.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	22/2/17	CM2017-0185 E. coli Box 14 Tube 28	CM2017-0185	E. coli Box 14 Tube 28	E694	not sent	245391	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2017	22/2/17	CM2017-0186 E. coli Box 14 Tube 29	CM2017-0186	E. coli Box 14 Tube 29	E695	not sent	Case 31	Other (see info)	Systemic	Haemolymph swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	23/2/17	CM2017-0190 E. coli Box 14 Tube 30	CM2017-0190	E. coli Box 14 Tube 30	E696	not sent	Case 32	Other (see info)	Systemic	Haemolymph	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	24/2/17	CM2017-0195 E. coli Box 14 Tube 31	CM2017-0195	E. coli Box 14 Tube 31	E697	not sent	105534	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	27/2/17	CM2017-0198 E. coli Box 14 Tube 32	CM2017-0198	E. coli Box 14 Tube 32	E698	not sent	315260	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	30/3/17	CM2017-0318 E. coli Box 14 Tube 32	CM2017-0318	E. coli Box 14 Tube 32	E699	not sent	315788	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	1/3/17	CM2017-0209 E. coli Box 14 Tube 33	CM2017-0209	E. coli Box 14 Tube 33	E700	not sent	Case 35	Other (see info)	Systemic	Haemolymph swab	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	3/3/17	CM2017-0220 E. coli Box 14 Tube 34	CM2017-0220	E. coli Box 14 Tube 34	E701	not sent	314971	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	5/3/17	CM2017-0225 E. coli Box 14 Tube 35	CM2017-0225	E. coli Box 14 Tube 35	E702	not sent	315491	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	8/3/17	CM2017-0240 E. coli Box 14 Tube 36	CM2017-0240	E. coli Box 14 Tube 36	E703	not sent	315563	Feline	digestive	Bile	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	9/3/17	CM2017-0243 E. coli Box 14 Tube 37	CM2017-0243	E. coli Box 14 Tube 37	E704	not sent	315577	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	9/3/17	CM2017-0252 E. coli Box 14 Tube 38	CM2017-0252	E. coli Box 14 Tube 38	E705	not sent	238-17	Avian	Systemic	"Bird A: 
+
+Yolk sac
+
+
+
+Bird B: 
+
+Caecal Tube
+
+Liver"	S	.	.	.	S	S	R	S	.	.	.	.
+Escherichia	2017	10/3/17	CM2017-0257 E. coli Box 14 Tube 39	CM2017-0257	E. coli Box 14 Tube 39	E706	not sent	315563	Feline	digestive	"Pooled Bile, Gall bladder and cholelith"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	14/3/17	CM2017-0264 E. coli Box 14 Tube 40	CM2017-0264	E. coli Box 14 Tube 40	E707	not sent	315699	Canine	Systemic	peritoneal fluid	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2017	17/3/17	CM2017-0278 E. coli Box 14 Tube 41	CM2017-0278	E. coli Box 14 Tube 41	E708	not sent	310164	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	23/3/17	CM2017-0299 E. coli Box 14 Tube 42	CM2017-0299	E. coli Box 14 Tube 42	E709	not sent	307986	Feline	respiratory	BAL	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	23/3/17	CM2017-0299 E. coli Box 14 Tube 43	CM2017-0299	E. coli Box 14 Tube 43	E710	not sent	307986	Feline	respiratory	BAL	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	27/3/17	CM2017-0306 E. coli Box 14 Tube 44	CM2017-0306	E. coli Box 14 Tube 44	E711	not sent	311480	Feline	urinary	Cystocentesis.	R	R	R	.	R	R	R	R	R	.	.	S
+Escherichia	2017	27/3/17	CM2017-0306 E. coli Box 14 Tube 45	CM2017-0306	E. coli Box 14 Tube 45	E712	not sent	311480	Feline	urinary	Cystocentesis.	R	R	R	.	R	S	S	S	S	.	.	S
+Escherichia	2017	7/4/17	CM2017-0349 E. coli Box 14 Tube 46	CM2017-0349	E. coli Box 14 Tube 46	E713	not sent	232841	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	7/4/17	CM2017-0351 E. coli Box 14 Tube 47	CM2017-0351	E. coli Box 14 Tube 47	E714	not sent	285888	Feline	skin and subcutis	NA	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	11/4/17	CM2017-0365 E. coli Box 14 Tube 48	CM2017-0365	E. coli Box 14 Tube 48	E715	not sent	316306	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	24/4/17	CM2017-0383 E. coli Box 14 Tube 49	CM2017-0383	E. coli Box 14 Tube 49	E716	not sent	246474	Feline	digestive	Bile	S	S	S	.	S	R	R	S	.	.	.	.
+Escherichia	2017	24/4/17	CM2017-0383 E. coli Box 14 Tube 50	CM2017-0383	E. coli Box 14 Tube 50	E717	not sent	246474	Feline	digestive	Bile	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2017	24/4/17	CM2017-0386 E. coli Box 14 Tube 51	CM2017-0386	E. coli Box 14 Tube 51	E718	not sent	316472	Canine	reproductive	Uterine and vaginal swabs for D Leelamany study	R	R	S	.	S	R	R	R	.	.	.	.
+Escherichia	2017	26/4/17	CM2017-0389 E. coli Box 14 Tube 52	CM2017-0389	E. coli Box 14 Tube 52	E719	not sent	315788	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	26/4/17	CM2017-0395 E. coli Box 14 Tube 53	CM2017-0395	E. coli Box 14 Tube 53	E720	not sent	246474	Canine	urinary	Cystocentesis.	S	S	S	.	S	R	S	S	.	.	.	.
+Escherichia	2017	26/4/17	CM2017-0399 E. coli Box 14 Tube 54	CM2017-0399	E. coli Box 14 Tube 54	E721	not sent	316624	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	27/4/17	CM2017-0404 E. coli Box 14 Tube 55	CM2017-0404	E. coli Box 14 Tube 55	E722	not sent	386-12	Feline	digestive	Duodenum	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	1/5/17	CM2017-0409 E. coli Box 14 Tube 56	CM2017-0409	E. coli Box 14 Tube 56	E723	not sent	282952	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	1/5/17	CM2017-0409 E. coli Box 14 Tube 57	CM2017-0409	E. coli Box 14 Tube 57	E724	not sent	282952	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	1/5/17	CM2017-0413 E. coli Box 14 Tube 58	CM2017-0413	E. coli Box 14 Tube 58	E725	not sent	316536	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	1/5/17	CM2017-0413 E. coli Box 14 Tube 59	CM2017-0413	E. coli Box 14 Tube 59	E726	not sent	316536	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	2/5/17	CM2017-0415 E. coli Box 14 Tube 60	CM2017-0415	E. coli Box 14 Tube 60	E727	not sent	316661	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	8/5/17	CM2017-0439 E. coli Box 14 Tube 61	CM2017-0439	E. coli Box 14 Tube 61	E728	not sent	316862	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	15/5/17	CM2017-0457 E. coli Box 14 Tube 62	CM2017-0457	E. coli Box 14 Tube 62	E729	not sent	317015	Feline	respiratory	Pleural fluid	R	S	S	.	S	R	R	R	.	.	.	.
+Escherichia	2017	17/5/17	CM2017-0460 E. coli Box 14 Tube 63	CM2017-0460	E. coli Box 14 Tube 63	E730	not sent	317048	Feline	urinary	R renal pelvis aspirate	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	18/5/17	CM2017-0466 E. coli Box 14 Tube 64	CM2017-0466	E. coli Box 14 Tube 64	E731	not sent	317069	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	18/5/17	CM2017-0468 E. coli Box 14 Tube 65	CM2017-0468	E. coli Box 14 Tube 65	E732	not sent	317066	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	18/5/17	CM2017-0468 E. coli Box 14 Tube 66	CM2017-0468	E. coli Box 14 Tube 66	E733	not sent	317066	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	19/5/17	CM2017-0474 E. coli Box 14 Tube 67	CM2017-0474	E. coli Box 14 Tube 67	E734	not sent	271011	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	19/5/17	CM2017-0476 E. coli Box 14 Tube 68	CM2017-0476	E. coli Box 14 Tube 68	E735	not sent	295727	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	30/5/17	CM2017-0498 E. coli Box 14 Tube 69	CM2017-0498	E. coli Box 14 Tube 69	E736	not sent	317236	Equine	musculo-skeletal	Sequestrum/bone	R	.	.	S	S	R	R	R	S	.	.	.
+Escherichia	2017	30/5/17	CM2017-0500 E. coli Box 14 Tube 70	CM2017-0500	E. coli Box 14 Tube 70	E737	not sent	212252	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	2/6/17	CM2017-0509 E. coli Box 14 Tube 71	CM2017-0509	E. coli Box 14 Tube 71	E738	not sent	308338	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	9/6/17	CM2017-0526 E. coli Box 14 Tube 72	CM2017-0526	E. coli Box 14 Tube 72	E739	not sent	317048	Feline	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	9/6/17	CM2017-0527 E. coli Box 14 Tube 73	CM2017-0527	E. coli Box 14 Tube 73	E740	not sent	317457	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	9/6/17	CM2017-0529 E. coli Box 14 Tube 74	CM2017-0529	E. coli Box 14 Tube 74	E741	not sent	274088	Feline	urinary	Urine	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	15/6/17	CM2017-0534 E. coli Box 14 Tube 75	CM2017-0534	E. coli Box 14 Tube 75	E742	not sent	317048	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	15/6/17	CM2017-0541 E. coli Box 14 Tube 76	CM2017-0541	E. coli Box 14 Tube 76	E743	not sent	228677	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	16/6/17	CM2017-0542 E. coli Box 14 Tube 77	CM2017-0542	E. coli Box 14 Tube 77	E744	not sent	317391	Canine	urinary	Free catch urine	R	R	R	.	S	R	S	S	.	.	.	.
+Escherichia	2017	16/6/17	CM2017-0545 E. coli Box 14 Tube 78	CM2017-0545	E. coli Box 14 Tube 78	E745	not sent	317585	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	19/6/17	CM2017-0549 E. coli Box 14 Tube 79	CM2017-0549	E. coli Box 14 Tube 79	E746	not sent	109952	Canine	urinary	Free catch urine	R	R	S	.	S	R	S	S	.	.	.	.
+Escherichia	2017	22/6/17	CM2017-0561 E. coli Box 14 Tube 80	CM2017-0561	E. coli Box 14 Tube 80	E747	not sent	271011	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	26/6/17	CM2017-0573 E. coli Box 14 Tube 81	CM2017-0573	E. coli Box 14 Tube 81	E748	not sent	317718	Feline	urinary	Vaginal discharge swab + urine cysto	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	29/6/17	CM2017-0589 E. coli Box 15 Tube 1	CM2017-0589	E. coli Box 15 Tube 1	E749	not sent	294941	Canine	urinary	cysto	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	30/6/17	CM2017-0593 E. coli Box 15 Tube 2	CM2017-0593	E. coli Box 15 Tube 2	E750	not sent	89370	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	30/6/17	CM2017-0593 E. coli Box 15 Tube 3	CM2017-0593	E. coli Box 15 Tube 3	E751	not sent	89370	Feline	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	3/7/17	CM2017-0596 E. coli Box 15 Tube 4	CM2017-0596	E. coli Box 15 Tube 4	E752	not sent	255067	Ovine	skin and subcutis	Perioccular Swabs Left and Right	S	.	.	.	S	S	.	.	.	.	.	.
+Escherichia	2017	7/7/17	CM2017-0623 E. coli Box 15 Tube 5	CM2017-0623	E. coli Box 15 Tube 5	E753	not sent	275745	Feline	urinary	Cystocentesis.	R	R	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	24/7/17	CM2017-0678 E. coli Box 15 Tube 6	CM2017-0678	E. coli Box 15 Tube 6	E754	not sent	271674	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	25/7/17	CM2017-0682 E. coli Box 15 Tube 7	CM2017-0682	E. coli Box 15 Tube 7	E755	not sent	317801	Canine	urinary	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	27/7/17	"CM2017-0695 E. coli Box 15 Tube 8, 9, 10, 11"	CM2017-0695	"E. coli Box 15 Tube 8 , 9 , 10 , 11"	E756	not sent	682-17	Avian	nervous	Brain swabs from 4 birds	S	.	.	.	.	S	R	S	.	.	.	.
+Escherichia	2017	28/7/17	CM2017-0696 E. coli Box 15 Tube 12	CM2017-0696	E. coli Box 15 Tube 12	E757	not sent	318406	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	28/7/17	CM2017-0697 E. coli Box 15 Tube 13	CM2017-0697	E. coli Box 15 Tube 13	E758	not sent	318363	Feline	urinary	"Cystocentesis, Collected 26/7"	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	2/8/17	CM2017-0711 E. coli Box 15 Tube 14	CM2017-0711	E. coli Box 15 Tube 14	E759	not sent	317981	Canine	urinary	Cystocentesis.	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2017	2/8/17	CM2017-0712 E. coli Box 15 Tube 15	CM2017-0712	E. coli Box 15 Tube 15	E760	not sent	88657	Canine	urinary	Cystocentesis.	R	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	2/8/17	CM2017-0715 E. coli Box 15 Tube 16	CM2017-0715	E. coli Box 15 Tube 16	E761	not sent	318513	Canine	digestive	Faeces	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	7/8/17	CM2017-0727 E. coli Box 15 Tube 17	CM2017-0727	E. coli Box 15 Tube 17	E762	not sent	89370	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	15/8/17	CM2017-0757 E. coli Box 15 Tube 18	CM2017-0757	E. coli Box 15 Tube 18	E763	not sent	318546	Canine	urinary	Free catch urine	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2017	17/8/17	CM2017-0764 E. coli Box 15 Tube 19	CM2017-0764	E. coli Box 15 Tube 19	E764	not sent	285063	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	24/8/17	CM2017-0800 E. coli Box 15 Tube 20	CM2017-0800	E. coli Box 15 Tube 20	E765	not sent	318763	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	24/8/17	CM2017-0800 E. coli Box 15 Tube 21	CM2017-0800	E. coli Box 15 Tube 21	E766	not sent	318763	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	25/8/17	CM2017-0804 E. coli Box 15 Tube 22	CM2017-0804	E. coli Box 15 Tube 22	E767	not sent	316076	Feline	urinary	Sub port urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	28/8/17	CM2017-0807 E. coli Box 15 Tube 23	CM2017-0807	E. coli Box 15 Tube 23	E768	not sent	297457	Feline	urinary	Urine	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	28/8/17	CM2017-0810 E. coli Box 15 Tube 24	CM2017-0810	E. coli Box 15 Tube 24	E769	not sent	NA	Ovine	Systemic	Liver abscess aspirate and liver?	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	29/8/17	CM2017-0815 E. coli Box 15 Tube 25	CM2017-0815	E. coli Box 15 Tube 25	E770	not sent	318883	Equine	skin and subcutis	Swab from incision	R	.	.	S	R	R	R	R	R	.	.	S
+Escherichia	2017	30/8/17	CM2017-0820 E. coli Box 15 Tube 26	CM2017-0820	E. coli Box 15 Tube 26	E771	not sent	292704	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	30/8/17	CM2017-0822 E. coli Box 15 Tube 27	CM2017-0822	E. coli Box 15 Tube 27	E772	not sent	311110	Equine	skin and subcutis	Tissue from wound	R	.	.	R	S	R	R	R	R	.	.	S
+Escherichia	2017	31/8/17	CM2017-0823 E. coli Box 15 Tube 28	CM2017-0823	E. coli Box 15 Tube 28	E773	not sent	318645	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	6/9/17	CM2017-0843 E. coli Box 15 Tube 29	CM2017-0843	E. coli Box 15 Tube 29	E774	not sent	820-17 319214	Porcine	respiratory	Lung abscess swab from Peccary	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	8/9/17	CM2017-0857 E. coli Box 15 Tube 30	CM2017-0857	E. coli Box 15 Tube 30	E775	not sent	834-17	Avian	Systemic	"Swabs
+
+1. Liver/Pericardium/Yolk
+
+2. Yolk/Liver
+
+3. Liver
+
+4. Yolk
+
+5. Liver/Yolk"	S	.	.	.	.	R	S	R	.	.	.	.
+Escherichia	2017	8/9/17	CM2017-0858 E. coli Box 15 Tube 31	CM2017-0858	E. coli Box 15 Tube 31	E776	not sent	833-17	Avian	Systemic	"1. Pericardial swab, fresh liver
+
+2. Fresh Liver
+
+3. Liver swab
+
+4. Liver swab/Yolk sac swab
+
+5. Liver swab"	R	.	.	.	.	R	R	R	.	.	.	.
+Escherichia	2017	18/9/17	"CM2017-0874 E. coli Box 15 Tube 32, 33"	CM2017-0874	"E. coli Box 15 Tube 32 , 33"	E777	not sent	319136	Canine	digestive	"Bile, gall bladder wall and abdominal fluid swab"	R	R	S	.	S	R	R	R	S	.	.	S
+Escherichia	2017	18/9/17	CM2017-0874 E. coli Box 15 Tube 33	CM2017-0874	E. coli Box 15 Tube 33	E778	not sent	319136	Canine	digestive	"Bile, gall bladder wall and abdominal fluid swab"	.	.	.	.	.	.	.	.	.	.	.	.
+Escherichia	2017	20/9/17	CM2017-0889 E. coli Box 15 Tube 34	CM2017-0889	E. coli Box 15 Tube 34	E779	not sent	226085	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	26/9/17	CM2017-0896 E. coli Box 15 Tube 35	CM2017-0896	E. coli Box 15 Tube 35	E780	not sent	319055	Canine	urinary	Urine - cystocentesis	S	S	S	.	S	S	R	S	.	.	.	.
+Escherichia	2017	4/10/17	CM2017-0915 E. coli Box 15 Tube 36	CM2017-0915	E. coli Box 15 Tube 36	E781	not sent	319816	Canine	Systemic	Abdominal fluid and swab	R	R	S	.	S	S	S	R	.	.	.	.
+Escherichia	2017	4/10/17	CM2017-0917 E. coli Box 15 Tube 37	CM2017-0917	E. coli Box 15 Tube 37	E782	not sent	319878	Canine	respiratory	"BAL: 
+
+R mid lobe
+
+L caudal lobe"	S	S	S	.	S	R	S	R	.	.	.	.
+Escherichia	2017	5/10/17	CM2017-0921 E. coli Box 15 Tube 38	CM2017-0921	E. coli Box 15 Tube 38	E783	not sent	313996	Canine	urinary	Cystocentesis	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	13/10/17	CM2017-0953 E. coli Box 15 Tube 39	CM2017-0953	E. coli Box 15 Tube 39	E784	not sent	261249	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	18/10/17	CM2017-0966 E. coli Box 15 Tube 40	CM2017-0966	E. coli Box 15 Tube 40	E785	not sent	286174	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	18/10/17	CM2017-0970 E. coli Box 15 Tube 41	CM2017-0970	E. coli Box 15 Tube 41	E786	not sent	295220	Canine	urinary	Free catch urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	31/10/17	CM2017-1005 E. coli Box 15 Tube 42	CM2017-1005	E. coli Box 15 Tube 42	E787	not sent	319261	Canine	urinary	Catheter urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	30/10/17	CM2017-1006 E. coli Box 15 Tube 43	CM2017-1006	E. coli Box 15 Tube 43	E788	not sent	320559	Canine	digestive	Bile	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	6/11/17	CM2017-1021 E.coli Box 15 Tube 44	CM2017-1021	E. coli Box 15 Tube 44	E789	not sent	289334	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	6/11/17	CM2017-1025 E.coli Box 15 Tube 45	CM2017-1025	E. coli Box 15 Tube 45	E790	not sent	314482	Canine	skin and subcutis	Perineal wound swab	R	R	R	.	S	R	R	R	.	.	.	.
+Escherichia	2017	6/11/17	CM2017-1025 E.coli Box 15 Tube 46	CM2017-1025	E. coli Box 15 Tube 46	E791	not sent	314482	Canine	skin and subcutis	Perineal wound swab	R	R	R	.	S	S	S	S	.	.	.	.
+Escherichia	2017	10/11/17	CM2017-1054 E.coli Box 15 Tube 47	CM2017-1054	E. coli Box 15 Tube 47	E792	not sent	271640	Canine	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	10/11/17	CM2017-1049 E.coli Box 15 Tube 48	CM2017-1049	E. coli Box 15 Tube 48	E793	not sent	320924	Canine	Systemic	Peritoneal swab	R	S	S	.	S	S	S	R	.	.	.	.
+Escherichia	2017	17/11/17	CM2017-1081 E.coli Box 15 Tube 49	CM2017-1081	E. coli Box 15 Tube 49	E794	not sent	293323	Canine	skin and subcutis	Swab from wound tract - grass seed.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	27/11/17	CM2017-1107 E.coli Box 15 Tube 50	CM2017-1107	E. coli Box 15 Tube 50	E795	not sent	321205	Canine	urinary	Urine	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	1/12/17	CM2017-1127 E.coli Box 15 Tube 51	CM2017-1127	E. coli Box 15 Tube 51	E796	not sent	321495	Equine	cardiovascular	Blood culture	R	.	.	S	S	R	R	R	R	.	.	S
+Escherichia	2017	4/12/17	CM2017-1130 E.coli Box 15 Tube 52	CM2017-1130	E. coli Box 15 Tube 52	E797	not sent	283764	Feline	urinary	Cystocentesis.	S	S	S	.	S	S	S	S	.	.	.	.
+Escherichia	2017	4/12/17	CM2017-1128 E.coli Box 15 Tube 53	CM2017-1128	E. coli Box 15 Tube 53	E798	not sent	321453	Equine	musculo-skeletal	"Synovial fluid in BCB
+
+R Hind stifle
+
+Fibrin"	S	.	.	S	S	S	S	S	S	.	.	S
