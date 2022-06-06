@@ -48,7 +48,7 @@ git clone https://github.com/CJREID/MVC.git
 cd MVC
 pwd
 ```
-Open the ST127_analyis.R script in a text editor or RStudio and set the variable __`wrkdir`__ on line 23 to the output of __`pwd`__ above and save the script.
+Open the MVC_analyis.R script in a text editor or RStudio and set the variable __`wrkdir`__ on line 23 to the output of __`pwd`__ above and save the script.
 
 Run the MVC_analyis.R script and your __`outputs`__ folder will populate with figures and tables.
 
