@@ -1,5 +1,5 @@
 # Melbourne Veterinary Collection (MVC)
-Scripts to run analysis on E. coli from the Melbourne Veterinary Collection associated with the draft manuscript "Genomic and temporal trends in canine ExPEC reflect those of human ExPEC" analysing  by Elankumaran *et al*, 2022
+Scripts to run analysis on *E. coli* genomes from the Melbourne Veterinary Collection associated with the publication ["Genomic and temporal trends in canine ExPEC reflect those of human ExPEC"](https://doi.org/10.1128/spectrum.01291-22)   by Elankumaran *et al*, 2022
 
 ## Overview
 The following repository allows conscientious readers of the manuscript to reproduce all the data processing, statistics and figures presented in the paper.
